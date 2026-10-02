@@ -1,0 +1,26 @@
+Using CPLEX solver.
+Expected Studio runtime root: /home/tlu/IBM/ILOG/CPLEX_Studio222
+If this workflow becomes infeasible at the final pFBA stage, verify the Python runtime was upgraded with:
+  docplex config --upgrade /home/tlu/IBM/ILOG/CPLEX_Studio222
+Set parameter Username
+Set parameter LicenseID to value 2842292
+Academic license - for non-commercial use only - expires 2027-07-07
+Building ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:00:05
+optimal solution: 7.485093086379253
+---------
+Tradeoff-value: 1.0
+Community objective: 7.484244577072414
+pFBA solution (total flux): 1099.2313169249226
+---------
+{
+  "manifest_name": "fungus_alone__raven_independent",
+  "medium_name": "full",
+  "medium_label": "phosphate_bound_30",
+  "member_count": 1,
+  "fraction": 1.0,
+  "medium_rows": 55,
+  "manifest_csv": "/home/tlu/Desktop/Jorge/VS CODE/community_model_comparison_package/manifests/fungus_alone__raven_independent.csv",
+  "medium_csv": "/home/tlu/Desktop/Jorge/VS CODE/community_model_comparison_package/media/sensitivity_panel/phosphate_bound_30.csv",
+  "package_root": "/home/tlu/Desktop/Jorge/VS CODE/community_model_comparison_package",
+  "result_dir": "/home/tlu/Desktop/Jorge/VS CODE/community_model_comparison_package/reports/116_raven_phosphate_gradient_micom/fungus_alone__raven_independent/phosphate_bound_30"
+}

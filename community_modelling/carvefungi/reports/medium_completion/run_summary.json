@@ -1,0 +1,57 @@
+{
+  "created": "2026-09-28T14:32:50",
+  "growth_target": 1.0,
+  "max_import": 100.0,
+  "minimize_components": true,
+  "reports": [
+    {
+      "model_key": "fusarium_52_biomass",
+      "model_path": "/home/tlu/Desktop/Jorge/VS CODE/community_model_comparison_package/fungal_models/biomass_variant_panel/Fusarium_graminearum_carvefungi_52biomass.xml",
+      "model_sha256": "db748bd55d791f8ddf901b3afa87a29e3611f2dec6d134141e61bba4782088b8",
+      "objective_reactions": [
+        "BIOMASS_FUSARIUM_DIRECT_HARMONIZED_CF"
+      ],
+      "growth_target": 1.0,
+      "max_import_for_added_components": 100.0,
+      "minimize_components": true,
+      "base_medium_rows": 37,
+      "base_growth_status": "optimal",
+      "base_growth": 0.0,
+      "completed_medium_rows": 44,
+      "added_component_count": 7,
+      "completed_growth_status": "optimal",
+      "completed_growth": 1.0000000000001237,
+      "added_component_ids": [
+        "UF02766_E",
+        "UF03012_E",
+        "UF03013_E",
+        "UF03044_E",
+        "UF03214_E",
+        "UF03218_E",
+        "UF03234_E"
+      ],
+      "out_dir": "/home/tlu/Desktop/Jorge/VS CODE/community_model_comparison_package/reports/115_fusarium_base_medium_completion_min_growth1/fusarium_52_biomass"
+    },
+    {
+      "model_key": "fusarium_specific_biomass",
+      "model_path": "/home/tlu/Desktop/Jorge/VS CODE/community_model_comparison_package/fungal_models/biomass_variant_panel/Fusarium_graminearum_carvefungi_fujikuroi_biomass.xml",
+      "model_sha256": "bab2b4757e9779df8830f823bf34e35d4720554fa77d017a721f3d29b7b68c1a",
+      "objective_reactions": [
+        "BIOMASS_FUSARIUM_FUJIKUROI_HARMONIZED"
+      ],
+      "growth_target": 1.0,
+      "max_import_for_added_components": 100.0,
+      "minimize_components": true,
+      "base_medium_rows": 37,
+      "base_growth_status": "optimal",
+      "base_growth": 0.0,
+      "completed_medium_rows": null,
+      "added_component_count": null,
+      "completed_growth_status": "medium_completion_failed",
+      "completed_growth": null,
+      "added_component_ids": [],
+      "error": "Could not find a solution that completes the medium :(",
+      "out_dir": "/home/tlu/Desktop/Jorge/VS CODE/community_model_comparison_package/reports/115_fusarium_base_medium_completion_min_growth1/fusarium_specific_biomass"
+    }
+  ]
+}

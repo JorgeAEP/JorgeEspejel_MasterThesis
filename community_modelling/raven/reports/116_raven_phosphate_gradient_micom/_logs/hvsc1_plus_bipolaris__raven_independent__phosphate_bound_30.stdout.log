@@ -1,0 +1,26 @@
+Using CPLEX solver.
+Expected Studio runtime root: /home/tlu/IBM/ILOG/CPLEX_Studio222
+If this workflow becomes infeasible at the final pFBA stage, verify the Python runtime was upgraded with:
+  docplex config --upgrade /home/tlu/IBM/ILOG/CPLEX_Studio222
+Set parameter Username
+Set parameter LicenseID to value 2842292
+Academic license - for non-commercial use only - expires 2027-07-07
+Building ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:03:51
+optimal solution: 8.877185733693336
+---------
+Tradeoff-value: 1.0
+Community objective: 8.876204919338676
+pFBA solution (total flux): 275963.9019504886
+---------
+{
+  "manifest_name": "hvsc1_plus_bipolaris__raven_independent",
+  "medium_name": "full",
+  "medium_label": "phosphate_bound_30",
+  "member_count": 28,
+  "fraction": 1.0,
+  "medium_rows": 55,
+  "manifest_csv": "/home/tlu/Desktop/Jorge/VS CODE/community_model_comparison_package/manifests/hvsc1_plus_bipolaris__raven_independent.csv",
+  "medium_csv": "/home/tlu/Desktop/Jorge/VS CODE/community_model_comparison_package/media/sensitivity_panel/phosphate_bound_30.csv",
+  "package_root": "/home/tlu/Desktop/Jorge/VS CODE/community_model_comparison_package",
+  "result_dir": "/home/tlu/Desktop/Jorge/VS CODE/community_model_comparison_package/reports/116_raven_phosphate_gradient_micom/hvsc1_plus_bipolaris__raven_independent/phosphate_bound_30"
+}

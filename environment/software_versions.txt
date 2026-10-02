@@ -1,0 +1,20 @@
+Recorded environment for the final archive
+
+Python: 3.10.12
+COBRApy: 0.32.1
+MICOM: 0.39.1
+python-libSBML: 5.21.1
+optlang: 1.9.1
+NumPy: 1.26.4
+SciPy: 1.15.3
+pandas: 2.3.3
+openpyxl: 3.1.5
+matplotlib: 3.10.9
+swiglpk: 5.0.13
+CPLEX Python API: 22.2.0.1
+Gurobi Python API: 13.0.2
+
+CarveFungi, eggNOG-mapper and PSIPRED are external workflow dependencies.
+Their local runtime trees are intentionally not copied because they comprise
+third-party software and large reference databases. The archived construction
+scripts record the expected command interfaces and inputs.

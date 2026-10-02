@@ -1,0 +1,9 @@
+run_id,syncom,fungus_context,fungal_recipient,fungal_uptake_metabolites,bacterial_uptake_metabolites,shared_uptake_metabolites,fungal_bacterial_cosine,shared_min_uptake_flux,shared_fraction_of_fungal_uptake,bacterial_members_co_consuming,shared_pool_compatible_nonmedium_pairs,shared_pool_compatible_nonmedium_metabolites,bacterial_candidate_donors,potential_bacterial_supply_coverage_of_fungal_uptake
+hvsc1_plus_bipolaris_carvefungi_52__proline_relaxed_1,HvSC1,Bs,B. sorokiniana,53,125,30,0.3818532419469463,1409.2708270395897,0.5722807674047873,27,17,5,14,0.08841568811559704
+hvsc1_plus_fungi_pair__carvefungi_52__proline_relaxed_1,HvSC1,Bs+Fg,B. sorokiniana,72,125,32,0.33407155541993827,1293.1567240513193,0.43658039495719003,27,18,5,15,0.07716873396499566
+hvsc2_plus_bipolaris_carvefungi_52__proline_relaxed_1,HvSC2,Bs,B. sorokiniana,51,145,28,0.41083247192303307,1365.3256288418868,0.604249607842073,26,16,3,14,0.0918483370143514
+hvsc2_plus_fungi_pair__carvefungi_52__proline_relaxed_1,HvSC2,Bs+Fg,B. sorokiniana,98,340,31,0.35924448245513574,1307.4985005518115,0.44219971767166394,26,23,4,18,0.07028544477929993
+hvsc1_plus_fungi_pair__carvefungi_52__proline_relaxed_1,HvSC1,Bs+Fg,F. graminearum,69,125,30,0.44698056273673753,1188.09565065681,0.5077607025681092,27,18,4,15,0.0479411329679915
+hvsc1_plus_fusarium_carvefungi_52__proline_relaxed_1,HvSC1,Fg,F. graminearum,123,324,31,0.4748328515334062,1100.2669981778,0.6890561984170527,27,33,8,23,0.13744783296969165
+hvsc2_plus_fungi_pair__carvefungi_52__proline_relaxed_1,HvSC2,Bs+Fg,F. graminearum,87,340,33,0.4888727747422894,1183.0282356499133,0.5520750844024179,26,26,4,19,0.0694105072674979
+hvsc2_plus_fusarium_carvefungi_52__proline_relaxed_1,HvSC2,Fg,F. graminearum,52,141,29,0.4485391155008962,1052.395713272758,0.7560091950982364,26,30,7,18,0.14794273081046264

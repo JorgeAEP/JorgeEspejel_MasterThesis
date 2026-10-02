@@ -1,0 +1,17 @@
+script_id	approach	archive_path	role	primary_inputs	outputs_or_scope
+RAVEN-308	RAVEN	models/raven/scripts/308_apply_step88_remove_disconnected_bh4_pair.py	Final curation	Step-87 RAVEN model	Step-88 curated model and validation records
+CF-B-02	CarveFungi	models/carvefungi/bipolaris/scripts/02_run_bipolaris_carvefungi_workflow.py	Reconstruction	Bipolaris protein FASTA and external annotation/localisation tools	Native Bipolaris CarveFungi SBML
+CF-B-74	CarveFungi	models/carvefungi/bipolaris/scripts/74_create_after_stoichiometry_correction_model_for_real_memote.py	Final curation	Native Bipolaris model and Scripts 67/73	Corrected Bipolaris SBML/JSON and validation
+CF-F-03	CarveFungi	models/carvefungi/fusarium/scripts/03_run_fusarium_carvefungi_workflow.py	Reconstruction	Fusarium protein FASTA and external annotation/localisation tools	Native Fusarium CarveFungi SBML
+CF-F-22	CarveFungi	models/carvefungi/fusarium/scripts/22_create_corrected_fusarium_model_and_prepare_real_memote.py	Final curation	Native Fusarium model and Scripts 15/21	Corrected Fusarium SBML/JSON and validation
+MICOM-116	RAVEN	community_modelling/raven/scripts/116_run_raven_phosphate_gradient_micom.py	Phosphate-gradient community simulation	Curated RAVEN model; manifests; sensitivity media	RAVEN fungal/community growth and phosphate-allocation outputs
+MICOM-85-87	CarveFungi	community_modelling/carvefungi/scripts/85_prepare_core_analysis_manifests.py	Main community preparation	Curated fungal and bacterial models; manifests	Prepared core layouts
+MICOM-86-87	CarveFungi	community_modelling/carvefungi/scripts/86_run_core_micom_panel.py	Core MICOM panel	Prepared layouts; medium; MICOM settings	Community growth and flux exports
+MICOM-94-95	CarveFungi	community_modelling/carvefungi/scripts/95_run_dual_fungi_biomass_variant_micom_panel.py	Biomass/trade-off sensitivity	Species-specific biomass; support medium; manifests	Sensitivity output panel
+MICOM-96-97	CarveFungi	community_modelling/carvefungi/scripts/96_run_fungal_species_syncom_factorial_panel.py	Main fungal-species x SynCom panel	Community-ready fungal models; bacterial models; common medium	Shared-biomass and specific-biomass MICOM outputs
+POST-103	CarveFungi	community_modelling/carvefungi/scripts/103_organize_exchange_interpretation_tables.py	Exchange summary	Existing MICOM flux exports	Organised exchange and candidate interaction tables
+POST-118	CarveFungi	community_modelling/carvefungi/scripts/118_check_shared52_biomass_precursor_producibility.py	Precursor capacity	Fungal models; shared biomass; common medium	Precursor producibility/capacity records
+POST-119-120-126	CarveFungi	community_modelling/carvefungi/scripts/126_audit_shared52_proline_pathways.py	Proline audit	Fungal models and existing MICOM outputs	Capacity, pathway and exchange audit tables
+POST-121-123	CarveFungi	community_modelling/carvefungi/scripts/121_screen_member_level_donor_recipient_interactions.py	Niche overlap/exchange screening	Existing MICOM flux exports and identifier mappings	Member-level interaction candidates
+POST-128	CarveFungi	community_modelling/carvefungi/scripts/128_screen_candidate_strain_fungal_overlap.py	Targeted strain-397 screen	Existing HvSC2 MICOM outputs	Strain-397 fungal niche-overlap table
+POST-133-137	CarveFungi	community_modelling/carvefungi/scripts/133_audit_fungal_bacterial_exchange_identifier_coverage.py	Exchange harmonisation and candidate classification	Existing MICOM flux exports and curated crosswalks	Identifier coverage, candidate classification and figures

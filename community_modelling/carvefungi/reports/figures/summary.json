@@ -1,0 +1,6 @@
+{
+  "source": "/home/tlu/Desktop/Jorge/VS CODE/community_model_comparison_package/reports/134_exchange_candidate_classification/05_shared_pool_compatible_nonmedium_candidates.csv",
+  "candidate_metabolites": 13,
+  "fungal_recipient_contexts": 8,
+  "interpretation": "Bubble area is the smaller of total bacterial secretion and fungal uptake for non-medium, shared-pool-compatible candidate metabolites. It does not prove direct transfer."
+}

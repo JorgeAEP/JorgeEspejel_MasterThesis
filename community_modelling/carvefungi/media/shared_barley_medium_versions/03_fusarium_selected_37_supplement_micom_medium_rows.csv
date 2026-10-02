@@ -1,0 +1,38 @@
+reaction,flux,source,source_model_exchange,metabolite_id,metabolite_name,formula,selection_reason
+EX_ala_B_m,100.0,fusarium_selected_37_supplement,UF02535_E,ala_B_e,beta-alanine zwitterion,C3H7NO2,amino_acids
+EX_argL_m,100.0,fusarium_selected_37_supplement,UF02548_E,argL_e,L-argininium,C6H15N4O2,amino_acids
+EX_cysL_m,100.0,fusarium_selected_37_supplement,UF02585_E,cysL_e,L-cysteine zwitterion,C3H7NO2S,amino_acids
+EX_glnL_m,100.0,fusarium_selected_37_supplement,UF02644_E,glnL_e,L-glutamine zwitterion,C5H10N2O3,amino_acids
+EX_glyb_m,100.0,fusarium_selected_37_supplement,UF02647_E,glyb_e,glycine betaine,C5H11NO2,amino_acids
+EX_homL_m,100.0,fusarium_selected_37_supplement,UF02669_E,homL_e,L-homoserine zwitterion,C4H9NO3,amino_acids
+EX_pheL_m,100.0,fusarium_selected_37_supplement,UF02761_E,pheL_e,L-phenylalanine zwitterion,C9H11NO2,amino_acids
+EX_pntoR_m,100.0,fusarium_selected_37_supplement,UF02766_E,pntoR_e,(R)-pantothenate,C9H16NO5,vitamins_cofactors
+EX_pydam_m,100.0,fusarium_selected_37_supplement,UF02773_E,pydam_e,pyridoxaminium(1+),C8H13N2O2,vitamins_cofactors
+EX_pydx_m,100.0,fusarium_selected_37_supplement,UF02774_E,pydx_e,pyridoxal,C8H9NO3,vitamins_cofactors
+EX_pydxn_m,100.0,fusarium_selected_37_supplement,UF02775_E,pydxn_e,pyridoxine,C8H11NO3,vitamins_cofactors
+EX_9Zhxda_m,100.0,fusarium_selected_37_supplement,UF02972_E,9Zhxda_e,(9Z)-hexadecenoate,C16H29O2 ,lipids_fatty_acids_sterols
+EX_9Zocda_m,100.0,fusarium_selected_37_supplement,UF02973_E,9Zocda_e,(9Z)-oleate,C18H34O2,lipids_fatty_acids_sterols
+EX_hxda_m,100.0,fusarium_selected_37_supplement,UF02978_E,hxda_e,palmitate,C16H31O2,lipids_fatty_acids_sterols
+EX_9Ztda_m,100.0,fusarium_selected_37_supplement,UF02979_E,9Ztda_e,(9Z)-myristoleate,C14H25O2,lipids_fatty_acids_sterols
+EX_ocda_m,100.0,fusarium_selected_37_supplement,UF02980_E,ocda_e,stearate,C18H34O2,lipids_fatty_acids_sterols
+EX_9Z12Zlnlc_m,100.0,fusarium_selected_37_supplement,UF02981_E,9Z12Zlnlc_e,"(9Z,12Z)-linoleate",C18H31O2 ,lipids_fatty_acids_sterols
+EX_tda_m,100.0,fusarium_selected_37_supplement,UF02982_E,tda_e,tetradecanoate,C14H27O2,lipids_fatty_acids_sterols
+EX_9Z12Z15Zlnlncg_m,100.0,fusarium_selected_37_supplement,UF02986_E,9Z12Z15Zlnlncg_e,"(9Z,12Z,15Z)-alpha-linolenate",C18H30O2 ,lipids_fatty_acids_sterols
+EX_btn_m,100.0,fusarium_selected_37_supplement,UF02997_E,btn_e,biotinate,C10H15N2O3S,vitamins_cofactors
+EX_metL_m,100.0,fusarium_selected_37_supplement,UF02999_E,metL_e,L-methionine zwitterion,C5H11NO2S,amino_acids
+EX_epist_m,100.0,fusarium_selected_37_supplement,UF03006_E,epist_e,9xi-episterol,C28H46O,lipids_fatty_acids_sterols
+EX_lanost_m,100.0,fusarium_selected_37_supplement,UF03008_E,lanost_e,lanosterol,C30H50O,lipids_fatty_acids_sterols
+EX_ergester_m,100.0,fusarium_selected_37_supplement,UF03012_E,ergester_e,ergosterol ester,C29H43O2R,lipids_fatty_acids_sterols
+EX_epiester_m,100.0,fusarium_selected_37_supplement,UF03013_E,epiester_e,episterol ester,C29H45O2R,lipids_fatty_acids_sterols
+EX_lanoester_m,100.0,fusarium_selected_37_supplement,UF03015_E,lanoester_e,lanosterol ester,C31H49O2R,lipids_fatty_acids_sterols
+EX_sheme_m,100.0,fusarium_selected_37_supplement,UF03017_E,sheme_e,siroheme(8-),C42H36FeN4O16,vitamins_cofactors
+EX_guaiacol_m,100.0,fusarium_selected_37_supplement,UF03044_E,guaiacol_e,guaiacol,C7H8O2,single_guaiacol_rescue_trigger
+EX_alaD_m,100.0,fusarium_selected_37_supplement,UF03045_E,alaD_e,D-alanine zwitterion,C3H7NO2,amino_acids
+EX_amet_m,100.0,fusarium_selected_37_supplement,UF03190_E,amet_e,S-adenosyl-L-methionine zwitterion,C15H23N6O5S,amino_acids
+EX_cholestester_m,100.0,fusarium_selected_37_supplement,UF03214_E,cholestester_e,cholesterol ester,C28H45O2R,lipids_fatty_acids_sterols
+EX_cholest_m,100.0,fusarium_selected_37_supplement,UF03215_E,cholest_e,cholesterol,C27H46O,lipids_fatty_acids_sterols
+EX_citrL_m,100.0,fusarium_selected_37_supplement,UF03218_E,citrL_e,L-citrulline zwitterion,C6H13N3O3,amino_acids
+EX_dmgly_m,100.0,fusarium_selected_37_supplement,UF03249_E,dmgly_e,"N,N-dimethylglycine zwitterion",C4H9NO2,amino_acids
+EX_hpglu_m,100.0,fusarium_selected_37_supplement,UF03401_E,hpglu_e,tetrahydropteroyltri-L-glutamate(4-),C29H33N9O12,amino_acids
+EX_zymst_m,100.0,fusarium_selected_37_supplement,UF03507_E,zymst_e,zymosterol,C27H44O,lipids_fatty_acids_sterols
+EX_acglu_m,100.0,fusarium_selected_37_supplement,UF03533_E,acglu_e,N-acetyl-L-glutamate(2-),C7H9NO5,amino_acids

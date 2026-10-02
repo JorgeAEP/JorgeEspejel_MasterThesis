@@ -1,0 +1,4 @@
+interpretation_class,interface_evidence,candidate_pairs,chemical_keys,runs
+currency_or_boundary,chemical_crosswalk_only,136,2,6
+medium_associated,chemical_crosswalk_only,235,11,6
+nonmedium_candidate,same_external_metabolite_identifier,188,14,6

@@ -1,0 +1,17 @@
+{
+  "package_root": "/home/tlu/Desktop/Jorge/VS CODE/community_model_comparison_package",
+  "report_root": "/home/tlu/Desktop/Jorge/VS CODE/community_model_comparison_package/reports/116_raven_phosphate_gradient_micom",
+  "solver": "cplex",
+  "fraction": 1.0,
+  "manifests": [
+    "hvsc1_plus_bipolaris__raven_independent",
+    "hvsc2_plus_bipolaris__raven_independent"
+  ],
+  "scenarios": [
+    "phosphate_bound_3"
+  ],
+  "job_count": 2,
+  "failed_jobs": 0,
+  "all_jobs_ok": true,
+  "finished": "2026-09-29T10:06:32"
+}

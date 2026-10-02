@@ -1,0 +1,5 @@
+donor_role,recipient_role,candidate_pairs,unique_metabolites
+bacteria,bacteria,11683,118
+bacteria,fungus,559,27
+fungus,bacteria,991,36
+fungus,fungus,160,76

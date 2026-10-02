@@ -1,0 +1,5 @@
+{
+  "contexts": 8,
+  "flux_threshold": 0.0001,
+  "note": "Co-uptake metrics describe resource-use overlap. Supply-coverage metrics describe the fraction of fungal uptake on non-medium, shared-pool-compatible candidate metabolites that could be covered by total bacterial secretion in the same solution; they do not prove transfer or competition."
+}

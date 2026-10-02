@@ -1,0 +1,5 @@
+kegg,name,internal_metabolite,internal_name,external_metabolite,transport_reaction,exchange_reaction,formula,charge,reason,step88_exchange,step88_flux
+C00417,cis-aconitate,acon_C_c,cis-aconitate(3-),C00417_e,CFI_TR_C00417_c_e,EX_C00417_e,C6H3O6,-3,barley_fungal_medium_parity,EX_C00417_m,0.1
+C00483,tyramine,tym_c,tyraminium(1+),C00483_e,CFI_TR_C00483_c_e,EX_C00483_e,C8H12NO,1,barley_fungal_medium_parity,EX_C00483_m,10.0
+C00493,shikimate,skm_c,shikimate,C00493_e,CFI_TR_C00493_c_e,EX_C00493_e,C7H10O5,0,barley_fungal_medium_parity,EX_C00493_m,0.1
+C00043,UDP-N-acetyl-D-glucosamine,uacgam_c,UDP-N-acetyl-alpha-D-glucosamine(2-),C00043_e,CFI_TR_C00043_c_e,EX_C00043_e,C17H25N3O17P2,-2,strict_community_interface_parity_exact_candidate,EX_C00043_m,0.1

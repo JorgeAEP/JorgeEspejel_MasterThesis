@@ -1,0 +1,441 @@
+scenario,step88_community_exchange,kegg,step88_flux,mapping_status,carvefungi_exchange,carvefungi_exchange_name,carvefungi_metabolite,carvefungi_metabolite_name,carvefungi_metabolite_formula,carvefungi_metabolite_charge,carvefungi_exchange_lb,carvefungi_exchange_ub
+full,EX_C00001_m,C00001,1000.0,matched,UF03314_E,water exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,h2o_e,water,H2O,0,-1000.0,1000.0
+full,EX_C00007_m,C00007,1000.0,matched,UF03382_E,dioxygen exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,o2_e,dioxygen,O2,0,-1000.0,1000.0
+full,EX_C00009_m,C00009,1000.0,matched,UF02765_E,hydrogenphosphate exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,pi_e,hydrogenphosphate,HPO4,-2,-1000.0,1000.0
+full,EX_C00014_m,C00014,1000.0,matched,UF03376_E,Ammonium exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,nh4_e,ammonium,NH4,1,-1000.0,1000.0
+full,EX_C00025_m,C00025,10.0,matched,UF03292_E,L-glutamate(1-) exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,gluL_e,L-glutamate,C5H8NO4,-1,0.0,1000.0
+full,EX_C00031_m,C00031,10.0,matched,UF03288_E,D-glucose exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,glcD_e,alpha-D-glucose,C6H12O6,0,-10.0,1000.0
+full,EX_C00037_m,C00037,10.0,matched,UF03304_E,glycine zwitterion exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,gly_e,glycine zwitterion,C2H5NO2,0,0.0,1000.0
+full,EX_C00041_m,C00041,10.0,matched,UF03176_E,L-alanine zwitterion exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,alaL_e,L-alanine zwitterion,C3H7NO2,0,0.0,1000.0
+full,EX_C00042_m,C00042,10.0,matched,UF02804_E,succinate(2-) exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,succ_e,succinate(2-),C4H4O4,-2,0.0,1000.0
+full,EX_C00043_m,C00043,0.1,unmatched,,,,,,,,
+full,EX_C00049_m,C00049,10.0,matched,UF02552_E,L-aspartate(1-) exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,aspL_e,L-aspartate,C4H6NO4,-1,0.0,1000.0
+full,EX_C00059_m,C00059,1000.0,matched,UF03456_E,Sulfate exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,so4_e,sulfate,SO4,-2,-1000.0,1000.0
+full,EX_C00065_m,C00065,10.0,matched,UF03454_E,L-serine zwitterion exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,serL_e,L-serine zwitterion,C3H7NO3,0,0.0,1000.0
+full,EX_C00080_m,C00080,1000.0,matched,UF03474_E,hydrogen exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,h_e,H+,H,1,-1000.0,1000.0
+full,EX_C00082_m,C00082,0.1,matched,UF02826_E,L-tyrosine zwitterion exchange_0_1_1_0_1_0_1_1_0_1_0_1_1_0_1_0_1_1_0_1_0_1_1_0_1,tyrL_e,L-tyrosine zwitterion,C9H11NO3,0,0.0,1000.0
+full,EX_C00089_m,C00089,0.1,matched,UF03468_E,Sucrose exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,sucr_e,sucrose,C12H22O11,0,0.0,1000.0
+full,EX_C00095_m,C00095,10.0,matched,UF03275_E,D-Fructose exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,fru_e,D-fructose,C6H12O6,0,0.0,1000.0
+full,EX_C00116_m,C00116,10.0,matched,UF03302_E,Glycerol exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,glyc_e,glycerol,C3H8O3,0,0.0,1000.0
+full,EX_C00122_m,C00122,10.0,matched,UF02628_E,fumarate(2-) exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,fum_e,fumarate(2-),C4H2O4,-2,0.0,1000.0
+full,EX_C00123_m,C00123,10.0,matched,UF03351_E,L-leucine zwitterion exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,leuL_e,L-leucine zwitterion,C6H13NO2,0,0.0,1000.0
+full,EX_C00148_m,C00148,0.1,matched,UF03424_E,L-proline zwitterion exchange_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1,proL_e,L-proline zwitterion,C5H9NO2,0,0.0,1000.0
+full,EX_C00149_m,C00149,10.0,matched,UF03510_E,(S)-malate exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,malL_e,(S)-malate,C4H4O5,-2,0.0,1000.0
+full,EX_C00152_m,C00152,0.1,matched,UF02550_E,L-asparagine zwitterion exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,asnL_e,L-asparagine zwitterion,C4H8N2O3,0,0.0,1000.0
+full,EX_C00158_m,C00158,10.0,matched,UF02577_E,citrate(3-) exchange_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1,cit_e,citrate(3-),C6H5O7,-3,0.0,1000.0
+full,EX_C00183_m,C00183,10.0,matched,UF03496_E,L-valine zwitterion exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,valL_e,L-valine zwitterion,C5H11NO2,0,0.0,1000.0
+full,EX_C00188_m,C00188,0.1,matched,UF03479_E,L-threonine zwitterion exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,thrL_e,L-threonine zwitterion,C4H9NO3,0,0.0,1000.0
+full,EX_C00208_m,C00208,10.0,matched,UF02707_E,Maltose exchange_0_1_1_0_1_0_1_1_0_1_0_1_1_0_1_0_1_1_0_1_0_1_1_0_1,malt_e,maltose,C12H22O11,0,0.0,1000.0
+full,EX_C00255_m,C00255,10.0,matched,UF02786_E,riboflavin(1-) exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,ribflv_e,riboflavin(1-),C17H19N4O6,-1,0.0,1000.0
+full,EX_C00296_m,C00296,10.0,matched,UF03433_E,(-)-quinate exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,quin_e,(-)-quinate,C7H11O6,-1,0.0,1000.0
+full,EX_C00334_m,C00334,10.0,matched,UF03137_E,4-aminobutanoate exchange_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1,4abut_e,4-aminobutanoate,C4H8NO2,-1,0.0,1000.0
+full,EX_C00378_m,C00378,10.0,matched,UF03477_E,thiamine(1+) exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,thm_e,thiamine(1+),C12H17N4OS,1,0.0,1000.0
+full,EX_C00407_m,C00407,10.0,matched,UF03339_E,L-isoleucine zwitterion exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,ileL_e,L-isoleucine zwitterion,C6H13NO2,0,0.0,1000.0
+full,EX_C00417_m,C00417,0.1,unmatched,,,,,,,,
+full,EX_C00483_m,C00483,10.0,unmatched,,,,,,,,
+full,EX_C00493_m,C00493,0.1,unmatched,,,,,,,,
+full,EX_C00504_m,C00504,10.0,matched,UF03032_E,folate exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,fol_e,folate(2-),C19H17N7O6,-2,0.0,1000.0
+full,EX_C06232_m,C06232,1000.0,unmatched,,,,,,,,
+full,EX_C14818_m,C14818,1000.0,matched,UF03268_E,iron(2+) exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,fe2_e,iron(2+),Fe,2,-1000.0,1000.0
+full,EX_C14819_m,C14819,1000.0,unmatched,,,,,,,,
+full,EX_R_3httdca_m,,0.1,unmatched,,,,,,,,
+full,EX_acgam1p_m,,0.1,unmatched,,,,,,,,
+full,EX_acmana_m,,0.1,unmatched,,,,,,,,
+full,EX_ca2_m,,1000.0,unmatched,,,,,,,,
+full,EX_cl_m,,1000.0,unmatched,,,,,,,,
+full,EX_cobalt2_m,,1000.0,unmatched,,,,,,,,
+full,EX_cu2_m,,1000.0,unmatched,,,,,,,,
+full,EX_dachi_m,,0.1,unmatched,,,,,,,,
+full,EX_gly_asn__L_m,,10.0,unmatched,,,,,,,,
+full,EX_glygln_m,,10.0,unmatched,,,,,,,,
+full,EX_k_m,,1000.0,unmatched,,,,,,,,
+full,EX_mg2_m,,1000.0,unmatched,,,,,,,,
+full,EX_mn2_m,,1000.0,unmatched,,,,,,,,
+full,EX_na1_m,,1000.0,unmatched,,,,,,,,
+full,EX_ni2_m,,1000.0,unmatched,,,,,,,,
+full,EX_zn2_m,,1000.0,unmatched,,,,,,,,
+minus_folate,EX_C00001_m,C00001,1000.0,matched,UF03314_E,water exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,h2o_e,water,H2O,0,-1000.0,1000.0
+minus_folate,EX_C00007_m,C00007,1000.0,matched,UF03382_E,dioxygen exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,o2_e,dioxygen,O2,0,-1000.0,1000.0
+minus_folate,EX_C00009_m,C00009,1000.0,matched,UF02765_E,hydrogenphosphate exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,pi_e,hydrogenphosphate,HPO4,-2,-1000.0,1000.0
+minus_folate,EX_C00014_m,C00014,1000.0,matched,UF03376_E,Ammonium exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,nh4_e,ammonium,NH4,1,-1000.0,1000.0
+minus_folate,EX_C00025_m,C00025,10.0,matched,UF03292_E,L-glutamate(1-) exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,gluL_e,L-glutamate,C5H8NO4,-1,0.0,1000.0
+minus_folate,EX_C00031_m,C00031,10.0,matched,UF03288_E,D-glucose exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,glcD_e,alpha-D-glucose,C6H12O6,0,-10.0,1000.0
+minus_folate,EX_C00037_m,C00037,10.0,matched,UF03304_E,glycine zwitterion exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,gly_e,glycine zwitterion,C2H5NO2,0,0.0,1000.0
+minus_folate,EX_C00041_m,C00041,10.0,matched,UF03176_E,L-alanine zwitterion exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,alaL_e,L-alanine zwitterion,C3H7NO2,0,0.0,1000.0
+minus_folate,EX_C00042_m,C00042,10.0,matched,UF02804_E,succinate(2-) exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,succ_e,succinate(2-),C4H4O4,-2,0.0,1000.0
+minus_folate,EX_C00043_m,C00043,0.1,unmatched,,,,,,,,
+minus_folate,EX_C00049_m,C00049,10.0,matched,UF02552_E,L-aspartate(1-) exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,aspL_e,L-aspartate,C4H6NO4,-1,0.0,1000.0
+minus_folate,EX_C00059_m,C00059,1000.0,matched,UF03456_E,Sulfate exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,so4_e,sulfate,SO4,-2,-1000.0,1000.0
+minus_folate,EX_C00065_m,C00065,10.0,matched,UF03454_E,L-serine zwitterion exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,serL_e,L-serine zwitterion,C3H7NO3,0,0.0,1000.0
+minus_folate,EX_C00080_m,C00080,1000.0,matched,UF03474_E,hydrogen exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,h_e,H+,H,1,-1000.0,1000.0
+minus_folate,EX_C00082_m,C00082,0.1,matched,UF02826_E,L-tyrosine zwitterion exchange_0_1_1_0_1_0_1_1_0_1_0_1_1_0_1_0_1_1_0_1_0_1_1_0_1,tyrL_e,L-tyrosine zwitterion,C9H11NO3,0,0.0,1000.0
+minus_folate,EX_C00089_m,C00089,0.1,matched,UF03468_E,Sucrose exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,sucr_e,sucrose,C12H22O11,0,0.0,1000.0
+minus_folate,EX_C00095_m,C00095,10.0,matched,UF03275_E,D-Fructose exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,fru_e,D-fructose,C6H12O6,0,0.0,1000.0
+minus_folate,EX_C00116_m,C00116,10.0,matched,UF03302_E,Glycerol exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,glyc_e,glycerol,C3H8O3,0,0.0,1000.0
+minus_folate,EX_C00122_m,C00122,10.0,matched,UF02628_E,fumarate(2-) exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,fum_e,fumarate(2-),C4H2O4,-2,0.0,1000.0
+minus_folate,EX_C00123_m,C00123,10.0,matched,UF03351_E,L-leucine zwitterion exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,leuL_e,L-leucine zwitterion,C6H13NO2,0,0.0,1000.0
+minus_folate,EX_C00148_m,C00148,0.1,matched,UF03424_E,L-proline zwitterion exchange_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1,proL_e,L-proline zwitterion,C5H9NO2,0,0.0,1000.0
+minus_folate,EX_C00149_m,C00149,10.0,matched,UF03510_E,(S)-malate exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,malL_e,(S)-malate,C4H4O5,-2,0.0,1000.0
+minus_folate,EX_C00152_m,C00152,0.1,matched,UF02550_E,L-asparagine zwitterion exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,asnL_e,L-asparagine zwitterion,C4H8N2O3,0,0.0,1000.0
+minus_folate,EX_C00158_m,C00158,10.0,matched,UF02577_E,citrate(3-) exchange_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1,cit_e,citrate(3-),C6H5O7,-3,0.0,1000.0
+minus_folate,EX_C00183_m,C00183,10.0,matched,UF03496_E,L-valine zwitterion exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,valL_e,L-valine zwitterion,C5H11NO2,0,0.0,1000.0
+minus_folate,EX_C00188_m,C00188,0.1,matched,UF03479_E,L-threonine zwitterion exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,thrL_e,L-threonine zwitterion,C4H9NO3,0,0.0,1000.0
+minus_folate,EX_C00208_m,C00208,10.0,matched,UF02707_E,Maltose exchange_0_1_1_0_1_0_1_1_0_1_0_1_1_0_1_0_1_1_0_1_0_1_1_0_1,malt_e,maltose,C12H22O11,0,0.0,1000.0
+minus_folate,EX_C00255_m,C00255,10.0,matched,UF02786_E,riboflavin(1-) exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,ribflv_e,riboflavin(1-),C17H19N4O6,-1,0.0,1000.0
+minus_folate,EX_C00296_m,C00296,10.0,matched,UF03433_E,(-)-quinate exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,quin_e,(-)-quinate,C7H11O6,-1,0.0,1000.0
+minus_folate,EX_C00334_m,C00334,10.0,matched,UF03137_E,4-aminobutanoate exchange_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1,4abut_e,4-aminobutanoate,C4H8NO2,-1,0.0,1000.0
+minus_folate,EX_C00378_m,C00378,10.0,matched,UF03477_E,thiamine(1+) exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,thm_e,thiamine(1+),C12H17N4OS,1,0.0,1000.0
+minus_folate,EX_C00407_m,C00407,10.0,matched,UF03339_E,L-isoleucine zwitterion exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,ileL_e,L-isoleucine zwitterion,C6H13NO2,0,0.0,1000.0
+minus_folate,EX_C00417_m,C00417,0.1,unmatched,,,,,,,,
+minus_folate,EX_C00483_m,C00483,10.0,unmatched,,,,,,,,
+minus_folate,EX_C00493_m,C00493,0.1,unmatched,,,,,,,,
+minus_folate,EX_C00504_m,C00504,0.0,matched,UF03032_E,folate exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,fol_e,folate(2-),C19H17N7O6,-2,0.0,1000.0
+minus_folate,EX_C06232_m,C06232,1000.0,unmatched,,,,,,,,
+minus_folate,EX_C14818_m,C14818,1000.0,matched,UF03268_E,iron(2+) exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,fe2_e,iron(2+),Fe,2,-1000.0,1000.0
+minus_folate,EX_C14819_m,C14819,1000.0,unmatched,,,,,,,,
+minus_folate,EX_R_3httdca_m,,0.1,unmatched,,,,,,,,
+minus_folate,EX_acgam1p_m,,0.1,unmatched,,,,,,,,
+minus_folate,EX_acmana_m,,0.1,unmatched,,,,,,,,
+minus_folate,EX_ca2_m,,1000.0,unmatched,,,,,,,,
+minus_folate,EX_cl_m,,1000.0,unmatched,,,,,,,,
+minus_folate,EX_cobalt2_m,,1000.0,unmatched,,,,,,,,
+minus_folate,EX_cu2_m,,1000.0,unmatched,,,,,,,,
+minus_folate,EX_dachi_m,,0.1,unmatched,,,,,,,,
+minus_folate,EX_gly_asn__L_m,,10.0,unmatched,,,,,,,,
+minus_folate,EX_glygln_m,,10.0,unmatched,,,,,,,,
+minus_folate,EX_k_m,,1000.0,unmatched,,,,,,,,
+minus_folate,EX_mg2_m,,1000.0,unmatched,,,,,,,,
+minus_folate,EX_mn2_m,,1000.0,unmatched,,,,,,,,
+minus_folate,EX_na1_m,,1000.0,unmatched,,,,,,,,
+minus_folate,EX_ni2_m,,1000.0,unmatched,,,,,,,,
+minus_folate,EX_zn2_m,,1000.0,unmatched,,,,,,,,
+minus_riboflavin,EX_C00001_m,C00001,1000.0,matched,UF03314_E,water exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,h2o_e,water,H2O,0,-1000.0,1000.0
+minus_riboflavin,EX_C00007_m,C00007,1000.0,matched,UF03382_E,dioxygen exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,o2_e,dioxygen,O2,0,-1000.0,1000.0
+minus_riboflavin,EX_C00009_m,C00009,1000.0,matched,UF02765_E,hydrogenphosphate exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,pi_e,hydrogenphosphate,HPO4,-2,-1000.0,1000.0
+minus_riboflavin,EX_C00014_m,C00014,1000.0,matched,UF03376_E,Ammonium exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,nh4_e,ammonium,NH4,1,-1000.0,1000.0
+minus_riboflavin,EX_C00025_m,C00025,10.0,matched,UF03292_E,L-glutamate(1-) exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,gluL_e,L-glutamate,C5H8NO4,-1,0.0,1000.0
+minus_riboflavin,EX_C00031_m,C00031,10.0,matched,UF03288_E,D-glucose exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,glcD_e,alpha-D-glucose,C6H12O6,0,-10.0,1000.0
+minus_riboflavin,EX_C00037_m,C00037,10.0,matched,UF03304_E,glycine zwitterion exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,gly_e,glycine zwitterion,C2H5NO2,0,0.0,1000.0
+minus_riboflavin,EX_C00041_m,C00041,10.0,matched,UF03176_E,L-alanine zwitterion exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,alaL_e,L-alanine zwitterion,C3H7NO2,0,0.0,1000.0
+minus_riboflavin,EX_C00042_m,C00042,10.0,matched,UF02804_E,succinate(2-) exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,succ_e,succinate(2-),C4H4O4,-2,0.0,1000.0
+minus_riboflavin,EX_C00043_m,C00043,0.1,unmatched,,,,,,,,
+minus_riboflavin,EX_C00049_m,C00049,10.0,matched,UF02552_E,L-aspartate(1-) exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,aspL_e,L-aspartate,C4H6NO4,-1,0.0,1000.0
+minus_riboflavin,EX_C00059_m,C00059,1000.0,matched,UF03456_E,Sulfate exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,so4_e,sulfate,SO4,-2,-1000.0,1000.0
+minus_riboflavin,EX_C00065_m,C00065,10.0,matched,UF03454_E,L-serine zwitterion exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,serL_e,L-serine zwitterion,C3H7NO3,0,0.0,1000.0
+minus_riboflavin,EX_C00080_m,C00080,1000.0,matched,UF03474_E,hydrogen exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,h_e,H+,H,1,-1000.0,1000.0
+minus_riboflavin,EX_C00082_m,C00082,0.1,matched,UF02826_E,L-tyrosine zwitterion exchange_0_1_1_0_1_0_1_1_0_1_0_1_1_0_1_0_1_1_0_1_0_1_1_0_1,tyrL_e,L-tyrosine zwitterion,C9H11NO3,0,0.0,1000.0
+minus_riboflavin,EX_C00089_m,C00089,0.1,matched,UF03468_E,Sucrose exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,sucr_e,sucrose,C12H22O11,0,0.0,1000.0
+minus_riboflavin,EX_C00095_m,C00095,10.0,matched,UF03275_E,D-Fructose exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,fru_e,D-fructose,C6H12O6,0,0.0,1000.0
+minus_riboflavin,EX_C00116_m,C00116,10.0,matched,UF03302_E,Glycerol exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,glyc_e,glycerol,C3H8O3,0,0.0,1000.0
+minus_riboflavin,EX_C00122_m,C00122,10.0,matched,UF02628_E,fumarate(2-) exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,fum_e,fumarate(2-),C4H2O4,-2,0.0,1000.0
+minus_riboflavin,EX_C00123_m,C00123,10.0,matched,UF03351_E,L-leucine zwitterion exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,leuL_e,L-leucine zwitterion,C6H13NO2,0,0.0,1000.0
+minus_riboflavin,EX_C00148_m,C00148,0.1,matched,UF03424_E,L-proline zwitterion exchange_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1,proL_e,L-proline zwitterion,C5H9NO2,0,0.0,1000.0
+minus_riboflavin,EX_C00149_m,C00149,10.0,matched,UF03510_E,(S)-malate exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,malL_e,(S)-malate,C4H4O5,-2,0.0,1000.0
+minus_riboflavin,EX_C00152_m,C00152,0.1,matched,UF02550_E,L-asparagine zwitterion exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,asnL_e,L-asparagine zwitterion,C4H8N2O3,0,0.0,1000.0
+minus_riboflavin,EX_C00158_m,C00158,10.0,matched,UF02577_E,citrate(3-) exchange_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1,cit_e,citrate(3-),C6H5O7,-3,0.0,1000.0
+minus_riboflavin,EX_C00183_m,C00183,10.0,matched,UF03496_E,L-valine zwitterion exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,valL_e,L-valine zwitterion,C5H11NO2,0,0.0,1000.0
+minus_riboflavin,EX_C00188_m,C00188,0.1,matched,UF03479_E,L-threonine zwitterion exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,thrL_e,L-threonine zwitterion,C4H9NO3,0,0.0,1000.0
+minus_riboflavin,EX_C00208_m,C00208,10.0,matched,UF02707_E,Maltose exchange_0_1_1_0_1_0_1_1_0_1_0_1_1_0_1_0_1_1_0_1_0_1_1_0_1,malt_e,maltose,C12H22O11,0,0.0,1000.0
+minus_riboflavin,EX_C00255_m,C00255,0.0,matched,UF02786_E,riboflavin(1-) exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,ribflv_e,riboflavin(1-),C17H19N4O6,-1,0.0,1000.0
+minus_riboflavin,EX_C00296_m,C00296,10.0,matched,UF03433_E,(-)-quinate exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,quin_e,(-)-quinate,C7H11O6,-1,0.0,1000.0
+minus_riboflavin,EX_C00334_m,C00334,10.0,matched,UF03137_E,4-aminobutanoate exchange_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1,4abut_e,4-aminobutanoate,C4H8NO2,-1,0.0,1000.0
+minus_riboflavin,EX_C00378_m,C00378,10.0,matched,UF03477_E,thiamine(1+) exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,thm_e,thiamine(1+),C12H17N4OS,1,0.0,1000.0
+minus_riboflavin,EX_C00407_m,C00407,10.0,matched,UF03339_E,L-isoleucine zwitterion exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,ileL_e,L-isoleucine zwitterion,C6H13NO2,0,0.0,1000.0
+minus_riboflavin,EX_C00417_m,C00417,0.1,unmatched,,,,,,,,
+minus_riboflavin,EX_C00483_m,C00483,10.0,unmatched,,,,,,,,
+minus_riboflavin,EX_C00493_m,C00493,0.1,unmatched,,,,,,,,
+minus_riboflavin,EX_C00504_m,C00504,10.0,matched,UF03032_E,folate exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,fol_e,folate(2-),C19H17N7O6,-2,0.0,1000.0
+minus_riboflavin,EX_C06232_m,C06232,1000.0,unmatched,,,,,,,,
+minus_riboflavin,EX_C14818_m,C14818,1000.0,matched,UF03268_E,iron(2+) exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,fe2_e,iron(2+),Fe,2,-1000.0,1000.0
+minus_riboflavin,EX_C14819_m,C14819,1000.0,unmatched,,,,,,,,
+minus_riboflavin,EX_R_3httdca_m,,0.1,unmatched,,,,,,,,
+minus_riboflavin,EX_acgam1p_m,,0.1,unmatched,,,,,,,,
+minus_riboflavin,EX_acmana_m,,0.1,unmatched,,,,,,,,
+minus_riboflavin,EX_ca2_m,,1000.0,unmatched,,,,,,,,
+minus_riboflavin,EX_cl_m,,1000.0,unmatched,,,,,,,,
+minus_riboflavin,EX_cobalt2_m,,1000.0,unmatched,,,,,,,,
+minus_riboflavin,EX_cu2_m,,1000.0,unmatched,,,,,,,,
+minus_riboflavin,EX_dachi_m,,0.1,unmatched,,,,,,,,
+minus_riboflavin,EX_gly_asn__L_m,,10.0,unmatched,,,,,,,,
+minus_riboflavin,EX_glygln_m,,10.0,unmatched,,,,,,,,
+minus_riboflavin,EX_k_m,,1000.0,unmatched,,,,,,,,
+minus_riboflavin,EX_mg2_m,,1000.0,unmatched,,,,,,,,
+minus_riboflavin,EX_mn2_m,,1000.0,unmatched,,,,,,,,
+minus_riboflavin,EX_na1_m,,1000.0,unmatched,,,,,,,,
+minus_riboflavin,EX_ni2_m,,1000.0,unmatched,,,,,,,,
+minus_riboflavin,EX_zn2_m,,1000.0,unmatched,,,,,,,,
+minus_thiamine,EX_C00001_m,C00001,1000.0,matched,UF03314_E,water exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,h2o_e,water,H2O,0,-1000.0,1000.0
+minus_thiamine,EX_C00007_m,C00007,1000.0,matched,UF03382_E,dioxygen exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,o2_e,dioxygen,O2,0,-1000.0,1000.0
+minus_thiamine,EX_C00009_m,C00009,1000.0,matched,UF02765_E,hydrogenphosphate exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,pi_e,hydrogenphosphate,HPO4,-2,-1000.0,1000.0
+minus_thiamine,EX_C00014_m,C00014,1000.0,matched,UF03376_E,Ammonium exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,nh4_e,ammonium,NH4,1,-1000.0,1000.0
+minus_thiamine,EX_C00025_m,C00025,10.0,matched,UF03292_E,L-glutamate(1-) exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,gluL_e,L-glutamate,C5H8NO4,-1,0.0,1000.0
+minus_thiamine,EX_C00031_m,C00031,10.0,matched,UF03288_E,D-glucose exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,glcD_e,alpha-D-glucose,C6H12O6,0,-10.0,1000.0
+minus_thiamine,EX_C00037_m,C00037,10.0,matched,UF03304_E,glycine zwitterion exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,gly_e,glycine zwitterion,C2H5NO2,0,0.0,1000.0
+minus_thiamine,EX_C00041_m,C00041,10.0,matched,UF03176_E,L-alanine zwitterion exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,alaL_e,L-alanine zwitterion,C3H7NO2,0,0.0,1000.0
+minus_thiamine,EX_C00042_m,C00042,10.0,matched,UF02804_E,succinate(2-) exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,succ_e,succinate(2-),C4H4O4,-2,0.0,1000.0
+minus_thiamine,EX_C00043_m,C00043,0.1,unmatched,,,,,,,,
+minus_thiamine,EX_C00049_m,C00049,10.0,matched,UF02552_E,L-aspartate(1-) exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,aspL_e,L-aspartate,C4H6NO4,-1,0.0,1000.0
+minus_thiamine,EX_C00059_m,C00059,1000.0,matched,UF03456_E,Sulfate exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,so4_e,sulfate,SO4,-2,-1000.0,1000.0
+minus_thiamine,EX_C00065_m,C00065,10.0,matched,UF03454_E,L-serine zwitterion exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,serL_e,L-serine zwitterion,C3H7NO3,0,0.0,1000.0
+minus_thiamine,EX_C00080_m,C00080,1000.0,matched,UF03474_E,hydrogen exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,h_e,H+,H,1,-1000.0,1000.0
+minus_thiamine,EX_C00082_m,C00082,0.1,matched,UF02826_E,L-tyrosine zwitterion exchange_0_1_1_0_1_0_1_1_0_1_0_1_1_0_1_0_1_1_0_1_0_1_1_0_1,tyrL_e,L-tyrosine zwitterion,C9H11NO3,0,0.0,1000.0
+minus_thiamine,EX_C00089_m,C00089,0.1,matched,UF03468_E,Sucrose exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,sucr_e,sucrose,C12H22O11,0,0.0,1000.0
+minus_thiamine,EX_C00095_m,C00095,10.0,matched,UF03275_E,D-Fructose exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,fru_e,D-fructose,C6H12O6,0,0.0,1000.0
+minus_thiamine,EX_C00116_m,C00116,10.0,matched,UF03302_E,Glycerol exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,glyc_e,glycerol,C3H8O3,0,0.0,1000.0
+minus_thiamine,EX_C00122_m,C00122,10.0,matched,UF02628_E,fumarate(2-) exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,fum_e,fumarate(2-),C4H2O4,-2,0.0,1000.0
+minus_thiamine,EX_C00123_m,C00123,10.0,matched,UF03351_E,L-leucine zwitterion exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,leuL_e,L-leucine zwitterion,C6H13NO2,0,0.0,1000.0
+minus_thiamine,EX_C00148_m,C00148,0.1,matched,UF03424_E,L-proline zwitterion exchange_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1,proL_e,L-proline zwitterion,C5H9NO2,0,0.0,1000.0
+minus_thiamine,EX_C00149_m,C00149,10.0,matched,UF03510_E,(S)-malate exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,malL_e,(S)-malate,C4H4O5,-2,0.0,1000.0
+minus_thiamine,EX_C00152_m,C00152,0.1,matched,UF02550_E,L-asparagine zwitterion exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,asnL_e,L-asparagine zwitterion,C4H8N2O3,0,0.0,1000.0
+minus_thiamine,EX_C00158_m,C00158,10.0,matched,UF02577_E,citrate(3-) exchange_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1,cit_e,citrate(3-),C6H5O7,-3,0.0,1000.0
+minus_thiamine,EX_C00183_m,C00183,10.0,matched,UF03496_E,L-valine zwitterion exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,valL_e,L-valine zwitterion,C5H11NO2,0,0.0,1000.0
+minus_thiamine,EX_C00188_m,C00188,0.1,matched,UF03479_E,L-threonine zwitterion exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,thrL_e,L-threonine zwitterion,C4H9NO3,0,0.0,1000.0
+minus_thiamine,EX_C00208_m,C00208,10.0,matched,UF02707_E,Maltose exchange_0_1_1_0_1_0_1_1_0_1_0_1_1_0_1_0_1_1_0_1_0_1_1_0_1,malt_e,maltose,C12H22O11,0,0.0,1000.0
+minus_thiamine,EX_C00255_m,C00255,10.0,matched,UF02786_E,riboflavin(1-) exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,ribflv_e,riboflavin(1-),C17H19N4O6,-1,0.0,1000.0
+minus_thiamine,EX_C00296_m,C00296,10.0,matched,UF03433_E,(-)-quinate exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,quin_e,(-)-quinate,C7H11O6,-1,0.0,1000.0
+minus_thiamine,EX_C00334_m,C00334,10.0,matched,UF03137_E,4-aminobutanoate exchange_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1,4abut_e,4-aminobutanoate,C4H8NO2,-1,0.0,1000.0
+minus_thiamine,EX_C00378_m,C00378,0.0,matched,UF03477_E,thiamine(1+) exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,thm_e,thiamine(1+),C12H17N4OS,1,0.0,1000.0
+minus_thiamine,EX_C00407_m,C00407,10.0,matched,UF03339_E,L-isoleucine zwitterion exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,ileL_e,L-isoleucine zwitterion,C6H13NO2,0,0.0,1000.0
+minus_thiamine,EX_C00417_m,C00417,0.1,unmatched,,,,,,,,
+minus_thiamine,EX_C00483_m,C00483,10.0,unmatched,,,,,,,,
+minus_thiamine,EX_C00493_m,C00493,0.1,unmatched,,,,,,,,
+minus_thiamine,EX_C00504_m,C00504,10.0,matched,UF03032_E,folate exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,fol_e,folate(2-),C19H17N7O6,-2,0.0,1000.0
+minus_thiamine,EX_C06232_m,C06232,1000.0,unmatched,,,,,,,,
+minus_thiamine,EX_C14818_m,C14818,1000.0,matched,UF03268_E,iron(2+) exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,fe2_e,iron(2+),Fe,2,-1000.0,1000.0
+minus_thiamine,EX_C14819_m,C14819,1000.0,unmatched,,,,,,,,
+minus_thiamine,EX_R_3httdca_m,,0.1,unmatched,,,,,,,,
+minus_thiamine,EX_acgam1p_m,,0.1,unmatched,,,,,,,,
+minus_thiamine,EX_acmana_m,,0.1,unmatched,,,,,,,,
+minus_thiamine,EX_ca2_m,,1000.0,unmatched,,,,,,,,
+minus_thiamine,EX_cl_m,,1000.0,unmatched,,,,,,,,
+minus_thiamine,EX_cobalt2_m,,1000.0,unmatched,,,,,,,,
+minus_thiamine,EX_cu2_m,,1000.0,unmatched,,,,,,,,
+minus_thiamine,EX_dachi_m,,0.1,unmatched,,,,,,,,
+minus_thiamine,EX_gly_asn__L_m,,10.0,unmatched,,,,,,,,
+minus_thiamine,EX_glygln_m,,10.0,unmatched,,,,,,,,
+minus_thiamine,EX_k_m,,1000.0,unmatched,,,,,,,,
+minus_thiamine,EX_mg2_m,,1000.0,unmatched,,,,,,,,
+minus_thiamine,EX_mn2_m,,1000.0,unmatched,,,,,,,,
+minus_thiamine,EX_na1_m,,1000.0,unmatched,,,,,,,,
+minus_thiamine,EX_ni2_m,,1000.0,unmatched,,,,,,,,
+minus_thiamine,EX_zn2_m,,1000.0,unmatched,,,,,,,,
+carbon_limited,EX_C00001_m,C00001,1000.0,matched,UF03314_E,water exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,h2o_e,water,H2O,0,-1000.0,1000.0
+carbon_limited,EX_C00007_m,C00007,1000.0,matched,UF03382_E,dioxygen exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,o2_e,dioxygen,O2,0,-1000.0,1000.0
+carbon_limited,EX_C00009_m,C00009,1000.0,matched,UF02765_E,hydrogenphosphate exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,pi_e,hydrogenphosphate,HPO4,-2,-1000.0,1000.0
+carbon_limited,EX_C00014_m,C00014,1000.0,matched,UF03376_E,Ammonium exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,nh4_e,ammonium,NH4,1,-1000.0,1000.0
+carbon_limited,EX_C00025_m,C00025,1.0,matched,UF03292_E,L-glutamate(1-) exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,gluL_e,L-glutamate,C5H8NO4,-1,0.0,1000.0
+carbon_limited,EX_C00031_m,C00031,1.0,matched,UF03288_E,D-glucose exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,glcD_e,alpha-D-glucose,C6H12O6,0,-10.0,1000.0
+carbon_limited,EX_C00037_m,C00037,1.0,matched,UF03304_E,glycine zwitterion exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,gly_e,glycine zwitterion,C2H5NO2,0,0.0,1000.0
+carbon_limited,EX_C00041_m,C00041,1.0,matched,UF03176_E,L-alanine zwitterion exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,alaL_e,L-alanine zwitterion,C3H7NO2,0,0.0,1000.0
+carbon_limited,EX_C00042_m,C00042,1.0,matched,UF02804_E,succinate(2-) exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,succ_e,succinate(2-),C4H4O4,-2,0.0,1000.0
+carbon_limited,EX_C00043_m,C00043,0.1,unmatched,,,,,,,,
+carbon_limited,EX_C00049_m,C00049,1.0,matched,UF02552_E,L-aspartate(1-) exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,aspL_e,L-aspartate,C4H6NO4,-1,0.0,1000.0
+carbon_limited,EX_C00059_m,C00059,1000.0,matched,UF03456_E,Sulfate exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,so4_e,sulfate,SO4,-2,-1000.0,1000.0
+carbon_limited,EX_C00065_m,C00065,1.0,matched,UF03454_E,L-serine zwitterion exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,serL_e,L-serine zwitterion,C3H7NO3,0,0.0,1000.0
+carbon_limited,EX_C00080_m,C00080,1000.0,matched,UF03474_E,hydrogen exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,h_e,H+,H,1,-1000.0,1000.0
+carbon_limited,EX_C00082_m,C00082,0.1,matched,UF02826_E,L-tyrosine zwitterion exchange_0_1_1_0_1_0_1_1_0_1_0_1_1_0_1_0_1_1_0_1_0_1_1_0_1,tyrL_e,L-tyrosine zwitterion,C9H11NO3,0,0.0,1000.0
+carbon_limited,EX_C00089_m,C00089,0.01,matched,UF03468_E,Sucrose exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,sucr_e,sucrose,C12H22O11,0,0.0,1000.0
+carbon_limited,EX_C00095_m,C00095,1.0,matched,UF03275_E,D-Fructose exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,fru_e,D-fructose,C6H12O6,0,0.0,1000.0
+carbon_limited,EX_C00116_m,C00116,1.0,matched,UF03302_E,Glycerol exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,glyc_e,glycerol,C3H8O3,0,0.0,1000.0
+carbon_limited,EX_C00122_m,C00122,1.0,matched,UF02628_E,fumarate(2-) exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,fum_e,fumarate(2-),C4H2O4,-2,0.0,1000.0
+carbon_limited,EX_C00123_m,C00123,1.0,matched,UF03351_E,L-leucine zwitterion exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,leuL_e,L-leucine zwitterion,C6H13NO2,0,0.0,1000.0
+carbon_limited,EX_C00148_m,C00148,0.01,matched,UF03424_E,L-proline zwitterion exchange_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1,proL_e,L-proline zwitterion,C5H9NO2,0,0.0,1000.0
+carbon_limited,EX_C00149_m,C00149,1.0,matched,UF03510_E,(S)-malate exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,malL_e,(S)-malate,C4H4O5,-2,0.0,1000.0
+carbon_limited,EX_C00152_m,C00152,0.01,matched,UF02550_E,L-asparagine zwitterion exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,asnL_e,L-asparagine zwitterion,C4H8N2O3,0,0.0,1000.0
+carbon_limited,EX_C00158_m,C00158,1.0,matched,UF02577_E,citrate(3-) exchange_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1,cit_e,citrate(3-),C6H5O7,-3,0.0,1000.0
+carbon_limited,EX_C00183_m,C00183,1.0,matched,UF03496_E,L-valine zwitterion exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,valL_e,L-valine zwitterion,C5H11NO2,0,0.0,1000.0
+carbon_limited,EX_C00188_m,C00188,0.01,matched,UF03479_E,L-threonine zwitterion exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,thrL_e,L-threonine zwitterion,C4H9NO3,0,0.0,1000.0
+carbon_limited,EX_C00208_m,C00208,1.0,matched,UF02707_E,Maltose exchange_0_1_1_0_1_0_1_1_0_1_0_1_1_0_1_0_1_1_0_1_0_1_1_0_1,malt_e,maltose,C12H22O11,0,0.0,1000.0
+carbon_limited,EX_C00255_m,C00255,10.0,matched,UF02786_E,riboflavin(1-) exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,ribflv_e,riboflavin(1-),C17H19N4O6,-1,0.0,1000.0
+carbon_limited,EX_C00296_m,C00296,1.0,matched,UF03433_E,(-)-quinate exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,quin_e,(-)-quinate,C7H11O6,-1,0.0,1000.0
+carbon_limited,EX_C00334_m,C00334,1.0,matched,UF03137_E,4-aminobutanoate exchange_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1,4abut_e,4-aminobutanoate,C4H8NO2,-1,0.0,1000.0
+carbon_limited,EX_C00378_m,C00378,10.0,matched,UF03477_E,thiamine(1+) exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,thm_e,thiamine(1+),C12H17N4OS,1,0.0,1000.0
+carbon_limited,EX_C00407_m,C00407,1.0,matched,UF03339_E,L-isoleucine zwitterion exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,ileL_e,L-isoleucine zwitterion,C6H13NO2,0,0.0,1000.0
+carbon_limited,EX_C00417_m,C00417,0.01,unmatched,,,,,,,,
+carbon_limited,EX_C00483_m,C00483,1.0,unmatched,,,,,,,,
+carbon_limited,EX_C00493_m,C00493,0.01,unmatched,,,,,,,,
+carbon_limited,EX_C00504_m,C00504,10.0,matched,UF03032_E,folate exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,fol_e,folate(2-),C19H17N7O6,-2,0.0,1000.0
+carbon_limited,EX_C06232_m,C06232,1000.0,unmatched,,,,,,,,
+carbon_limited,EX_C14818_m,C14818,1000.0,matched,UF03268_E,iron(2+) exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,fe2_e,iron(2+),Fe,2,-1000.0,1000.0
+carbon_limited,EX_C14819_m,C14819,1000.0,unmatched,,,,,,,,
+carbon_limited,EX_R_3httdca_m,,0.1,unmatched,,,,,,,,
+carbon_limited,EX_acgam1p_m,,0.1,unmatched,,,,,,,,
+carbon_limited,EX_acmana_m,,0.1,unmatched,,,,,,,,
+carbon_limited,EX_ca2_m,,1000.0,unmatched,,,,,,,,
+carbon_limited,EX_cl_m,,1000.0,unmatched,,,,,,,,
+carbon_limited,EX_cobalt2_m,,1000.0,unmatched,,,,,,,,
+carbon_limited,EX_cu2_m,,1000.0,unmatched,,,,,,,,
+carbon_limited,EX_dachi_m,,0.1,unmatched,,,,,,,,
+carbon_limited,EX_gly_asn__L_m,,1.0,unmatched,,,,,,,,
+carbon_limited,EX_glygln_m,,1.0,unmatched,,,,,,,,
+carbon_limited,EX_k_m,,1000.0,unmatched,,,,,,,,
+carbon_limited,EX_mg2_m,,1000.0,unmatched,,,,,,,,
+carbon_limited,EX_mn2_m,,1000.0,unmatched,,,,,,,,
+carbon_limited,EX_na1_m,,1000.0,unmatched,,,,,,,,
+carbon_limited,EX_ni2_m,,1000.0,unmatched,,,,,,,,
+carbon_limited,EX_zn2_m,,1000.0,unmatched,,,,,,,,
+nitrogen_limited,EX_C00001_m,C00001,1000.0,matched,UF03314_E,water exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,h2o_e,water,H2O,0,-1000.0,1000.0
+nitrogen_limited,EX_C00007_m,C00007,1000.0,matched,UF03382_E,dioxygen exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,o2_e,dioxygen,O2,0,-1000.0,1000.0
+nitrogen_limited,EX_C00009_m,C00009,1000.0,matched,UF02765_E,hydrogenphosphate exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,pi_e,hydrogenphosphate,HPO4,-2,-1000.0,1000.0
+nitrogen_limited,EX_C00014_m,C00014,10.0,matched,UF03376_E,Ammonium exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,nh4_e,ammonium,NH4,1,-1000.0,1000.0
+nitrogen_limited,EX_C00025_m,C00025,1.0,matched,UF03292_E,L-glutamate(1-) exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,gluL_e,L-glutamate,C5H8NO4,-1,0.0,1000.0
+nitrogen_limited,EX_C00031_m,C00031,10.0,matched,UF03288_E,D-glucose exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,glcD_e,alpha-D-glucose,C6H12O6,0,-10.0,1000.0
+nitrogen_limited,EX_C00037_m,C00037,1.0,matched,UF03304_E,glycine zwitterion exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,gly_e,glycine zwitterion,C2H5NO2,0,0.0,1000.0
+nitrogen_limited,EX_C00041_m,C00041,1.0,matched,UF03176_E,L-alanine zwitterion exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,alaL_e,L-alanine zwitterion,C3H7NO2,0,0.0,1000.0
+nitrogen_limited,EX_C00042_m,C00042,10.0,matched,UF02804_E,succinate(2-) exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,succ_e,succinate(2-),C4H4O4,-2,0.0,1000.0
+nitrogen_limited,EX_C00043_m,C00043,0.1,unmatched,,,,,,,,
+nitrogen_limited,EX_C00049_m,C00049,1.0,matched,UF02552_E,L-aspartate(1-) exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,aspL_e,L-aspartate,C4H6NO4,-1,0.0,1000.0
+nitrogen_limited,EX_C00059_m,C00059,1000.0,matched,UF03456_E,Sulfate exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,so4_e,sulfate,SO4,-2,-1000.0,1000.0
+nitrogen_limited,EX_C00065_m,C00065,1.0,matched,UF03454_E,L-serine zwitterion exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,serL_e,L-serine zwitterion,C3H7NO3,0,0.0,1000.0
+nitrogen_limited,EX_C00080_m,C00080,1000.0,matched,UF03474_E,hydrogen exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,h_e,H+,H,1,-1000.0,1000.0
+nitrogen_limited,EX_C00082_m,C00082,0.1,matched,UF02826_E,L-tyrosine zwitterion exchange_0_1_1_0_1_0_1_1_0_1_0_1_1_0_1_0_1_1_0_1_0_1_1_0_1,tyrL_e,L-tyrosine zwitterion,C9H11NO3,0,0.0,1000.0
+nitrogen_limited,EX_C00089_m,C00089,0.1,matched,UF03468_E,Sucrose exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,sucr_e,sucrose,C12H22O11,0,0.0,1000.0
+nitrogen_limited,EX_C00095_m,C00095,10.0,matched,UF03275_E,D-Fructose exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,fru_e,D-fructose,C6H12O6,0,0.0,1000.0
+nitrogen_limited,EX_C00116_m,C00116,10.0,matched,UF03302_E,Glycerol exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,glyc_e,glycerol,C3H8O3,0,0.0,1000.0
+nitrogen_limited,EX_C00122_m,C00122,10.0,matched,UF02628_E,fumarate(2-) exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,fum_e,fumarate(2-),C4H2O4,-2,0.0,1000.0
+nitrogen_limited,EX_C00123_m,C00123,1.0,matched,UF03351_E,L-leucine zwitterion exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,leuL_e,L-leucine zwitterion,C6H13NO2,0,0.0,1000.0
+nitrogen_limited,EX_C00148_m,C00148,0.01,matched,UF03424_E,L-proline zwitterion exchange_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1,proL_e,L-proline zwitterion,C5H9NO2,0,0.0,1000.0
+nitrogen_limited,EX_C00149_m,C00149,10.0,matched,UF03510_E,(S)-malate exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,malL_e,(S)-malate,C4H4O5,-2,0.0,1000.0
+nitrogen_limited,EX_C00152_m,C00152,0.01,matched,UF02550_E,L-asparagine zwitterion exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,asnL_e,L-asparagine zwitterion,C4H8N2O3,0,0.0,1000.0
+nitrogen_limited,EX_C00158_m,C00158,10.0,matched,UF02577_E,citrate(3-) exchange_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1,cit_e,citrate(3-),C6H5O7,-3,0.0,1000.0
+nitrogen_limited,EX_C00183_m,C00183,1.0,matched,UF03496_E,L-valine zwitterion exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,valL_e,L-valine zwitterion,C5H11NO2,0,0.0,1000.0
+nitrogen_limited,EX_C00188_m,C00188,0.01,matched,UF03479_E,L-threonine zwitterion exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,thrL_e,L-threonine zwitterion,C4H9NO3,0,0.0,1000.0
+nitrogen_limited,EX_C00208_m,C00208,10.0,matched,UF02707_E,Maltose exchange_0_1_1_0_1_0_1_1_0_1_0_1_1_0_1_0_1_1_0_1_0_1_1_0_1,malt_e,maltose,C12H22O11,0,0.0,1000.0
+nitrogen_limited,EX_C00255_m,C00255,10.0,matched,UF02786_E,riboflavin(1-) exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,ribflv_e,riboflavin(1-),C17H19N4O6,-1,0.0,1000.0
+nitrogen_limited,EX_C00296_m,C00296,10.0,matched,UF03433_E,(-)-quinate exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,quin_e,(-)-quinate,C7H11O6,-1,0.0,1000.0
+nitrogen_limited,EX_C00334_m,C00334,1.0,matched,UF03137_E,4-aminobutanoate exchange_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1,4abut_e,4-aminobutanoate,C4H8NO2,-1,0.0,1000.0
+nitrogen_limited,EX_C00378_m,C00378,10.0,matched,UF03477_E,thiamine(1+) exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,thm_e,thiamine(1+),C12H17N4OS,1,0.0,1000.0
+nitrogen_limited,EX_C00407_m,C00407,1.0,matched,UF03339_E,L-isoleucine zwitterion exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,ileL_e,L-isoleucine zwitterion,C6H13NO2,0,0.0,1000.0
+nitrogen_limited,EX_C00417_m,C00417,0.1,unmatched,,,,,,,,
+nitrogen_limited,EX_C00483_m,C00483,1.0,unmatched,,,,,,,,
+nitrogen_limited,EX_C00493_m,C00493,0.1,unmatched,,,,,,,,
+nitrogen_limited,EX_C00504_m,C00504,10.0,matched,UF03032_E,folate exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,fol_e,folate(2-),C19H17N7O6,-2,0.0,1000.0
+nitrogen_limited,EX_C06232_m,C06232,1000.0,unmatched,,,,,,,,
+nitrogen_limited,EX_C14818_m,C14818,1000.0,matched,UF03268_E,iron(2+) exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,fe2_e,iron(2+),Fe,2,-1000.0,1000.0
+nitrogen_limited,EX_C14819_m,C14819,1000.0,unmatched,,,,,,,,
+nitrogen_limited,EX_R_3httdca_m,,0.1,unmatched,,,,,,,,
+nitrogen_limited,EX_acgam1p_m,,0.1,unmatched,,,,,,,,
+nitrogen_limited,EX_acmana_m,,0.1,unmatched,,,,,,,,
+nitrogen_limited,EX_ca2_m,,1000.0,unmatched,,,,,,,,
+nitrogen_limited,EX_cl_m,,1000.0,unmatched,,,,,,,,
+nitrogen_limited,EX_cobalt2_m,,1000.0,unmatched,,,,,,,,
+nitrogen_limited,EX_cu2_m,,1000.0,unmatched,,,,,,,,
+nitrogen_limited,EX_dachi_m,,0.1,unmatched,,,,,,,,
+nitrogen_limited,EX_gly_asn__L_m,,1.0,unmatched,,,,,,,,
+nitrogen_limited,EX_glygln_m,,1.0,unmatched,,,,,,,,
+nitrogen_limited,EX_k_m,,1000.0,unmatched,,,,,,,,
+nitrogen_limited,EX_mg2_m,,1000.0,unmatched,,,,,,,,
+nitrogen_limited,EX_mn2_m,,1000.0,unmatched,,,,,,,,
+nitrogen_limited,EX_na1_m,,1000.0,unmatched,,,,,,,,
+nitrogen_limited,EX_ni2_m,,1000.0,unmatched,,,,,,,,
+nitrogen_limited,EX_zn2_m,,1000.0,unmatched,,,,,,,,
+phosphate_limited,EX_C00001_m,C00001,1000.0,matched,UF03314_E,water exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,h2o_e,water,H2O,0,-1000.0,1000.0
+phosphate_limited,EX_C00007_m,C00007,1000.0,matched,UF03382_E,dioxygen exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,o2_e,dioxygen,O2,0,-1000.0,1000.0
+phosphate_limited,EX_C00009_m,C00009,10.0,matched,UF02765_E,hydrogenphosphate exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,pi_e,hydrogenphosphate,HPO4,-2,-1000.0,1000.0
+phosphate_limited,EX_C00014_m,C00014,1000.0,matched,UF03376_E,Ammonium exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,nh4_e,ammonium,NH4,1,-1000.0,1000.0
+phosphate_limited,EX_C00025_m,C00025,10.0,matched,UF03292_E,L-glutamate(1-) exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,gluL_e,L-glutamate,C5H8NO4,-1,0.0,1000.0
+phosphate_limited,EX_C00031_m,C00031,10.0,matched,UF03288_E,D-glucose exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,glcD_e,alpha-D-glucose,C6H12O6,0,-10.0,1000.0
+phosphate_limited,EX_C00037_m,C00037,10.0,matched,UF03304_E,glycine zwitterion exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,gly_e,glycine zwitterion,C2H5NO2,0,0.0,1000.0
+phosphate_limited,EX_C00041_m,C00041,10.0,matched,UF03176_E,L-alanine zwitterion exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,alaL_e,L-alanine zwitterion,C3H7NO2,0,0.0,1000.0
+phosphate_limited,EX_C00042_m,C00042,10.0,matched,UF02804_E,succinate(2-) exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,succ_e,succinate(2-),C4H4O4,-2,0.0,1000.0
+phosphate_limited,EX_C00043_m,C00043,0.1,unmatched,,,,,,,,
+phosphate_limited,EX_C00049_m,C00049,10.0,matched,UF02552_E,L-aspartate(1-) exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,aspL_e,L-aspartate,C4H6NO4,-1,0.0,1000.0
+phosphate_limited,EX_C00059_m,C00059,1000.0,matched,UF03456_E,Sulfate exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,so4_e,sulfate,SO4,-2,-1000.0,1000.0
+phosphate_limited,EX_C00065_m,C00065,10.0,matched,UF03454_E,L-serine zwitterion exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,serL_e,L-serine zwitterion,C3H7NO3,0,0.0,1000.0
+phosphate_limited,EX_C00080_m,C00080,1000.0,matched,UF03474_E,hydrogen exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,h_e,H+,H,1,-1000.0,1000.0
+phosphate_limited,EX_C00082_m,C00082,0.1,matched,UF02826_E,L-tyrosine zwitterion exchange_0_1_1_0_1_0_1_1_0_1_0_1_1_0_1_0_1_1_0_1_0_1_1_0_1,tyrL_e,L-tyrosine zwitterion,C9H11NO3,0,0.0,1000.0
+phosphate_limited,EX_C00089_m,C00089,0.1,matched,UF03468_E,Sucrose exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,sucr_e,sucrose,C12H22O11,0,0.0,1000.0
+phosphate_limited,EX_C00095_m,C00095,10.0,matched,UF03275_E,D-Fructose exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,fru_e,D-fructose,C6H12O6,0,0.0,1000.0
+phosphate_limited,EX_C00116_m,C00116,10.0,matched,UF03302_E,Glycerol exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,glyc_e,glycerol,C3H8O3,0,0.0,1000.0
+phosphate_limited,EX_C00122_m,C00122,10.0,matched,UF02628_E,fumarate(2-) exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,fum_e,fumarate(2-),C4H2O4,-2,0.0,1000.0
+phosphate_limited,EX_C00123_m,C00123,10.0,matched,UF03351_E,L-leucine zwitterion exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,leuL_e,L-leucine zwitterion,C6H13NO2,0,0.0,1000.0
+phosphate_limited,EX_C00148_m,C00148,0.1,matched,UF03424_E,L-proline zwitterion exchange_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1,proL_e,L-proline zwitterion,C5H9NO2,0,0.0,1000.0
+phosphate_limited,EX_C00149_m,C00149,10.0,matched,UF03510_E,(S)-malate exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,malL_e,(S)-malate,C4H4O5,-2,0.0,1000.0
+phosphate_limited,EX_C00152_m,C00152,0.1,matched,UF02550_E,L-asparagine zwitterion exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,asnL_e,L-asparagine zwitterion,C4H8N2O3,0,0.0,1000.0
+phosphate_limited,EX_C00158_m,C00158,10.0,matched,UF02577_E,citrate(3-) exchange_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1,cit_e,citrate(3-),C6H5O7,-3,0.0,1000.0
+phosphate_limited,EX_C00183_m,C00183,10.0,matched,UF03496_E,L-valine zwitterion exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,valL_e,L-valine zwitterion,C5H11NO2,0,0.0,1000.0
+phosphate_limited,EX_C00188_m,C00188,0.1,matched,UF03479_E,L-threonine zwitterion exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,thrL_e,L-threonine zwitterion,C4H9NO3,0,0.0,1000.0
+phosphate_limited,EX_C00208_m,C00208,10.0,matched,UF02707_E,Maltose exchange_0_1_1_0_1_0_1_1_0_1_0_1_1_0_1_0_1_1_0_1_0_1_1_0_1,malt_e,maltose,C12H22O11,0,0.0,1000.0
+phosphate_limited,EX_C00255_m,C00255,10.0,matched,UF02786_E,riboflavin(1-) exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,ribflv_e,riboflavin(1-),C17H19N4O6,-1,0.0,1000.0
+phosphate_limited,EX_C00296_m,C00296,10.0,matched,UF03433_E,(-)-quinate exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,quin_e,(-)-quinate,C7H11O6,-1,0.0,1000.0
+phosphate_limited,EX_C00334_m,C00334,10.0,matched,UF03137_E,4-aminobutanoate exchange_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1,4abut_e,4-aminobutanoate,C4H8NO2,-1,0.0,1000.0
+phosphate_limited,EX_C00378_m,C00378,10.0,matched,UF03477_E,thiamine(1+) exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,thm_e,thiamine(1+),C12H17N4OS,1,0.0,1000.0
+phosphate_limited,EX_C00407_m,C00407,10.0,matched,UF03339_E,L-isoleucine zwitterion exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,ileL_e,L-isoleucine zwitterion,C6H13NO2,0,0.0,1000.0
+phosphate_limited,EX_C00417_m,C00417,0.1,unmatched,,,,,,,,
+phosphate_limited,EX_C00483_m,C00483,10.0,unmatched,,,,,,,,
+phosphate_limited,EX_C00493_m,C00493,0.1,unmatched,,,,,,,,
+phosphate_limited,EX_C00504_m,C00504,10.0,matched,UF03032_E,folate exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,fol_e,folate(2-),C19H17N7O6,-2,0.0,1000.0
+phosphate_limited,EX_C06232_m,C06232,1000.0,unmatched,,,,,,,,
+phosphate_limited,EX_C14818_m,C14818,1000.0,matched,UF03268_E,iron(2+) exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,fe2_e,iron(2+),Fe,2,-1000.0,1000.0
+phosphate_limited,EX_C14819_m,C14819,1000.0,unmatched,,,,,,,,
+phosphate_limited,EX_R_3httdca_m,,0.1,unmatched,,,,,,,,
+phosphate_limited,EX_acgam1p_m,,0.1,unmatched,,,,,,,,
+phosphate_limited,EX_acmana_m,,0.1,unmatched,,,,,,,,
+phosphate_limited,EX_ca2_m,,1000.0,unmatched,,,,,,,,
+phosphate_limited,EX_cl_m,,1000.0,unmatched,,,,,,,,
+phosphate_limited,EX_cobalt2_m,,1000.0,unmatched,,,,,,,,
+phosphate_limited,EX_cu2_m,,1000.0,unmatched,,,,,,,,
+phosphate_limited,EX_dachi_m,,0.1,unmatched,,,,,,,,
+phosphate_limited,EX_gly_asn__L_m,,10.0,unmatched,,,,,,,,
+phosphate_limited,EX_glygln_m,,10.0,unmatched,,,,,,,,
+phosphate_limited,EX_k_m,,1000.0,unmatched,,,,,,,,
+phosphate_limited,EX_mg2_m,,1000.0,unmatched,,,,,,,,
+phosphate_limited,EX_mn2_m,,1000.0,unmatched,,,,,,,,
+phosphate_limited,EX_na1_m,,1000.0,unmatched,,,,,,,,
+phosphate_limited,EX_ni2_m,,1000.0,unmatched,,,,,,,,
+phosphate_limited,EX_zn2_m,,1000.0,unmatched,,,,,,,,
+sulfur_limited,EX_C00001_m,C00001,1000.0,matched,UF03314_E,water exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,h2o_e,water,H2O,0,-1000.0,1000.0
+sulfur_limited,EX_C00007_m,C00007,1000.0,matched,UF03382_E,dioxygen exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,o2_e,dioxygen,O2,0,-1000.0,1000.0
+sulfur_limited,EX_C00009_m,C00009,1000.0,matched,UF02765_E,hydrogenphosphate exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,pi_e,hydrogenphosphate,HPO4,-2,-1000.0,1000.0
+sulfur_limited,EX_C00014_m,C00014,1000.0,matched,UF03376_E,Ammonium exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,nh4_e,ammonium,NH4,1,-1000.0,1000.0
+sulfur_limited,EX_C00025_m,C00025,10.0,matched,UF03292_E,L-glutamate(1-) exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,gluL_e,L-glutamate,C5H8NO4,-1,0.0,1000.0
+sulfur_limited,EX_C00031_m,C00031,10.0,matched,UF03288_E,D-glucose exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,glcD_e,alpha-D-glucose,C6H12O6,0,-10.0,1000.0
+sulfur_limited,EX_C00037_m,C00037,10.0,matched,UF03304_E,glycine zwitterion exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,gly_e,glycine zwitterion,C2H5NO2,0,0.0,1000.0
+sulfur_limited,EX_C00041_m,C00041,10.0,matched,UF03176_E,L-alanine zwitterion exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,alaL_e,L-alanine zwitterion,C3H7NO2,0,0.0,1000.0
+sulfur_limited,EX_C00042_m,C00042,10.0,matched,UF02804_E,succinate(2-) exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,succ_e,succinate(2-),C4H4O4,-2,0.0,1000.0
+sulfur_limited,EX_C00043_m,C00043,0.1,unmatched,,,,,,,,
+sulfur_limited,EX_C00049_m,C00049,10.0,matched,UF02552_E,L-aspartate(1-) exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,aspL_e,L-aspartate,C4H6NO4,-1,0.0,1000.0
+sulfur_limited,EX_C00059_m,C00059,10.0,matched,UF03456_E,Sulfate exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,so4_e,sulfate,SO4,-2,-1000.0,1000.0
+sulfur_limited,EX_C00065_m,C00065,10.0,matched,UF03454_E,L-serine zwitterion exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,serL_e,L-serine zwitterion,C3H7NO3,0,0.0,1000.0
+sulfur_limited,EX_C00080_m,C00080,1000.0,matched,UF03474_E,hydrogen exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,h_e,H+,H,1,-1000.0,1000.0
+sulfur_limited,EX_C00082_m,C00082,0.1,matched,UF02826_E,L-tyrosine zwitterion exchange_0_1_1_0_1_0_1_1_0_1_0_1_1_0_1_0_1_1_0_1_0_1_1_0_1,tyrL_e,L-tyrosine zwitterion,C9H11NO3,0,0.0,1000.0
+sulfur_limited,EX_C00089_m,C00089,0.1,matched,UF03468_E,Sucrose exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,sucr_e,sucrose,C12H22O11,0,0.0,1000.0
+sulfur_limited,EX_C00095_m,C00095,10.0,matched,UF03275_E,D-Fructose exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,fru_e,D-fructose,C6H12O6,0,0.0,1000.0
+sulfur_limited,EX_C00116_m,C00116,10.0,matched,UF03302_E,Glycerol exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,glyc_e,glycerol,C3H8O3,0,0.0,1000.0
+sulfur_limited,EX_C00122_m,C00122,10.0,matched,UF02628_E,fumarate(2-) exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,fum_e,fumarate(2-),C4H2O4,-2,0.0,1000.0
+sulfur_limited,EX_C00123_m,C00123,10.0,matched,UF03351_E,L-leucine zwitterion exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,leuL_e,L-leucine zwitterion,C6H13NO2,0,0.0,1000.0
+sulfur_limited,EX_C00148_m,C00148,0.1,matched,UF03424_E,L-proline zwitterion exchange_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1,proL_e,L-proline zwitterion,C5H9NO2,0,0.0,1000.0
+sulfur_limited,EX_C00149_m,C00149,10.0,matched,UF03510_E,(S)-malate exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,malL_e,(S)-malate,C4H4O5,-2,0.0,1000.0
+sulfur_limited,EX_C00152_m,C00152,0.1,matched,UF02550_E,L-asparagine zwitterion exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,asnL_e,L-asparagine zwitterion,C4H8N2O3,0,0.0,1000.0
+sulfur_limited,EX_C00158_m,C00158,10.0,matched,UF02577_E,citrate(3-) exchange_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1,cit_e,citrate(3-),C6H5O7,-3,0.0,1000.0
+sulfur_limited,EX_C00183_m,C00183,10.0,matched,UF03496_E,L-valine zwitterion exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,valL_e,L-valine zwitterion,C5H11NO2,0,0.0,1000.0
+sulfur_limited,EX_C00188_m,C00188,0.1,matched,UF03479_E,L-threonine zwitterion exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,thrL_e,L-threonine zwitterion,C4H9NO3,0,0.0,1000.0
+sulfur_limited,EX_C00208_m,C00208,10.0,matched,UF02707_E,Maltose exchange_0_1_1_0_1_0_1_1_0_1_0_1_1_0_1_0_1_1_0_1_0_1_1_0_1,malt_e,maltose,C12H22O11,0,0.0,1000.0
+sulfur_limited,EX_C00255_m,C00255,10.0,matched,UF02786_E,riboflavin(1-) exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,ribflv_e,riboflavin(1-),C17H19N4O6,-1,0.0,1000.0
+sulfur_limited,EX_C00296_m,C00296,10.0,matched,UF03433_E,(-)-quinate exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,quin_e,(-)-quinate,C7H11O6,-1,0.0,1000.0
+sulfur_limited,EX_C00334_m,C00334,10.0,matched,UF03137_E,4-aminobutanoate exchange_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1,4abut_e,4-aminobutanoate,C4H8NO2,-1,0.0,1000.0
+sulfur_limited,EX_C00378_m,C00378,10.0,matched,UF03477_E,thiamine(1+) exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,thm_e,thiamine(1+),C12H17N4OS,1,0.0,1000.0
+sulfur_limited,EX_C00407_m,C00407,10.0,matched,UF03339_E,L-isoleucine zwitterion exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,ileL_e,L-isoleucine zwitterion,C6H13NO2,0,0.0,1000.0
+sulfur_limited,EX_C00417_m,C00417,0.1,unmatched,,,,,,,,
+sulfur_limited,EX_C00483_m,C00483,10.0,unmatched,,,,,,,,
+sulfur_limited,EX_C00493_m,C00493,0.1,unmatched,,,,,,,,
+sulfur_limited,EX_C00504_m,C00504,10.0,matched,UF03032_E,folate exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,fol_e,folate(2-),C19H17N7O6,-2,0.0,1000.0
+sulfur_limited,EX_C06232_m,C06232,1000.0,unmatched,,,,,,,,
+sulfur_limited,EX_C14818_m,C14818,1000.0,matched,UF03268_E,iron(2+) exchange_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,fe2_e,iron(2+),Fe,2,-1000.0,1000.0
+sulfur_limited,EX_C14819_m,C14819,1000.0,unmatched,,,,,,,,
+sulfur_limited,EX_R_3httdca_m,,0.1,unmatched,,,,,,,,
+sulfur_limited,EX_acgam1p_m,,0.1,unmatched,,,,,,,,
+sulfur_limited,EX_acmana_m,,0.1,unmatched,,,,,,,,
+sulfur_limited,EX_ca2_m,,1000.0,unmatched,,,,,,,,
+sulfur_limited,EX_cl_m,,1000.0,unmatched,,,,,,,,
+sulfur_limited,EX_cobalt2_m,,1000.0,unmatched,,,,,,,,
+sulfur_limited,EX_cu2_m,,1000.0,unmatched,,,,,,,,
+sulfur_limited,EX_dachi_m,,0.1,unmatched,,,,,,,,
+sulfur_limited,EX_gly_asn__L_m,,10.0,unmatched,,,,,,,,
+sulfur_limited,EX_glygln_m,,10.0,unmatched,,,,,,,,
+sulfur_limited,EX_k_m,,1000.0,unmatched,,,,,,,,
+sulfur_limited,EX_mg2_m,,1000.0,unmatched,,,,,,,,
+sulfur_limited,EX_mn2_m,,1000.0,unmatched,,,,,,,,
+sulfur_limited,EX_na1_m,,1000.0,unmatched,,,,,,,,
+sulfur_limited,EX_ni2_m,,1000.0,unmatched,,,,,,,,
+sulfur_limited,EX_zn2_m,,1000.0,unmatched,,,,,,,,

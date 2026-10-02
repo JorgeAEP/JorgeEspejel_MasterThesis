@@ -1,0 +1,8 @@
+{
+  "scenario": "proline_relaxed_1",
+  "all_candidate_pairs": 13393,
+  "bacteria_to_fungus_pairs": 559,
+  "nonmedium_bacteria_to_fungus_pairs": 188,
+  "shared_pool_compatible_nonmedium_pairs": 181,
+  "note": "Non-medium candidates remain model-derived hypotheses. The shared-pool-compatible subset has the same external metabolite identifier and negligible net medium residual, but it is not direct biological proof of transfer."
+}

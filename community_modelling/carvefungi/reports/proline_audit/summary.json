@@ -1,0 +1,7 @@
+{
+  "output_dir": "/home/tlu/Desktop/Jorge/VS CODE/community_model_comparison_package/reports/126_shared52_proline_pathway_audit",
+  "scenario": "proline_relaxed_1",
+  "contexts": 9,
+  "source": "/home/tlu/Desktop/Jorge/VS CODE/community_model_comparison_package/reports/96_fungal_species_syncom_factorial_panel/raw_micom_runs",
+  "note": "Existing Script 96 full taxon-by-reaction MICOM exports were audited. Intracellular synthesis is reported only from explicit reaction fluxes; no exchange-only inference is used."
+}

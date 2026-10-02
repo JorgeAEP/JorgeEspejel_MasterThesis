@@ -1,0 +1,14 @@
+{
+  "created": "2026-09-22T15:44:30",
+  "output_folder": "/home/tlu/Desktop/Jorge/VS CODE/community_model_comparison_package/media/shared_barley_medium_versions",
+  "before_medium": "/home/tlu/Desktop/Jorge/VS CODE/community_model_comparison_package/media/shared_barley_medium_versions/01_shared_barley_medium_before_fusarium_expansion_dual_namespace.csv",
+  "before_rows": 88,
+  "supplement_model_exchange_table": "/home/tlu/Desktop/Jorge/VS CODE/community_model_comparison_package/media/shared_barley_medium_versions/02_fusarium_selected_37_supplement_model_exchange_table.csv",
+  "supplement_rows": 37,
+  "supplement_micom_rows": "/home/tlu/Desktop/Jorge/VS CODE/community_model_comparison_package/media/shared_barley_medium_versions/03_fusarium_selected_37_supplement_micom_medium_rows.csv",
+  "expanded_medium": "/home/tlu/Desktop/Jorge/VS CODE/community_model_comparison_package/media/shared_barley_medium_versions/04_shared_barley_medium_with_fusarium_expansion_dual_namespace.csv",
+  "expanded_rows": 125,
+  "duplicates_between_before_and_supplement": [],
+  "readme": "/home/tlu/Desktop/Jorge/VS CODE/community_model_comparison_package/media/shared_barley_medium_versions/README.md",
+  "audit": "/home/tlu/Desktop/Jorge/VS CODE/community_model_comparison_package/media/shared_barley_medium_versions/medium_version_audit.csv"
+}

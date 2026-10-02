@@ -1,0 +1,6 @@
+{
+  "rows": 12,
+  "long_csv": "/home/tlu/Desktop/Jorge/VS CODE/community_model_comparison_package/reports/114_biomass_tradeoff_2x2_summary/biomass_tradeoff_2x2_growth_long.csv",
+  "pivot_csv": "/home/tlu/Desktop/Jorge/VS CODE/community_model_comparison_package/reports/114_biomass_tradeoff_2x2_summary/biomass_tradeoff_2x2_growth_pivot.csv",
+  "delta_csv": "/home/tlu/Desktop/Jorge/VS CODE/community_model_comparison_package/reports/114_biomass_tradeoff_2x2_summary/biomass_tradeoff_2x2_delta_table.csv"
+}

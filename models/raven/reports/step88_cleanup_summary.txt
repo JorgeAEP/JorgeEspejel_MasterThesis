@@ -1,0 +1,35 @@
+Step 88 disconnected BH4 pair cleanup
+Generated: 2026-08-25T09:30:43
+
+Input checkpoint:
+/home/tlu/Desktop/Jorge/VS CODE/Bipolaris__sorokiniana/03_intermediate_models/87_post_shared_bacterial_medium_plus_fungal_supplements/87_post_shared_bacterial_medium_plus_fungal_supplements.xml
+
+Output checkpoint:
+/home/tlu/Desktop/Jorge/VS CODE/Bipolaris__sorokiniana/03_intermediate_models/88_post_remove_disconnected_bh4_pair/88_post_remove_disconnected_bh4_pair.xml
+
+Removed objects:
+- reaction: R11762 |  | isolated residual BH4 pair reaction
+- metabolite: C04244 | 6-Lactoyl-5,6,7,8-tetrahydropterin | orphan metabolite after isolated BH4 pair reaction removal
+- metabolite: C21640 | 6-(1'-Hydroxy-2'-oxopropyl)-tetrahydropterin | orphan metabolite after isolated BH4 pair reaction removal
+
+Connectivity:
+- before component count: 2
+- after component count: 1
+- before smallest component size: 2
+- after smallest component size: 1860
+
+Growth / integrity:
+- before growth: 2.807555182127699
+- after growth: 2.807555182127701
+- before biomass precursors: 55/55
+- after biomass precursors: 55/55
+- before carbon-free growth: 0.0
+- after carbon-free growth: 0.0
+
+Reload verification:
+- XML reload component count: 1
+- JSON reload component count: 1
+
+STEP 88 COMPLETE
+The isolated BH4 residual pair was removed.
+The updated model contains a single connected metabolite network.

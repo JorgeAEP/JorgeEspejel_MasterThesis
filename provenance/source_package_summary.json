@@ -1,0 +1,10 @@
+{
+  "package_folder": "/home/tlu/Desktop/Jorge/VS CODE/community_model_comparison_package",
+  "raven_independent_model": "/home/tlu/Desktop/Jorge/VS CODE/community_model_comparison_package/fungal_models/raven_independent/88_post_remove_disconnected_bh4_pair.xml",
+  "carvefungi_model": "/home/tlu/Desktop/Jorge/VS CODE/community_model_comparison_package/fungal_models/carvefungi/Bipolaris_sorokiniana_carvefungi_after_stoichiometry_correction.xml",
+  "hvsc1_bacterial_model_count": 27,
+  "hvsc2_bacterial_model_count": 26,
+  "media_folder": "/home/tlu/Desktop/Jorge/VS CODE/community_model_comparison_package/media",
+  "local_manifests_folder": "/home/tlu/Desktop/Jorge/VS CODE/community_model_comparison_package/manifests",
+  "files_in_manifest": 95
+}

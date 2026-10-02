@@ -1,0 +1,11 @@
+{
+  "source_panel": "/home/tlu/Desktop/Jorge/VS CODE/community_model_comparison_package/reports/96_fungal_species_syncom_factorial_panel",
+  "scenario": "proline_relaxed_1",
+  "flux_threshold": 0.0001,
+  "active_exchange_flux_rows": 10593,
+  "active_fungal_exchange_reactions": 232,
+  "active_bacterial_exchange_reactions": 437,
+  "unrecognised_exchange_like_flux_columns": 0,
+  "unresolved_name_formula_aliases": 145,
+  "interpretation": "Only exact external-metabolite identifiers and curated crosswalk relationships are matched. Name/formula aliases require manual review and are excluded from candidate exchange counts."
+}

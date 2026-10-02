@@ -1,0 +1,38 @@
+exchange_id,formula,metabolite_id,metabolite_name,native_flux,reaction_name,selection_reason
+UF02535_E,C3H7NO2,ala_B_e,beta-alanine zwitterion,100.0,beta-alanine zwitterion exchange,amino_acids
+UF02548_E,C6H15N4O2,argL_e,L-argininium,100.0,L-argininium(1+) exchange,amino_acids
+UF02585_E,C3H7NO2S,cysL_e,L-cysteine zwitterion,100.0,L-cysteine zwitterion exchange,amino_acids
+UF02644_E,C5H10N2O3,glnL_e,L-glutamine zwitterion,100.0,L-glutamine zwitterion exchange,amino_acids
+UF02647_E,C5H11NO2,glyb_e,glycine betaine,100.0,Glycine betaine exchange,amino_acids
+UF02669_E,C4H9NO3,homL_e,L-homoserine zwitterion,100.0,L-homoserine zwitterion exchange,amino_acids
+UF02761_E,C9H11NO2,pheL_e,L-phenylalanine zwitterion,100.0,L-phenylalanine zwitterion exchange,amino_acids
+UF02766_E,C9H16NO5,pntoR_e,(R)-pantothenate,100.0,(R)-pantothenate exchange,vitamins_cofactors
+UF02773_E,C8H13N2O2,pydam_e,pyridoxaminium(1+),100.0,pyridoxaminium(1+) exchange,vitamins_cofactors
+UF02774_E,C8H9NO3,pydx_e,pyridoxal,100.0,Pyridoxal exchange,vitamins_cofactors
+UF02775_E,C8H11NO3,pydxn_e,pyridoxine,100.0,Pyridoxine exchange,vitamins_cofactors
+UF02972_E,C16H29O2 ,9Zhxda_e,(9Z)-hexadecenoate,100.0,(9Z)-palmitoleate exchange,lipids_fatty_acids_sterols
+UF02973_E,C18H34O2,9Zocda_e,(9Z)-oleate,100.0,oleate exchange,lipids_fatty_acids_sterols
+UF02978_E,C16H31O2,hxda_e,palmitate,100.0,hexadecanoate exchange,lipids_fatty_acids_sterols
+UF02979_E,C14H25O2,9Ztda_e,(9Z)-myristoleate,100.0,(9Z)-myristoleate(1-) exchange,lipids_fatty_acids_sterols
+UF02980_E,C18H34O2,ocda_e,stearate,100.0,octadecanoate exchange,lipids_fatty_acids_sterols
+UF02981_E,C18H31O2 ,9Z12Zlnlc_e,"(9Z,12Z)-linoleate",100.0,linoleate exchange,lipids_fatty_acids_sterols
+UF02982_E,C14H27O2,tda_e,tetradecanoate,100.0,tetradecanoate exchange,lipids_fatty_acids_sterols
+UF02986_E,C18H30O2 ,9Z12Z15Zlnlncg_e,"(9Z,12Z,15Z)-alpha-linolenate",100.0,Alpha-linolenate exchange,lipids_fatty_acids_sterols
+UF02997_E,C10H15N2O3S,btn_e,biotinate,100.0,biotin exchange,vitamins_cofactors
+UF02999_E,C5H11NO2S,metL_e,L-methionine zwitterion,100.0,L-methionine zwitterion exchange,amino_acids
+UF03006_E,C28H46O,epist_e,9xi-episterol,100.0,9xi-episterol exchange,lipids_fatty_acids_sterols
+UF03008_E,C30H50O,lanost_e,lanosterol,100.0,Lanosterol exchange,lipids_fatty_acids_sterols
+UF03012_E,C29H43O2R,ergester_e,ergosterol ester,100.0,ergester_e exchange,lipids_fatty_acids_sterols
+UF03013_E,C29H45O2R,epiester_e,episterol ester,100.0,epiester_e exchange,lipids_fatty_acids_sterols
+UF03015_E,C31H49O2R,lanoester_e,lanosterol ester,100.0,lanoester_e exchange,lipids_fatty_acids_sterols
+UF03017_E,C42H36FeN4O16,sheme_e,siroheme(8-),100.0,siroheme exchange,vitamins_cofactors
+UF03044_E,C7H8O2,guaiacol_e,guaiacol,100.0,guaiacol exchange,single_guaiacol_rescue_trigger
+UF03045_E,C3H7NO2,alaD_e,D-alanine zwitterion,100.0,D-alanine zwitterion exchange,amino_acids
+UF03190_E,C15H23N6O5S,amet_e,S-adenosyl-L-methionine zwitterion,100.0,S-adenosyl-L-methionine zwitterion exchange,amino_acids
+UF03214_E,C28H45O2R,cholestester_e,cholesterol ester,100.0,Cholesterol ester exchange,lipids_fatty_acids_sterols
+UF03215_E,C27H46O,cholest_e,cholesterol,100.0,Cholesterol exchange,lipids_fatty_acids_sterols
+UF03218_E,C6H13N3O3,citrL_e,L-citrulline zwitterion,100.0,L-citrulline zwitterion exchange,amino_acids
+UF03249_E,C4H9NO2,dmgly_e,"N,N-dimethylglycine zwitterion",100.0,N.N-dimethylglycine zwitterion exchange,amino_acids
+UF03401_E,C29H33N9O12,hpglu_e,tetrahydropteroyltri-L-glutamate(4-),100.0,tetrahydropteroyltri-L-glutamate(4-) exchange,amino_acids
+UF03507_E,C27H44O,zymst_e,zymosterol,100.0,zymosterol exchange,lipids_fatty_acids_sterols
+UF03533_E,C7H9NO5,acglu_e,N-acetyl-L-glutamate(2-),100.0,N-acetyl-L-glutamate(2-) exchange,amino_acids

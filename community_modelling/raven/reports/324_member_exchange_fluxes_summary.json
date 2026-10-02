@@ -1,0 +1,25 @@
+{
+  "created_on": "2026-08-31",
+  "conditions": [
+    "combined_source_limited",
+    "full",
+    "phosphate_limited"
+  ],
+  "communities": [
+    "fungus_alone",
+    "hvsc1_plus_bipolaris",
+    "hvsc2_plus_bipolaris"
+  ],
+  "rows_long_table": 48653,
+  "member_rows": 45084,
+  "medium_rows": 3569,
+  "fungal_rows": 666,
+  "bacterial_rows": 44418,
+  "curated76_rows": 8671,
+  "files": {
+    "long": "/home/tlu/Desktop/Jorge/VS CODE/Bipolaris__sorokiniana/04_reports/324_phosphate_mechanism_pipeline/324_member_exchange_fluxes_long.csv",
+    "actor_summary": "/home/tlu/Desktop/Jorge/VS CODE/Bipolaris__sorokiniana/04_reports/324_phosphate_mechanism_pipeline/324_member_exchange_fluxes_actor_summary.csv",
+    "metabolite_summary": "/home/tlu/Desktop/Jorge/VS CODE/Bipolaris__sorokiniana/04_reports/324_phosphate_mechanism_pipeline/324_member_exchange_fluxes_metabolite_summary.csv",
+    "provenance": "/home/tlu/Desktop/Jorge/VS CODE/Bipolaris__sorokiniana/04_reports/324_phosphate_mechanism_pipeline/324_member_exchange_fluxes_provenance.csv"
+  }
+}

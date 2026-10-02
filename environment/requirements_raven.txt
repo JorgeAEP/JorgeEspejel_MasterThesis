@@ -1,0 +1,41 @@
+# Bipolaris sorokiniana GEM reconstruction and curation
+# Python dependencies for COBRApy-based model processing
+#
+# Install with:
+# python -m pip install --upgrade pip
+# python -m pip install -r requirements.txt
+
+# Constraint-based metabolic modelling
+cobra==0.31.1
+
+# SBML reading, writing and validation
+python-libsbml>=5.20,<6
+
+# Numerical and scientific computing
+numpy>=1.26,<3
+scipy>=1.12,<2
+pandas>=2.2,<3
+
+# Spreadsheet and tabular output
+openpyxl==3.1.5
+xlsxwriter>=3.2,<4
+tabulate>=0.9,<1
+
+# YAML and structured model files
+pyyaml>=6,<7
+
+# Network and graph analyses
+networkx>=3.2,<4
+
+# Plotting and report generation
+matplotlib>=3.8,<4
+
+# Progress bars
+tqdm>=4.66,<5
+
+# Interactive analysis
+ipykernel>=6.29,<7
+jupyterlab>=4,<5
+
+# Testing and quality control
+pytest>=8,<9

@@ -1,0 +1,11 @@
+{
+  "package": "/home/tlu/Desktop/Jorge/VS CODE/community_model_comparison_package",
+  "report_root": "/home/tlu/Desktop/Jorge/VS CODE/community_model_comparison_package/reports/96_fungal_species_syncom_factorial_panel",
+  "raw_micom_runs": "/home/tlu/Desktop/Jorge/VS CODE/community_model_comparison_package/reports/96_fungal_species_syncom_factorial_panel/raw_micom_runs",
+  "solver": "cplex",
+  "fraction": 1.0,
+  "job_count": 9,
+  "failed_jobs": 0,
+  "all_jobs_ok": true,
+  "finished": "2026-09-29T14:05:00"
+}

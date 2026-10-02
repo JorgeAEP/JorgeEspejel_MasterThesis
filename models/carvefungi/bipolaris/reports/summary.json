@@ -1,0 +1,75 @@
+{
+  "mother_model": "/home/tlu/Desktop/Jorge/VS CODE/Bipolaris_sorokiniana_carveme/04_models/Bipolaris_sorokiniana_carvefungi.xml",
+  "mother_checksum_before": "55adadc17bdf116a62821880a6342cba5804742866280aa3cdb8ce8b700b5541",
+  "mother_checksum_after": "55adadc17bdf116a62821880a6342cba5804742866280aa3cdb8ce8b700b5541",
+  "mother_model_unchanged": true,
+  "derived_xml": "/home/tlu/Desktop/Jorge/VS CODE/Bipolaris_sorokiniana_carveme/04_models/Bipolaris_sorokiniana_carvefungi_after_stoichiometry_correction.xml",
+  "derived_xml_sha256": "09e2caeb2a7feeb5cf491b32942f02ca183e47027daf109b17934e6a42066fc1",
+  "derived_json": "/home/tlu/Desktop/Jorge/VS CODE/Bipolaris_sorokiniana_carveme/04_models/Bipolaris_sorokiniana_carvefungi_after_stoichiometry_correction.json",
+  "derived_json_sha256": "d12ff551e0c6559901684b570d596d7639e42f4c0274247b9f29d182d990490e",
+  "selected_correction": {
+    "UF00430_CR": "h_r coefficient -1 -> -2",
+    "UF00435_C": "remove 2 h_c reactants; h2o_c coefficient +2 -> +1"
+  },
+  "baseline": {
+    "condition": "current_viable_harmonized_baseline",
+    "memote_pass": false,
+    "unconserved_count": 7,
+    "unconserved_metabolites": "h_c;h_e;h_m;h_n;h_r;h_x;hi_m",
+    "growth_status": "optimal",
+    "growth": 11.146350060683758,
+    "growth_delta_vs_baseline": -4.085620730620576e-14,
+    "growth_ratio_vs_baseline": 0.9999999999999963,
+    "carbon_free_status": "optimal",
+    "carbon_free_growth": 0.0,
+    "objective_expression": "1.0*BIOMASS_BIPOLARIS_DIRECT_HARMONIZED_CF - 1.0*BIOMASS_BIPOLARIS_DIRECT_HARMONIZED_CF_reverse_438b1",
+    "objective_direction": "max",
+    "biomass_reaction_id": "BIOMASS_BIPOLARIS_DIRECT_HARMONIZED_CF",
+    "biomass_equation": "0.0186362284446717 12dgr_c + 0.0294408196006602 1aglyc_c + 0.0064217979613458 1agpc_c + 0.0102236713718235 1gr3petha_c + 0.0007281194240842 9Z12Z15Zlnlncg_c + 0.0145179514974092 9Z12Zlnlc_c + 0.021651412664999 9Zocda_c + 1.40316755110735 alaL_c + 0.0278122418792401 amp_c + 0.023934424463854 argL_c + 0.020987291324898 asnL_c + 0.0916085176736937 aspL_c + 0.003625691059926 clpn_m + 0.0212935474239356 cmp_c + 0.0094588631306413 coa_c + 0.0164219605782342 cysL_c + 0.0046210726467883 damp_c + 0.0046725257559158 dgmp_c + 0.0043816348730713 dtmp_c + 0.0002155109978423 epist_c + 0.0088284512093286 ergst_c + 0.160239928635564 glnL_c + 0.953163180812749 gluL_c + 0.0783252926191978 gly_c + 0.0310692730533455 gmp_c + 0.0038333158420551 hisL_c + 0.014955598297248 hxda_c + 0.0087751029887381 ileL_c + 0.0001764456612167 lanost_c + 0.0098074680462367 leuL_c + 0.035316501473541 lysL_c + 0.0013356222931388 metL_c + 0.011711645223229 pc_c + 0.011159882072025 pe_c + 0.0021827808278501 pheL_c + 0.0866064142634991 proL_c + 0.0054635336115283 ps_c + 0.0049797500548819 ptd1ino_c + 0.0192898415602559 ribflv_c + 0.0643945410601058 serL_c + 0.0004438612800492 tda_c + 0.0162988865570555 thf_c + 0.0170697253608154 thmpp_c + 0.0415943771796608 thrL_c + 0.00901271122612 tre_c + 0.0213981747750414 triglyc_c + 0.0004705016777462 trpL_c + 0.0044744465431786 tyrL_c + 0.442829187390135 uacgam_c + 1.43781930636124 udpg_c + 0.0284192826668287 ump_c + 0.0718871000131047 valL_c --> ",
+    "reaction_count": 2057,
+    "metabolite_count": 1564,
+    "gene_count": 551
+  },
+  "after_stoichiometry_correction": {
+    "condition": "after_stoichiometry_correction_model",
+    "memote_pass": true,
+    "unconserved_count": 0,
+    "unconserved_metabolites": "",
+    "growth_status": "optimal",
+    "growth": 11.146350061412337,
+    "growth_delta_vs_baseline": 7.285372305432247e-10,
+    "growth_ratio_vs_baseline": 1.000000000065361,
+    "carbon_free_status": "optimal",
+    "carbon_free_growth": 0.0,
+    "objective_expression": "1.0*BIOMASS_BIPOLARIS_DIRECT_HARMONIZED_CF - 1.0*BIOMASS_BIPOLARIS_DIRECT_HARMONIZED_CF_reverse_438b1",
+    "objective_direction": "max",
+    "biomass_reaction_id": "BIOMASS_BIPOLARIS_DIRECT_HARMONIZED_CF",
+    "biomass_equation": "0.0186362284446717 12dgr_c + 0.0294408196006602 1aglyc_c + 0.0064217979613458 1agpc_c + 0.0102236713718235 1gr3petha_c + 0.0007281194240842 9Z12Z15Zlnlncg_c + 0.0145179514974092 9Z12Zlnlc_c + 0.021651412664999 9Zocda_c + 1.40316755110735 alaL_c + 0.0278122418792401 amp_c + 0.023934424463854 argL_c + 0.020987291324898 asnL_c + 0.0916085176736937 aspL_c + 0.003625691059926 clpn_m + 0.0212935474239356 cmp_c + 0.0094588631306413 coa_c + 0.0164219605782342 cysL_c + 0.0046210726467883 damp_c + 0.0046725257559158 dgmp_c + 0.0043816348730713 dtmp_c + 0.0002155109978423 epist_c + 0.0088284512093286 ergst_c + 0.160239928635564 glnL_c + 0.953163180812749 gluL_c + 0.0783252926191978 gly_c + 0.0310692730533455 gmp_c + 0.0038333158420551 hisL_c + 0.014955598297248 hxda_c + 0.0087751029887381 ileL_c + 0.0001764456612167 lanost_c + 0.0098074680462367 leuL_c + 0.035316501473541 lysL_c + 0.0013356222931388 metL_c + 0.011711645223229 pc_c + 0.011159882072025 pe_c + 0.0021827808278501 pheL_c + 0.0866064142634991 proL_c + 0.0054635336115283 ps_c + 0.0049797500548819 ptd1ino_c + 0.0192898415602559 ribflv_c + 0.0643945410601058 serL_c + 0.0004438612800492 tda_c + 0.0162988865570555 thf_c + 0.0170697253608154 thmpp_c + 0.0415943771796608 thrL_c + 0.00901271122612 tre_c + 0.0213981747750414 triglyc_c + 0.0004705016777462 trpL_c + 0.0044744465431786 tyrL_c + 0.442829187390135 uacgam_c + 1.43781930636124 udpg_c + 0.0284192826668287 ump_c + 0.0718871000131047 valL_c --> ",
+    "reaction_count": 2057,
+    "metabolite_count": 1564,
+    "gene_count": 551
+  },
+  "old_C_explicit_H_neutralization_edits_changed": 44,
+  "biomass_reaction_unchanged": true,
+  "objective_unchanged": true,
+  "biomass_precursor_summary": [
+    {
+      "condition": "after_stoichiometry_correction_model",
+      "precursors_tested": 52,
+      "precursors_producible": 52
+    }
+  ],
+  "pass_gate": {
+    "saved_derived_xml_exists": true,
+    "saved_derived_json_exists": true,
+    "internal_memote_unconserved_zero": true,
+    "growth_retained_99_999_percent": true,
+    "carbon_free_growth_zero": true,
+    "all_biomass_precursors_producible": true,
+    "biomass_reaction_unchanged": true,
+    "objective_unchanged": true,
+    "mother_model_unchanged": true
+  },
+  "all_pass_gate_checks_true": true,
+  "real_memote_command": "# Full MEMOTE test collection as JSON:\n02_environment/.venv-carveme/bin/memote run \\\n  --ignore-git \\\n  --solver gurobi \\\n  --filename /home/tlu/Desktop/Jorge/VS CODE/Bipolaris_sorokiniana_carveme/06_reports/74_after_stoichiometry_correction_model_creation/real_memote_after_stoichiometry_correction_results.json.gz \\\n  /home/tlu/Desktop/Jorge/VS CODE/Bipolaris_sorokiniana_carveme/04_models/Bipolaris_sorokiniana_carvefungi_after_stoichiometry_correction.xml\n\n# Full MEMOTE HTML snapshot report:\n02_environment/.venv-carveme/bin/memote report snapshot \\\n  --solver gurobi \\\n  --filename /home/tlu/Desktop/Jorge/VS CODE/Bipolaris_sorokiniana_carveme/06_reports/74_after_stoichiometry_correction_model_creation/real_memote_after_stoichiometry_correction.html \\\n  /home/tlu/Desktop/Jorge/VS CODE/Bipolaris_sorokiniana_carveme/04_models/Bipolaris_sorokiniana_carvefungi_after_stoichiometry_correction.xml"
+}

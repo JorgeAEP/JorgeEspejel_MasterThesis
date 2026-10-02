@@ -1,0 +1,4 @@
+object_type,object_id,name,equation_before,reason
+reaction,R11762,,C04244 <=> C21640,isolated residual BH4 pair reaction
+metabolite,C04244,"6-Lactoyl-5,6,7,8-tetrahydropterin",,orphan metabolite after isolated BH4 pair reaction removal
+metabolite,C21640,6-(1'-Hydroxy-2'-oxopropyl)-tetrahydropterin,,orphan metabolite after isolated BH4 pair reaction removal

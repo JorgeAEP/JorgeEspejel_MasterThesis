@@ -1,0 +1,17 @@
+{
+  "competition_rows": 298,
+  "phosphate_rows": 6,
+  "conditions": [
+    "combined_source_limited",
+    "full",
+    "phosphate_limited"
+  ],
+  "communities": [
+    "hvsc1_plus_bipolaris",
+    "hvsc2_plus_bipolaris"
+  ],
+  "outputs": {
+    "competition": "/home/tlu/Desktop/Jorge/VS CODE/Bipolaris__sorokiniana/04_reports/324_phosphate_mechanism_pipeline/325_resource_competition_by_condition.csv",
+    "phosphate": "/home/tlu/Desktop/Jorge/VS CODE/Bipolaris__sorokiniana/04_reports/324_phosphate_mechanism_pipeline/325_phosphate_focus_summary.csv"
+  }
+}

@@ -1,0 +1,3 @@
+sample_id,id,file,abundance,source,kind
+fungi_pair__carvefungi_52,Bipolaris_sorokiniana_carvefungi_52,/home/tlu/Desktop/Jorge/VS CODE/community_model_comparison_package/fungal_models/biomass_variant_panel/Bipolaris_sorokiniana_carvefungi_52biomass.xml,1.0,Bipolaris_carvefungi_52biomass,fungus
+fungi_pair__carvefungi_52,Fusarium_graminearum_carvefungi_52,/home/tlu/Desktop/Jorge/VS CODE/community_model_comparison_package/fungal_models/biomass_variant_panel/Fusarium_graminearum_carvefungi_52biomass.xml,1.0,Fusarium_carvefungi_52biomass,fungus

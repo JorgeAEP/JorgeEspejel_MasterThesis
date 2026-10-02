@@ -1,0 +1,105 @@
+coefficient,compartment,formula,maximum_production,medium_condition,metabolite_id,metabolite_name,producible,status
+-0.0186362284446717,c,C5H6O5R2,50.0,native_medium,12dgr_c,"1,2-diacyl-sn-glycerol",True,optimal
+-0.0294408196006602,c,C4H7O4R,100.0,native_medium,1aglyc_c,1-acylglycerol,True,optimal
+-0.0064217979613458,c,C9H20NO7PR,50.0,native_medium,1agpc_c,1-O-acyl-sn-glycero-3-phosphocholine(1+),True,optimal
+-0.0102236713718235,c,C6H13NO7PR,50.0,native_medium,1gr3petha_c,1-acyl-sn-glycero-3-phosphoethanolamine,True,optimal
+-0.0007281194240842,c,C18H30O2 ,200.0,native_medium,9Z12Z15Zlnlncg_c,"(9Z,12Z,15Z)-alpha-linolenate",True,optimal
+-0.0145179514974092,c,C18H31O2 ,200.0,native_medium,9Z12Zlnlc_c,"(9Z,12Z)-linoleate",True,optimal
+-0.021651412664999,c,C18H34O2,225.03,native_medium,9Zocda_c,(9Z)-oleate,True,optimal
+-1.40316755110735,c,C3H7NO2,400.0,native_medium,alaL_c,L-alanine zwitterion,True,optimal
+-0.0278122418792401,c,C10H12N5O7P,200.0,native_medium,amp_c,AMP(2-),True,optimal
+-0.023934424463854,c,C6H15N4O2,200.0,native_medium,argL_c,L-argininium,True,optimal
+-0.020987291324898,c,C4H8N2O3,200.0,native_medium,asnL_c,L-asparagine zwitterion,True,optimal
+-0.0916085176736937,c,C4H6NO4,300.0,native_medium,aspL_c,L-aspartate,True,optimal
+-0.003625691059926,m,C13H16O17P2R4,25.0,native_medium,clpn_m,cardiolipin(2-),True,optimal
+-0.0212935474239356,c,C9H12N3O8P,300.0,native_medium,cmp_c,CMP(2-),True,optimal
+-0.0094588631306413,c,C21H32N7O16P3S,50.0,native_medium,coa_c,coenzyme A(4-),True,optimal
+-0.0164219605782342,c,C3H7NO2S,200.0,native_medium,cysL_c,L-cysteine zwitterion,True,optimal
+-0.0046210726467883,c,C10H12N5O6P,100.0,native_medium,damp_c,dAMP(2-),True,optimal
+-0.0046725257559158,c,C10H12N5O7P,100.0,native_medium,dgmp_c,dGMP(2-),True,optimal
+-0.0043816348730713,c,C10H13N2O8P,300.0,native_medium,dtmp_c,dTMP(2-),True,optimal
+-0.0002155109978423,c,C28H46O,300.0,native_medium,epist_c,9xi-episterol,True,optimal
+-0.0088284512093286,c,C28H44O,100.0,native_medium,ergst_c,ergosterol,True,optimal
+-0.160239928635564,c,C5H10N2O3,300.0,native_medium,glnL_c,L-glutamine zwitterion,True,optimal
+-0.953163180812749,c,C5H8NO4,650.0,native_medium,gluL_c,L-glutamate,True,optimal
+-0.0783252926191978,c,C2H5NO2,500.0,native_medium,gly_c,glycine zwitterion,True,optimal
+-0.0310692730533455,c,C10H12N5O8P,100.0,native_medium,gmp_c,GMP(2-),True,optimal
+-0.0038333158420551,c,C6H9N3O2,50.0,native_medium,hisL_c,L-histidine zwitterion,True,optimal
+-0.014955598297248,c,C16H31O2,115.33,native_medium,hxda_c,palmitate,True,optimal
+-0.0087751029887381,c,C6H13NO2,300.0,native_medium,ileL_c,L-isoleucine zwitterion,True,optimal
+-0.0001764456612167,c,C30H50O,211.11111111111111,native_medium,lanost_c,lanosterol,True,optimal
+-0.0098074680462367,c,C6H13NO2,200.0,native_medium,leuL_c,L-leucine zwitterion,True,optimal
+-0.035316501473541,c,C6H15N2O2,200.0,native_medium,lysL_c,L-lysinium,True,optimal
+-0.0013356222931388,c,C5H11NO2S,200.0,native_medium,metL_c,L-methionine zwitterion,True,optimal
+-0.011711645223229,c,C10H19NO8PR2,50.0,native_medium,pc_c,"1,2-diacyl-sn-glycero-3-phosphocholine",True,optimal
+-0.011159882072025,c,C7H12NO8PR2,50.0,native_medium,pe_c,phosphatidylethanolamine zwitterion,True,optimal
+-0.0021827808278501,c,C9H11NO2,200.0,native_medium,pheL_c,L-phenylalanine zwitterion,True,optimal
+-0.0866064142634991,c,C5H9NO2,100.0,native_medium,proL_c,L-proline zwitterion,True,optimal
+-0.0054635336115283,c,C8H11NO10PR2,50.0,native_medium,ps_c,3-sn-phosphatidyl-L-serine(1-),True,optimal
+-0.0049797500548819,c,C11H16O13PR2,50.0,native_medium,ptd1ino_c,1-phosphatidyl-1D-myo-inositol(1-),True,optimal
+-0.0192898415602559,c,C17H19N4O6,150.0,native_medium,ribflv_c,riboflavin(1-),True,optimal
+-0.0643945410601058,c,C3H7NO3,250.0,native_medium,serL_c,L-serine zwitterion,True,optimal
+-0.0004438612800492,c,C14H27O2,101.15,native_medium,tda_c,tetradecanoate,True,optimal
+-0.0162988865570555,c,C19H21N7O6,100.0,native_medium,thf_c,"(6S)-5,6,7,8-tetrahydrofolate",True,optimal
+-0.0170697253608154,c,C12H16N4O7P2S,100.0,native_medium,thmpp_c,thiamine(+) diphosphate(3-),True,optimal
+-0.0415943771796608,c,C4H9NO3,200.0,native_medium,thrL_c,L-threonine zwitterion,True,optimal
+-0.00901271122612,c,C12H22O11,200.0,native_medium,tre_c,"alpha,alpha-trehalose",True,optimal
+-0.0213981747750414,c,C6H5O6R3,33.33333333333333,native_medium,triglyc_c,triglyceride,True,optimal
+-0.0004705016777462,c,C11H12N2O2,100.0,native_medium,trpL_c,L-tryptophan  zwitterion,True,optimal
+-0.0044744465431786,c,C9H11NO3,200.0,native_medium,tyrL_c,L-tyrosine zwitterion,True,optimal
+-0.442829187390135,c,C17H25N3O17P2,100.0,native_medium,uacgam_c,UDP-N-acetyl-alpha-D-glucosamine(2-),True,optimal
+-1.43781930636124,c,C15H22N2O17P2,100.0,native_medium,udpg_c,UDP-D-glucose(2-),True,optimal
+-0.0284192826668287,c,C9H11N2O9P,400.0,native_medium,ump_c,UMP(2-),True,optimal
+-0.0718871000131047,c,C5H11NO2,200.0,native_medium,valL_c,L-valine zwitterion,True,optimal
+-0.0186362284446717,c,C5H6O5R2,50.0,selected_shared_plus_37_medium,12dgr_c,"1,2-diacyl-sn-glycerol",True,optimal
+-0.0294408196006602,c,C4H7O4R,95.12296296296299,selected_shared_plus_37_medium,1aglyc_c,1-acylglycerol,True,optimal
+-0.0064217979613458,c,C9H20NO7PR,33.333333333333336,selected_shared_plus_37_medium,1agpc_c,1-O-acyl-sn-glycero-3-phosphocholine(1+),True,optimal
+-0.0102236713718235,c,C6H13NO7PR,40.800000000000004,selected_shared_plus_37_medium,1gr3petha_c,1-acyl-sn-glycero-3-phosphoethanolamine,True,optimal
+-0.0007281194240842,c,C18H30O2 ,184.21578947368423,selected_shared_plus_37_medium,9Z12Z15Zlnlncg_c,"(9Z,12Z,15Z)-alpha-linolenate",True,optimal
+-0.0145179514974092,c,C18H31O2 ,187.45714285714286,selected_shared_plus_37_medium,9Z12Zlnlc_c,"(9Z,12Z)-linoleate",True,optimal
+-0.021651412664999,c,C18H34O2,212.48714285714286,selected_shared_plus_37_medium,9Zocda_c,(9Z)-oleate,True,optimal
+-1.40316755110735,c,C3H7NO2,181.16213683223992,selected_shared_plus_37_medium,alaL_c,L-alanine zwitterion,True,optimal
+-0.0278122418792401,c,C10H12N5O7P,30.43004562242016,selected_shared_plus_37_medium,amp_c,AMP(2-),True,optimal
+-0.023934424463854,c,C6H15N4O2,200.0,selected_shared_plus_37_medium,argL_c,L-argininium,True,optimal
+-0.020987291324898,c,C4H8N2O3,100.1,selected_shared_plus_37_medium,asnL_c,L-asparagine zwitterion,True,optimal
+-0.0916085176736937,c,C4H6NO4,110.1,selected_shared_plus_37_medium,aspL_c,L-aspartate,True,optimal
+-0.003625691059926,m,C13H16O17P2R4,25.0,selected_shared_plus_37_medium,clpn_m,cardiolipin(2-),True,optimal
+-0.0212935474239356,c,C9H12N3O8P,37.88257575757576,selected_shared_plus_37_medium,cmp_c,CMP(2-),True,optimal
+-0.0094588631306413,c,C21H32N7O16P3S,16.903553299492387,selected_shared_plus_37_medium,coa_c,coenzyme A(4-),True,optimal
+-0.0164219605782342,c,C3H7NO2S,100.0,selected_shared_plus_37_medium,cysL_c,L-cysteine zwitterion,True,optimal
+-0.0046210726467883,c,C10H12N5O6P,24.850746268656607,selected_shared_plus_37_medium,damp_c,dAMP(2-),True,optimal
+-0.0046725257559158,c,C10H12N5O7P,23.773224043715686,selected_shared_plus_37_medium,dgmp_c,dGMP(2-),True,optimal
+-0.0043816348730713,c,C10H13N2O8P,50.45454545454546,selected_shared_plus_37_medium,dtmp_c,dTMP(2-),True,optimal
+-0.0002155109978423,c,C28H46O,300.0,selected_shared_plus_37_medium,epist_c,9xi-episterol,True,optimal
+-0.0088284512093286,c,C28H44O,100.0,selected_shared_plus_37_medium,ergst_c,ergosterol,True,optimal
+-0.160239928635564,c,C5H10N2O3,185.053125,selected_shared_plus_37_medium,glnL_c,L-glutamine zwitterion,True,optimal
+-0.953163180812749,c,C5H8NO4,200.1881578947369,selected_shared_plus_37_medium,gluL_c,L-glutamate,True,optimal
+-0.0783252926191978,c,C2H5NO2,226.07633136094677,selected_shared_plus_37_medium,gly_c,glycine zwitterion,True,optimal
+-0.0310692730533455,c,C10H12N5O8P,25.96669687358407,selected_shared_plus_37_medium,gmp_c,GMP(2-),True,optimal
+-0.0038333158420551,c,C6H9N3O2,43.81578947368421,selected_shared_plus_37_medium,hisL_c,L-histidine zwitterion,True,optimal
+-0.014955598297248,c,C16H31O2,115.33,selected_shared_plus_37_medium,hxda_c,palmitate,True,optimal
+-0.0087751029887381,c,C6H13NO2,96.76666666666665,selected_shared_plus_37_medium,ileL_c,L-isoleucine zwitterion,True,optimal
+-0.0001764456612167,c,C30H50O,205.02907168814008,selected_shared_plus_37_medium,lanost_c,lanosterol,True,optimal
+-0.0098074680462367,c,C6H13NO2,66.59672131147542,selected_shared_plus_37_medium,leuL_c,L-leucine zwitterion,True,optimal
+-0.035316501473541,c,C6H15N2O2,57.82222222222222,selected_shared_plus_37_medium,lysL_c,L-lysinium,True,optimal
+-0.0013356222931388,c,C5H11NO2S,200.0,selected_shared_plus_37_medium,metL_c,L-methionine zwitterion,True,optimal
+-0.011711645223229,c,C10H19NO8PR2,33.333333333333336,selected_shared_plus_37_medium,pc_c,"1,2-diacyl-sn-glycero-3-phosphocholine",True,optimal
+-0.011159882072025,c,C7H12NO8PR2,40.80000000000001,selected_shared_plus_37_medium,pe_c,phosphatidylethanolamine zwitterion,True,optimal
+-0.0021827808278501,c,C9H11NO2,157.98367346938778,selected_shared_plus_37_medium,pheL_c,L-phenylalanine zwitterion,True,optimal
+-0.0866064142634991,c,C5H9NO2,0.1,selected_shared_plus_37_medium,proL_c,L-proline zwitterion,True,optimal
+-0.0054635336115283,c,C8H11NO10PR2,47.55280898876405,selected_shared_plus_37_medium,ps_c,3-sn-phosphatidyl-L-serine(1-),True,optimal
+-0.0049797500548819,c,C11H16O13PR2,36.865217391304355,selected_shared_plus_37_medium,ptd1ino_c,1-phosphatidyl-1D-myo-inositol(1-),True,optimal
+-0.0192898415602559,c,C17H19N4O6,25.929599999999937,selected_shared_plus_37_medium,ribflv_c,riboflavin(1-),True,optimal
+-0.0643945410601058,c,C3H7NO3,144.5184210526317,selected_shared_plus_37_medium,serL_c,L-serine zwitterion,True,optimal
+-0.0004438612800492,c,C14H27O2,101.15,selected_shared_plus_37_medium,tda_c,tetradecanoate,True,optimal
+-0.0162988865570555,c,C19H21N7O6,10.0,selected_shared_plus_37_medium,thf_c,"(6S)-5,6,7,8-tetrahydrofolate",True,optimal
+-0.0170697253608154,c,C12H16N4O7P2S,10.0,selected_shared_plus_37_medium,thmpp_c,thiamine(+) diphosphate(3-),True,optimal
+-0.0415943771796608,c,C4H9NO3,100.1,selected_shared_plus_37_medium,thrL_c,L-threonine zwitterion,True,optimal
+-0.00901271122612,c,C12H22O11,34.942682926829264,selected_shared_plus_37_medium,tre_c,"alpha,alpha-trehalose",True,optimal
+-0.0213981747750414,c,C6H5O6R3,33.33333333333333,selected_shared_plus_37_medium,triglyc_c,triglyceride,True,optimal
+-0.0004705016777462,c,C11H12N2O2,43.628318584070804,selected_shared_plus_37_medium,trpL_c,L-tryptophan  zwitterion,True,optimal
+-0.0044744465431786,c,C9H11NO3,58.08367346938777,selected_shared_plus_37_medium,tyrL_c,L-tyrosine zwitterion,True,optimal
+-0.442829187390135,c,C17H25N3O17P2,28.173913043478265,selected_shared_plus_37_medium,uacgam_c,UDP-N-acetyl-alpha-D-glucosamine(2-),True,optimal
+-1.43781930636124,c,C15H22N2O17P2,32.49413793103449,selected_shared_plus_37_medium,udpg_c,UDP-D-glucose(2-),True,optimal
+-0.0284192826668287,c,C9H11N2O9P,54.879310344827594,selected_shared_plus_37_medium,ump_c,UMP(2-),True,optimal
+-0.0718871000131047,c,C5H11NO2,101.03225806451614,selected_shared_plus_37_medium,valL_c,L-valine zwitterion,True,optimal

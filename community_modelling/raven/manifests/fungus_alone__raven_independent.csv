@@ -1,0 +1,2 @@
+sample_id,id,file,abundance,source,kind
+fungus_alone__raven_independent,Bipolaris_sorokiniana_raven_independent,/home/tlu/Desktop/Jorge/VS CODE/community_model_comparison_package/fungal_models/raven_independent/88_post_remove_disconnected_bh4_pair.xml,1.0,Bipolaris_raven_independent,fungus

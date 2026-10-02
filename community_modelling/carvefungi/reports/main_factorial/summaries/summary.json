@@ -1,0 +1,10 @@
+{
+  "report_root": "/home/tlu/Desktop/Jorge/VS CODE/community_model_comparison_package/reports/96_fungal_species_syncom_factorial_panel",
+  "summary_dir": "/home/tlu/Desktop/Jorge/VS CODE/community_model_comparison_package/reports/96_fungal_species_syncom_factorial_panel/summaries",
+  "runs": 9,
+  "growth_rows": 180,
+  "fungal_growth_effect_rows": 8,
+  "bacterial_growth_effect_rows": 159,
+  "exchange_flux_rows": 49360,
+  "candidate_opposite_direction_exchange_rows": 147
+}

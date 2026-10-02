@@ -1,0 +1,67 @@
+manifest,context,fungus,reaction,reaction_name,flux,role
+fungus_alone__bipolaris_carvefungi_52,Bs,Bs,UF02250_C,L-proline:tRNA(Pro) ligase (AMP-forming) (6.1.1.15)_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,0.0,proline_consumption_or_processing
+fungus_alone__bipolaris_carvefungi_52,Bs,Bs,UF03424_TCM,L-proline zwitterion transport_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,-2.03855776955234e-10,transport_or_export
+fungus_alone__bipolaris_carvefungi_52,Bs,Bs,UF00763_m,L-Proline:NADP+ 5-oxidoreductase (1.5.1.2)_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,5.236771910862312e-11,candidate_intracellular_production
+fungus_alone__bipolaris_carvefungi_52,Bs,Bs,UF00764_m,L-Proline:NAD+ 5-oxidoreductase (1.5.1.2)_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,5.67818927903796e-11,candidate_intracellular_production
+fungus_alone__bipolaris_carvefungi_52,Bs,Bs,UF03423_TCE,L-proline zwitterion export_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1,0.7324008860321995,transport_or_export
+fungus_alone__bipolaris_carvefungi_52,Bs,Bs,UF03424_E,L-proline zwitterion exchange_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1,-0.7324008860325953,external_exchange
+fungus_alone__bipolaris_carvefungi_52,Bs,Bs,BIOMASS_BIPOLARIS_DIRECT_HARMONIZED_CF,Direct near-curated Bipolaris biomass for Script 67 tests,8.45665869217005,biomass
+hvsc1_plus_bipolaris_carvefungi_52,Bs,Bs,UF02250_C,L-proline:tRNA(Pro) ligase (AMP-forming) (6.1.1.15)_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,0.0,proline_consumption_or_processing
+hvsc1_plus_bipolaris_carvefungi_52,Bs,Bs,UF03424_TCM,L-proline zwitterion transport_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,-2.6683135862086097e-06,transport_or_export
+hvsc1_plus_bipolaris_carvefungi_52,Bs,Bs,UF00763_m,L-Proline:NADP+ 5-oxidoreductase (1.5.1.2)_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,1.5829610940845282e-06,candidate_intracellular_production
+hvsc1_plus_bipolaris_carvefungi_52,Bs,Bs,UF00764_m,L-Proline:NAD+ 5-oxidoreductase (1.5.1.2)_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,6.584296140746978e-06,candidate_intracellular_production
+hvsc1_plus_bipolaris_carvefungi_52,Bs,Bs,UF03423_TCE,L-proline zwitterion export_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1,0.8262984501863132,transport_or_export
+hvsc1_plus_bipolaris_carvefungi_52,Bs,Bs,UF03424_E,L-proline zwitterion exchange_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1,-0.826298450186312,external_exchange
+hvsc1_plus_bipolaris_carvefungi_52,Bs,Bs,BIOMASS_BIPOLARIS_DIRECT_HARMONIZED_CF,Direct near-curated Bipolaris biomass for Script 67 tests,9.5408991333568,biomass
+hvsc2_plus_bipolaris_carvefungi_52,Bs,Bs,UF02250_C,L-proline:tRNA(Pro) ligase (AMP-forming) (6.1.1.15)_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,0.0,proline_consumption_or_processing
+hvsc2_plus_bipolaris_carvefungi_52,Bs,Bs,UF03424_TCM,L-proline zwitterion transport_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,-2.0754652968818284e-06,transport_or_export
+hvsc2_plus_bipolaris_carvefungi_52,Bs,Bs,UF00763_m,L-Proline:NADP+ 5-oxidoreductase (1.5.1.2)_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,1.8073561598080933e-06,candidate_intracellular_production
+hvsc2_plus_bipolaris_carvefungi_52,Bs,Bs,UF00764_m,L-Proline:NAD+ 5-oxidoreductase (1.5.1.2)_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,7.264756673713003e-06,candidate_intracellular_production
+hvsc2_plus_bipolaris_carvefungi_52,Bs,Bs,UF03423_TCE,L-proline zwitterion export_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1,0.8474484385322231,transport_or_export
+hvsc2_plus_bipolaris_carvefungi_52,Bs,Bs,UF03424_E,L-proline zwitterion exchange_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1,-0.8474484385322063,external_exchange
+hvsc2_plus_bipolaris_carvefungi_52,Bs,Bs,BIOMASS_BIPOLARIS_DIRECT_HARMONIZED_CF,Direct near-curated Bipolaris biomass for Script 67 tests,9.785104495459032,biomass
+fungus_alone__fusarium_carvefungi_52,Fg,Fg,UF02250_C,L-proline:tRNA(Pro) ligase (AMP-forming) (6.1.1.15),0.0,proline_consumption_or_processing
+fungus_alone__fusarium_carvefungi_52,Fg,Fg,UF03423_TCE,L-proline zwitterion export,0.9998913447544228,transport_or_export
+fungus_alone__fusarium_carvefungi_52,Fg,Fg,UF03424_E,L-proline zwitterion exchange,-0.99989134647018,external_exchange
+fungus_alone__fusarium_carvefungi_52,Fg,Fg,BIOMASS_FUSARIUM_DIRECT_HARMONIZED_CF,biomass Fusarium direct 52-component harmonized CarveFungi biomass,11.545234240007556,biomass
+hvsc1_plus_fusarium_carvefungi_52,Fg,Fg,UF02250_C,L-proline:tRNA(Pro) ligase (AMP-forming) (6.1.1.15),0.0,proline_consumption_or_processing
+hvsc1_plus_fusarium_carvefungi_52,Fg,Fg,UF03423_TCE,L-proline zwitterion export,1.8922069734081024,transport_or_export
+hvsc1_plus_fusarium_carvefungi_52,Fg,Fg,UF03424_E,L-proline zwitterion exchange,-1.892221673521315,external_exchange
+hvsc1_plus_fusarium_carvefungi_52,Fg,Fg,BIOMASS_FUSARIUM_DIRECT_HARMONIZED_CF,biomass Fusarium direct 52-component harmonized CarveFungi biomass,21.848533622649853,biomass
+hvsc2_plus_fusarium_carvefungi_52,Fg,Fg,UF02250_C,L-proline:tRNA(Pro) ligase (AMP-forming) (6.1.1.15),0.0,proline_consumption_or_processing
+hvsc2_plus_fusarium_carvefungi_52,Fg,Fg,UF03423_TCE,L-proline zwitterion export,1.854319897126153,transport_or_export
+hvsc2_plus_fusarium_carvefungi_52,Fg,Fg,UF03424_E,L-proline zwitterion exchange,-1.8543221642550716,external_exchange
+hvsc2_plus_fusarium_carvefungi_52,Fg,Fg,BIOMASS_FUSARIUM_DIRECT_HARMONIZED_CF,biomass Fusarium direct 52-component harmonized CarveFungi biomass,21.410912846578658,biomass
+fungi_pair__carvefungi_52,both,Bs,UF02250_C,L-proline:tRNA(Pro) ligase (AMP-forming) (6.1.1.15)_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,0.0,proline_consumption_or_processing
+fungi_pair__carvefungi_52,both,Bs,UF03424_TCM,L-proline zwitterion transport_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,-0.8913418530025039,transport_or_export
+fungi_pair__carvefungi_52,both,Bs,UF00763_m,L-Proline:NADP+ 5-oxidoreductase (1.5.1.2)_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,2.630586048475693e-05,candidate_intracellular_production
+fungi_pair__carvefungi_52,both,Bs,UF00764_m,L-Proline:NAD+ 5-oxidoreductase (1.5.1.2)_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,0.8913252843642091,candidate_intracellular_production
+fungi_pair__carvefungi_52,both,Bs,UF03423_TCE,L-proline zwitterion export_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1,0.5809001421212766,transport_or_export
+fungi_pair__carvefungi_52,both,Bs,UF03424_E,L-proline zwitterion exchange_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1,-0.5809001421215477,external_exchange
+fungi_pair__carvefungi_52,both,Bs,BIOMASS_BIPOLARIS_DIRECT_HARMONIZED_CF,Direct near-curated Bipolaris biomass for Script 67 tests,16.999218074970035,biomass
+fungi_pair__carvefungi_52,both,Fg,UF02250_C,L-proline:tRNA(Pro) ligase (AMP-forming) (6.1.1.15),0.0,proline_consumption_or_processing
+fungi_pair__carvefungi_52,both,Fg,UF03423_TCE,L-proline zwitterion export,1.4190143269021367,transport_or_export
+fungi_pair__carvefungi_52,both,Fg,UF03424_E,L-proline zwitterion exchange,-1.4190164885594576,external_exchange
+fungi_pair__carvefungi_52,both,Fg,BIOMASS_FUSARIUM_DIRECT_HARMONIZED_CF,biomass Fusarium direct 52-component harmonized CarveFungi biomass,16.384660401288947,biomass
+hvsc1_plus_fungi_pair__carvefungi_52,both,Bs,UF02250_C,L-proline:tRNA(Pro) ligase (AMP-forming) (6.1.1.15)_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,0.0,proline_consumption_or_processing
+hvsc1_plus_fungi_pair__carvefungi_52,both,Bs,UF03424_TCM,L-proline zwitterion transport_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,-2.08048304431457e-06,transport_or_export
+hvsc1_plus_fungi_pair__carvefungi_52,both,Bs,UF00763_m,L-Proline:NADP+ 5-oxidoreductase (1.5.1.2)_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,7.100518122057696e-07,candidate_intracellular_production
+hvsc1_plus_fungi_pair__carvefungi_52,both,Bs,UF00764_m,L-Proline:NAD+ 5-oxidoreductase (1.5.1.2)_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,3.2637563574150453e-06,candidate_intracellular_production
+hvsc1_plus_fungi_pair__carvefungi_52,both,Bs,UF03423_TCE,L-proline zwitterion export_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1,1.500172541299166,transport_or_export
+hvsc1_plus_fungi_pair__carvefungi_52,both,Bs,UF03424_E,L-proline zwitterion exchange_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1,-1.5001725412991442,external_exchange
+hvsc1_plus_fungi_pair__carvefungi_52,both,Bs,BIOMASS_BIPOLARIS_DIRECT_HARMONIZED_CF,Direct near-curated Bipolaris biomass for Script 67 tests,17.321757340963497,biomass
+hvsc1_plus_fungi_pair__carvefungi_52,both,Fg,UF02250_C,L-proline:tRNA(Pro) ligase (AMP-forming) (6.1.1.15),0.0,proline_consumption_or_processing
+hvsc1_plus_fungi_pair__carvefungi_52,both,Fg,UF03423_TCE,L-proline zwitterion export,1.4858143047959582,transport_or_export
+hvsc1_plus_fungi_pair__carvefungi_52,both,Fg,UF03424_E,L-proline zwitterion exchange,-1.4858148590288438,external_exchange
+hvsc1_plus_fungi_pair__carvefungi_52,both,Fg,BIOMASS_FUSARIUM_DIRECT_HARMONIZED_CF,biomass Fusarium direct 52-component harmonized CarveFungi biomass,17.155945393665764,biomass
+hvsc2_plus_fungi_pair__carvefungi_52,both,Bs,UF02250_C,L-proline:tRNA(Pro) ligase (AMP-forming) (6.1.1.15)_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,0.0,proline_consumption_or_processing
+hvsc2_plus_fungi_pair__carvefungi_52,both,Bs,UF03424_TCM,L-proline zwitterion transport_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,-7.09118171480555e-05,transport_or_export
+hvsc2_plus_fungi_pair__carvefungi_52,both,Bs,UF00763_m,L-Proline:NADP+ 5-oxidoreductase (1.5.1.2)_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,1.544096096323953e-05,candidate_intracellular_production
+hvsc2_plus_fungi_pair__carvefungi_52,both,Bs,UF00764_m,L-Proline:NAD+ 5-oxidoreductase (1.5.1.2)_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1,9.179424085996988e-05,candidate_intracellular_production
+hvsc2_plus_fungi_pair__carvefungi_52,both,Bs,UF03423_TCE,L-proline zwitterion export_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1,1.519395448802476,transport_or_export
+hvsc2_plus_fungi_pair__carvefungi_52,both,Bs,UF03424_E,L-proline zwitterion exchange_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1_0_1_1_1_1,-1.5193954488024988,external_exchange
+hvsc2_plus_fungi_pair__carvefungi_52,both,Bs,BIOMASS_BIPOLARIS_DIRECT_HARMONIZED_CF,Direct near-curated Bipolaris biomass for Script 67 tests,17.544638417801863,biomass
+hvsc2_plus_fungi_pair__carvefungi_52,both,Fg,UF02250_C,L-proline:tRNA(Pro) ligase (AMP-forming) (6.1.1.15),0.0,proline_consumption_or_processing
+hvsc2_plus_fungi_pair__carvefungi_52,both,Fg,UF03423_TCE,L-proline zwitterion export,1.5003922600391746,transport_or_export
+hvsc2_plus_fungi_pair__carvefungi_52,both,Fg,UF03424_E,L-proline zwitterion exchange,-1.500403470320669,external_exchange
+hvsc2_plus_fungi_pair__carvefungi_52,both,Fg,BIOMASS_FUSARIUM_DIRECT_HARMONIZED_CF,biomass Fusarium direct 52-component harmonized CarveFungi biomass,17.324404783557103,biomass

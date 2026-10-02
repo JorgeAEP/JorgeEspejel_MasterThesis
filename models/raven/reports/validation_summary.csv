@@ -1,0 +1,5 @@
+scenario,status,growth,carbon_free_status,carbon_free_growth,biomass_precursors,reactions,metabolites,genes,component_count,largest_component_metabolites,smallest_component_metabolites
+step87_before,optimal,2.807555182127699,optimal,0.0,55/55,2222,1862,1261,2,1860,2
+step88_after,optimal,2.807555182127701,optimal,0.0,55/55,2221,1860,1261,1,1860,1860
+step88_xml_reload,optimal,2.807555182127702,optimal,0.0,55/55,2221,1860,1261,1,1860,1860
+step88_json_reload,optimal,2.8075551821277034,optimal,0.0,55/55,2221,1860,1261,1,1860,1860

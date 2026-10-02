@@ -1,0 +1,258 @@
+donor_role,recipient_role,chemical_key,external_metabolite_name_donor,candidate_pairs,runs,donors,recipients,maximum_pair_flux
+bacteria,bacteria,id:c00080,H+,323,6,6,47,100.00005196761344
+bacteria,bacteria,id:c00025,L-Glutamate,283,6,13,23,99.9999967441229
+bacteria,bacteria,id:asp__d,D-Aspartate,38,6,4,8,99.99999371681233
+bacteria,bacteria,id:acald,Acetaldehyde,1009,6,28,34,99.99998892269616
+bacteria,bacteria,id:co,Carbon monoxide,505,6,29,15,99.9999870470268
+bacteria,bacteria,id:c00001,H2O H2O,965,6,36,22,99.99998694316452
+bacteria,bacteria,id:cgly,Cys Gly C5H10N2O3S,239,6,14,21,99.99997999753649
+bacteria,bacteria,id:glyald,D-Glyceraldehyde,148,6,12,11,99.99997862394493
+bacteria,bacteria,id:c00116,Glycerol,805,6,22,34,99.9999643982122
+bacteria,bacteria,id:c00244,Nitrate,36,6,4,10,99.99993363604187
+bacteria,bacteria,id:arbt6p,Arbutin 6-phosphate,29,6,6,3,99.99992299375096
+bacteria,bacteria,id:c00469,Ethanol,559,6,19,31,99.99990827175156
+bacteria,bacteria,id:c00088,Nitrite,46,6,9,7,99.99988016729256
+bacteria,bacteria,id:c00014,Ammonium,1032,6,32,30,99.99977848309769
+bacteria,bacteria,id:gthrd,Reduced glutathione,124,6,7,19,99.9996582924749
+bacteria,bacteria,id:c00011,CO2 CO2,395,6,46,5,99.99924982141054
+bacteria,bacteria,id:c11476,L-Arabinose,23,4,15,2,99.99833996411616
+bacteria,bacteria,id:abt__l,L Arabinitol C5H12O5,14,6,2,5,99.9982779172655
+bacteria,bacteria,id:c00186,L-Lactate,45,6,4,10,99.98111928159756
+bacteria,bacteria,id:gal,D-Galactose,75,6,8,12,93.78461323805304
+bacteria,bacteria,id:c00058,Formate,107,6,17,7,93.1640778188777
+bacteria,bacteria,id:c00209,Oxalate,16,4,3,8,69.17554778561139
+bacteria,bacteria,id:g6p_b,Beta D glucose 6 phosphate C6H11O9P,6,3,1,2,65.59765287217341
+bacteria,bacteria,id:c00263,L-Homoserine,9,5,7,2,56.56267524966527
+bacteria,bacteria,id:c00149,L-Malate,53,3,3,9,55.485158699210096
+bacteria,bacteria,id:c00283,Hydrogen sulfide,828,6,19,41,53.98558381477783
+bacteria,bacteria,id:c00086,Urea CH4N2O,11,3,6,3,35.21667728287462
+bacteria,bacteria,id:cellb,Cellobiose,9,5,4,3,29.30113367021719
+bacteria,bacteria,id:gua,Guanine,238,6,18,38,26.314293196717426
+bacteria,bacteria,id:c00334,4-Aminobutanoate,46,3,4,9,23.55304921161464
+bacteria,bacteria,id:4abutn,4-Aminobutanal,2,2,1,2,23.55244089646912
+bacteria,bacteria,id:c00009,Phosphate,353,6,7,44,21.538375827691294
+bacteria,bacteria,id:man1p,D-Mannose 1-phosphate,6,3,1,2,20.759317602872397
+bacteria,bacteria,id:c00041,L-Alanine,7,1,1,7,18.59028440824865
+bacteria,bacteria,id:s,Sulfur,163,6,7,21,17.688248438099215
+bacteria,bacteria,id:h2,Hydrogen,15,1,15,1,13.408042726038696
+bacteria,bacteria,id:gsn,Guanosine,34,5,16,8,13.025062345225958
+bacteria,bacteria,id:cys__l,L-Cysteine,41,6,4,17,9.437228891660078
+bacteria,bacteria,id:arg__l,L-Arginine,146,6,2,47,8.154589613459342
+bacteria,bacteria,id:c00123,L-Leucine,51,3,4,13,7.883668700303222
+bacteria,bacteria,id:lys__l,L-Lysine,154,6,5,32,7.780364765649349
+bacteria,bacteria,id:stfrnb,Staphyloferrin B,142,6,14,20,6.251968342676253
+bacteria,bacteria,id:istfrnb,Iron bound extracellular staphyloferrin B,142,6,20,14,6.251968342676021
+bacteria,bacteria,id:istfrna,Iron bound extracellular staphyloferrin A,150,6,20,16,6.251964086996648
+bacteria,bacteria,id:stfrna,Staphyloferrin A,150,6,16,20,6.251964086995421
+bacteria,bacteria,id:ura,Uracil,174,6,12,32,5.669843269156988
+bacteria,bacteria,id:fe3pyovd_kt,Ferrypyoverdine  P putida KT2440 specific,313,6,31,21,4.576145477551779
+bacteria,bacteria,id:pyovd_kt,Pyoverdine  P putida specific,313,6,21,31,4.576142998166054
+bacteria,bacteria,id:ptrc,Putrescine,7,3,1,3,4.48423561047183
+bacteria,bacteria,id:3gmp,Guanosine 3  phosphate C10H12N5O8P,6,4,3,3,3.773291623931116
+bacteria,bacteria,id:xan,Xanthine,8,2,2,2,3.268690678383801
+bacteria,bacteria,id:ins,Inosine,13,4,3,7,2.966821161198026
+bacteria,bacteria,id:orn,Ornithine,169,6,4,43,2.6019089374963644
+bacteria,bacteria,id:hxan,Hypoxanthine,9,3,3,4,2.54815498273501
+bacteria,bacteria,id:c00082,L-Tyrosine,17,1,1,17,2.0379765754270776
+bacteria,bacteria,id:ocdcea,Octadecenoate (n-C18:1),13,4,9,2,1.5656156024431205
+bacteria,bacteria,id:ch4s,Methanethiol CH4S,5,3,1,3,1.3323061004922696
+bacteria,bacteria,id:indole,Indole,132,6,5,40,1.2887803350678706
+bacteria,bacteria,id:c00184,Dihydroxyacetone,9,6,1,3,1.1588639919419623
+bacteria,bacteria,id:met__d,D-Methionine,3,3,1,1,0.9973743972738116
+bacteria,bacteria,id:c00188,L-Threonine,6,2,2,4,0.4709784216511584
+bacteria,bacteria,id:id3acald,Indole 3 acetaldehyde C10H9NO,6,3,1,2,0.4019385081663443
+bacteria,bacteria,id:thym,Thymine C5H6N2O2,29,4,6,8,0.3261552147463361
+bacteria,bacteria,id:anhgm,N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramic acid,6,1,1,6,0.2850476706314088
+bacteria,bacteria,id:c14818,Fe2+ mitochondria,69,3,1,24,0.1999067036140276
+bacteria,bacteria,id:fe3dcit,Fe(III)dicitrate,12,3,4,1,0.1039950076139933
+bacteria,bacteria,id:ala__d,D-Alanine,6,3,2,1,0.0969519318579435
+bacteria,bacteria,id:c14819,Iron (Fe3+),26,1,1,26,0.0826588215750053
+bacteria,bacteria,id:c00253,Nicotinate,13,6,2,5,0.0515715084686447
+bacteria,bacteria,id:3hdd5ea, 3 Hydroxydodecanoic 5 en acid,2,2,1,1,0.0426689008084702
+bacteria,bacteria,id:c00153,Nicotinamide,8,5,4,2,0.0299273996370599
+bacteria,bacteria,id:tol,Toluene,17,6,4,5,0.0195193076867957
+bacteria,bacteria,id:c00160,Glycolate C2H3O3,21,3,3,4,0.0101576416217113
+bacteria,bacteria,id:meoh,Methanol,130,6,5,27,0.0091407324232472
+bacteria,bacteria,id:ppap,Propanoyl phosphate,5,2,3,1,0.0082541942767107
+bacteria,bacteria,id:coa,Coenzyme A,3,3,1,1,0.0060941120694618
+bacteria,bacteria,id:pheme,Protoheme C34H30FeN4O4,171,6,4,36,0.0050542478965695
+bacteria,bacteria,id:c00864,(R)-Pantothenate,3,3,1,1,0.0044057160758429
+bacteria,bacteria,id:4hba,4-Hydroxy-benzyl alcohol,33,4,12,3,0.0039471138566463
+bacteria,bacteria,id:rnam,N Ribosylnicotinamide C11H15N2O5,10,1,10,1,0.0032319883882251
+bacteria,bacteria,id:inost,Myo-Inositol,3,2,3,2,0.0031543343736459
+bacteria,bacteria,id:c00181,D-Xylose,19,3,5,3,0.0030486365143885
+bacteria,bacteria,id:bz,Benzoate,101,6,4,33,0.0022626267682343
+bacteria,bacteria,id:so3,Sulfite,13,4,10,2,0.0011893695745161
+bacteria,bacteria,id:glcr,D-Glucarate,2,2,1,1,0.0009505731686043
+bacteria,bacteria,id:gcald,Glycolaldehyde,3,2,2,1,0.0009484485495377
+bacteria,bacteria,id:h2o2,Hydrogen peroxide,9,4,2,8,0.0009244788200092
+bacteria,bacteria,id:glcn,D-Gluconate,4,3,1,3,0.0009158536532422
+bacteria,bacteria,id:lnlc,Linoleic acid (all cis C18:2) n-6,26,4,9,6,0.0008974934932431
+bacteria,bacteria,id:c06473,2-Dehydro-D-gluconate,1,1,1,1,0.0007798481741001
+bacteria,bacteria,id:tsul,Thiosulfate,4,3,1,2,0.0007641543488172
+bacteria,bacteria,id:hdca,Hexadecanoate (n-C16:0),22,4,9,4,0.0007503943248851
+bacteria,bacteria,id:ocdca,Octadecanoate (n-C18:0),21,4,8,4,0.0007468263518019
+bacteria,bacteria,id:c00031,D-Glucose,10,1,2,5,0.000625785914243
+bacteria,bacteria,id:pea,Phenylethyl alcohol,1,1,1,1,0.0004240536828667
+bacteria,bacteria,id:dcyt,Deoxycytidine,1,1,1,1,0.0003294014555221
+bacteria,bacteria,id:duri,Deoxyuridine,1,1,1,1,0.0003238844923806
+bacteria,bacteria,id:c00719,Glycine betaine,9,2,8,2,0.0003226174349967
+bacteria,bacteria,id:c00333,D-Galacturonate,4,1,2,2,0.0003026507509947
+bacteria,bacteria,id:12ppd__s,"(S)-Propane-1,2-diol",2,1,1,2,0.0002790528697383
+bacteria,bacteria,id:c00065,L-Serine,14,1,1,14,0.0002775879245141
+bacteria,bacteria,id:23cump,"2',3'-Cyclic UMP",6,1,2,3,0.0002713299960898
+bacteria,bacteria,id:pacald,Phenylacetaldehyde,1,1,1,1,0.0002008572622029
+bacteria,bacteria,id:hisgly,L histidinylglycine,2,1,1,2,0.0001840432441374
+bacteria,bacteria,id:din,Deoxyinosine,2,1,2,1,0.0001784983766629
+bacteria,bacteria,id:xtsn,Xanthosine,2,1,2,1,0.0001783669775852
+bacteria,bacteria,id:dgsn,Deoxyguanosine,2,1,2,1,0.0001777076603236
+bacteria,bacteria,id:3httdca, 3 Hydroxytetradecanoic acid,4,1,2,2,0.0001679422071933
+bacteria,bacteria,id:cu,Cu+,6,2,6,1,0.0001590460601609
+bacteria,bacteria,id:adn,Adenosine,20,1,5,4,0.0001560277756303
+bacteria,bacteria,id:fe3dhbzs3,2-3-dihydroxybenzoylserine trimer-Fe-III,18,2,4,8,0.0001518456289781
+bacteria,bacteria,id:salchs2fe,Salmochelin-S2-Fe-III,2,1,1,2,0.0001459137925908
+bacteria,bacteria,id:salchs4fe,Salmochelin-S4-Fe-III,1,1,1,1,0.0001383825125394
+bacteria,bacteria,id:dad_2,Deoxyadenosine,1,1,1,1,0.0001331368391523
+bacteria,bacteria,id:cytd,Cytidine,3,1,3,1,0.0001273725852415
+bacteria,bacteria,id:c00022,Pyruvate,1,1,1,1,0.0001152404585572
+bacteria,bacteria,id:no,Nitric oxide,1,1,1,1,0.0001125272961128
+bacteria,bacteria,id:xylan4,"Xylan (4 backbone units, 1 glcur side chain)",2,1,1,2,0.0001036952998234
+bacteria,fungus,id:c00001,H2O H2O,127,6,36,2,99.99999309470849
+bacteria,fungus,id:hqn,Hydroquinone,24,6,6,2,99.99999117898814
+bacteria,fungus,id:c00025,L-Glutamate,41,6,13,2,99.99997659033704
+bacteria,fungus,id:acald,Acetaldehyde,94,6,28,2,99.9999058269571
+bacteria,fungus,id:c00080,H+,9,4,6,1,99.99704779916466
+bacteria,fungus,id:c00116,Glycerol,37,4,17,1,99.86990385499776
+bacteria,fungus,id:c00014,Ammonium,105,6,32,2,94.14312934997336
+bacteria,fungus,id:ura,Uracil,6,2,6,1,41.42284984780084
+bacteria,fungus,id:2mbald,2 methylbutyraldehyde C5H10O,2,2,1,1,26.01589467016234
+bacteria,fungus,id:c00334,4-Aminobutanoate,5,2,4,2,23.55304921161464
+bacteria,fungus,id:c00009,Phosphate,22,6,7,2,21.538375827691294
+bacteria,fungus,id:c14818,Fe2+ mitochondria,3,2,1,2,11.591441809919033
+bacteria,fungus,id:gal,D-Galactose,6,2,6,1,7.822906700776381
+bacteria,fungus,id:ins,Inosine,1,1,1,1,7.535002181116657
+bacteria,fungus,id:hxan,Hypoxanthine,5,2,5,1,2.7624988242402786
+bacteria,fungus,id:ump,UMP C9H11N2O9P,2,2,1,2,2.141023616595868
+bacteria,fungus,id:gua,Guanine,23,5,18,2,0.7809081670709782
+bacteria,fungus,id:c00188,L-Threonine,3,2,2,2,0.4709784216511584
+bacteria,fungus,id:c00123,L-Leucine,13,3,4,2,0.1718499210318546
+bacteria,fungus,id:inost,Myo-Inositol,3,2,3,1,0.1061409905405166
+bacteria,fungus,id:c00082,L-Tyrosine,1,1,1,1,0.095817082587138
+bacteria,fungus,id:gcald,Glycolaldehyde,2,1,2,1,0.0009484485495377
+bacteria,fungus,id:c00031,D-Glucose,4,1,2,2,0.000625785914243
+bacteria,fungus,id:uri,Uridine,6,3,6,2,0.0005041044599705
+bacteria,fungus,id:c00065,L-Serine,1,1,1,1,0.0002775879245141
+bacteria,fungus,id:meoh,Methanol,6,2,5,1,0.0002765871493019
+bacteria,fungus,id:cytd,Cytidine,8,2,8,1,0.0001273725852415
+fungus,bacteria,id:c00080,H+,96,4,1,46,100.00001289803188
+fungus,bacteria,id:inost,myo-inositol,61,4,2,19,99.99999959638168
+fungus,bacteria,id:icit,isocitric acid,18,6,2,5,99.99999815728836
+fungus,bacteria,id:oaa,oxaloacetate(2-),10,6,2,2,99.99999060812564
+fungus,bacteria,id:adn,adenosine,52,4,1,25,99.99999036990614
+fungus,bacteria,id:arbt,arbutin,36,6,2,10,99.99992256590993
+fungus,bacteria,id:c00417,cis-aconitate [shared-interface external],16,3,1,15,99.99948592888136
+fungus,bacteria,id:c00041,L-alanine zwitterion,31,6,2,10,99.96232242424551
+fungus,bacteria,id:gthrd,reduced glutathione,51,6,2,19,99.75306643811336
+fungus,bacteria,id:btd_rr,"(R,R)-butane-2,3-diol",12,6,2,4,99.67909151204564
+fungus,bacteria,id:c00037,glycine zwitterion,32,6,2,14,98.02507653471991
+fungus,bacteria,id:catechol,catechol,4,3,2,1,97.9460203974942
+fungus,bacteria,id:orn,L-ornithinium(1+),158,6,2,43,96.02301033815488
+fungus,bacteria,id:ins,inosine,4,2,1,4,66.03778813473315
+fungus,bacteria,id:ppi,diphosphate(3-),18,6,2,5,33.15733164488167
+fungus,bacteria,id:so3,sulfite,4,4,1,2,32.4602261386101
+fungus,bacteria,id:orot,orotate,57,4,1,28,18.32632254894628
+fungus,bacteria,id:c00493,shikimate [shared-interface external],92,4,1,44,15.731349845183711
+fungus,bacteria,id:gal,D-galactopyranose,29,6,2,12,7.824310565281122
+fungus,bacteria,id:hxan,hypoxanthine,9,2,2,3,4.830823932130577
+fungus,bacteria,id:ade,adenine,22,4,1,11,4.629672626131056
+fungus,bacteria,id:xtsn,xanthosine,3,3,1,2,2.891491136771376
+fungus,bacteria,id:but,butyrate,2,2,1,1,1.7173273222382432
+fungus,bacteria,id:xan,9H-xanthine,2,1,1,2,1.4408208825048352
+fungus,bacteria,id:ptrc,putrescine,4,2,1,4,0.1671907473342701
+fungus,bacteria,id:dca,decanoate,5,2,1,3,0.0787624044794859
+fungus,bacteria,id:rnam,N-ribosylnicotinamide,2,2,1,1,0.0272496362960383
+fungus,bacteria,id:c00116,glycerol,43,3,1,31,0.008697511907352
+fungus,bacteria,id:sheme,siroheme(8-),94,4,2,37,0.0050559432563422
+fungus,bacteria,id:nmn,NMN(-),14,4,2,11,0.0032153922610201
+fungus,bacteria,id:gam6p,alpha-D-glucosamine 6-phosphate,2,2,1,1,0.0021650438089843
+fungus,bacteria,id:gcald,glycolaldehyde,2,2,2,1,0.0013658855623248
+fungus,bacteria,id:salcn,salicin,2,1,1,2,0.0004804125498749
+fungus,bacteria,id:cytd,cytidine,1,1,1,1,0.0004284700371561
+fungus,bacteria,id:4abutn,4-ammoniobutanal,1,1,1,1,0.0003596309201971
+fungus,bacteria,id:6pgc,6-phosphonatooxy-D-gluconate,2,2,1,2,0.000309317204642
+fungus,fungus,id:8aonn,8-amino-7-oxononanoic acid zwitterion,2,2,1,1,99.99997488130484
+fungus,fungus,id:amob,S-adenosyl-4-methylthio-2-oxobutanoate,2,2,1,1,99.99997488130484
+fungus,fungus,id:dann,"7,8-diaminononanoate cation",2,2,1,1,99.99997488130484
+fungus,fungus,id:2hymeph,salicyl alcohol,2,2,1,1,99.99995653689426
+fungus,fungus,id:salcn,salicin,2,2,1,1,99.99995653689426
+fungus,fungus,id:ethyleneglycol,ethylene glycol,3,3,1,1,99.99977189174952
+fungus,fungus,id:gcald,glycolaldehyde,3,3,1,1,99.99977189174952
+fungus,fungus,id:c00080,H+,2,2,1,1,99.99970073130277
+fungus,fungus,id:pyr,pyruvate,3,3,1,1,81.66459862021044
+fungus,fungus,id:idtl,L-iditol,3,3,1,1,79.84653258710094
+fungus,fungus,id:srbl,L-sorbopyranose,3,3,1,1,79.84644380094073
+fungus,fungus,id:gal,D-galactopyranose,3,3,2,2,68.56369646452707
+fungus,fungus,id:agalino,alpha-D-galactosyl-(1->3)-1D-myo-inositol,2,2,1,1,68.55818562764658
+fungus,fungus,id:orot,orotate,3,3,1,1,64.65886876076246
+fungus,fungus,id:glnl,L-glutamine zwitterion,2,2,1,1,63.22892923584385
+fungus,fungus,id:phpyr,keto-phenylpyruvate,2,2,1,1,60.55940289871556
+fungus,fungus,id:phel,L-phenylalanine zwitterion,2,2,1,1,60.52176553606387
+fungus,fungus,id:c00037,glycine zwitterion,2,2,1,1,36.88751289896793
+fungus,fungus,id:oaa,oxaloacetate(2-),1,1,1,1,33.35298395573824
+fungus,fungus,id:ump,UMP(2-),3,3,1,1,32.96260964387502
+fungus,fungus,id:sphgn,sphinganine(1+),3,3,1,1,30.957863295503135
+fungus,fungus,id:sucsal,succinicate semialdehyde(1-),3,3,1,1,29.798236835774706
+fungus,fungus,id:pep,phosphonatoenolpyruvate,3,3,1,1,24.171371407527307
+fungus,fungus,id:c00122,fumarate(2-),1,1,1,1,23.988429339702243
+fungus,fungus,id:c00042,succinate(2-),1,1,1,1,23.98763196495441
+fungus,fungus,id:akg,2-oxoglutarate,3,3,2,2,19.12885523432784
+fungus,fungus,id:dha,dihydroxyacetone,3,3,1,1,15.269217528234964
+fungus,fungus,id:dtmp,dTMP(2-),3,3,1,1,12.233387568539966
+fungus,fungus,id:dttp,dTTP(4-),3,3,2,2,12.157518864148765
+fungus,fungus,id:etoh,ethanol,2,2,2,2,11.561325021343556
+fungus,fungus,id:c00049,L-aspartate,1,1,1,1,9.91456556303238
+fungus,fungus,id:pydx,pyridoxal,1,1,1,1,7.974063491922378
+fungus,fungus,id:c00001,water,1,1,1,1,4.460056476048665
+fungus,fungus,id:ade,adenine,3,3,1,1,3.29233167986058
+fungus,fungus,id:lysl,L-lysinium,3,3,2,2,0.6114179185214421
+fungus,fungus,id:xan,9H-xanthine,1,1,1,1,0.5212640496505087
+fungus,fungus,id:c00188,L-threonine zwitterion,1,1,1,1,0.4816054833954181
+fungus,fungus,id:cmp,CMP(2-),3,3,1,1,0.3675926020088235
+fungus,fungus,id:c00152,L-asparagine zwitterion,1,1,1,1,0.1567538144960525
+fungus,fungus,id:tre,"alpha,alpha-trehalose",3,3,2,2,0.1560957415149038
+fungus,fungus,id:c00031,alpha-D-glucose,1,1,1,1,0.1137945855486724
+fungus,fungus,id:inost,myo-inositol,1,1,1,1,0.0815230532492326
+fungus,fungus,id:actnr,(R)-acetoin,3,3,1,1,0.0382008648076508
+fungus,fungus,id:abt,L-arabinitol,3,3,1,1,0.03076191257546
+fungus,fungus,id:25bishydroxymethylfuran,"2,5-furandimethanol",3,3,1,1,0.0307009848235543
+fungus,fungus,id:hmf,5-hydroxymethylfurfural,3,3,1,1,0.0307009848235536
+fungus,fungus,id:xylul,L-xylulose,3,3,1,1,0.0305762423348282
+fungus,fungus,id:m23bdo,"meso-butane-2,3-diol",3,3,1,1,0.0270140271286635
+fungus,fungus,id:uri,uridine,3,3,1,1,0.0247792906923225
+fungus,fungus,id:metl,L-methionine zwitterion,3,3,1,1,0.0230001580420043
+fungus,fungus,id:man,D-mannose,3,3,2,2,0.0227414798994792
+fungus,fungus,id:epimel,epimelibiose,2,2,1,1,0.0224289593034853
+fungus,fungus,id:lacl,(S)-lactate,2,2,1,1,0.0193342196174259
+fungus,fungus,id:melibiitol,melibiitol,3,3,2,2,0.0190506887749284
+fungus,fungus,id:sbtd,D-sorbitol,2,2,1,1,0.0188422548160661
+fungus,fungus,id:for,formate,1,1,1,1,0.0169593659594818
+fungus,fungus,id:nac,nicotinate,1,1,1,1,0.0169586134612725
+fungus,fungus,id:ribd,D-ribose,1,1,1,1,0.0169583199010749
+fungus,fungus,id:btd_rr,"(R,R)-butane-2,3-diol",3,3,1,1,0.0109100839205864
+fungus,fungus,id:c00116,glycerol,3,3,2,2,0.008697511907352
+fungus,fungus,id:bgalgly,3-beta-D-galactosyl-sn-glycerol,2,2,1,1,0.0083525358116206
+fungus,fungus,id:lacd,(R)-lactate,2,2,1,1,0.0039449784167882
+fungus,fungus,id:5aop,5-amino-4-oxopentanoate,3,3,1,1,0.0036807344086846
+fungus,fungus,id:pap,"adenosine 3',5'-bismonophosphate(4-)",2,2,1,1,0.0020468923824798
+fungus,fungus,id:c00025,L-glutamate,1,1,1,1,0.0017413215213089
+fungus,fungus,id:c00041,L-alanine zwitterion,1,1,1,1,0.001731954297372
+fungus,fungus,id:hxan,hypoxanthine,1,1,1,1,0.0011518933505845
+fungus,fungus,id:xylt,xylitol,1,1,1,1,0.0007850219235851
+fungus,fungus,id:c00334,4-aminobutanoate,1,1,1,1,0.0007011818899688
+fungus,fungus,id:cytd,cytidine,2,2,1,1,0.0005230694904495
+fungus,fungus,id:gua,guanine,1,1,1,1,0.0002658294129287
+fungus,fungus,id:acald,acetaldehyde,1,1,1,1,0.0002610794938701
+fungus,fungus,id:cystl,L-cystathionine dizwitterion,2,2,1,1,0.0001866505745542
+fungus,fungus,id:dmetha,"N,N-dimethylethanolamine",1,1,1,1,0.0001397217082053
+fungus,fungus,id:metha,N-methylethanolamine,1,1,1,1,0.0001397217082052
+fungus,fungus,id:glx,glyoxylate,1,1,1,1,0.0001306678325483

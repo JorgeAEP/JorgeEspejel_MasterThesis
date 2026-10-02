@@ -1,0 +1,12 @@
+{
+  "manifest_name": "fungus_alone__raven_independent",
+  "medium_name": "full",
+  "medium_label": "phosphate_bound_100",
+  "member_count": 1,
+  "fraction": 1.0,
+  "medium_rows": 55,
+  "manifest_csv": "/home/tlu/Desktop/Jorge/VS CODE/community_model_comparison_package/manifests/fungus_alone__raven_independent.csv",
+  "medium_csv": "/home/tlu/Desktop/Jorge/VS CODE/community_model_comparison_package/media/sensitivity_panel/phosphate_bound_100.csv",
+  "package_root": "/home/tlu/Desktop/Jorge/VS CODE/community_model_comparison_package",
+  "result_dir": "/home/tlu/Desktop/Jorge/VS CODE/community_model_comparison_package/reports/116_raven_phosphate_gradient_micom/fungus_alone__raven_independent/phosphate_bound_100"
+}

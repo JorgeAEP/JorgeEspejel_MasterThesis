@@ -1,0 +1,18 @@
+{
+  "source": "/home/tlu/Desktop/Jorge/VS CODE/community_model_comparison_package/reports/122_shared52_resource_allocation",
+  "threshold": 0.0001,
+  "candidate_strains": [
+    "397",
+    "1338",
+    "2774",
+    "163",
+    "793",
+    "790",
+    "997",
+    "892"
+  ],
+  "overlap_rows": 32,
+  "shared_metabolite_rows_retained": 55,
+  "candidate_strains_without_overlap_rows": [],
+  "interpretation": "Overlap is harmonised co-consumption in the same MICOM solution. It is not evidence of causal competition, metabolite transfer or fungal suppression."
+}

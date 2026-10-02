@@ -1,0 +1,5 @@
+syncom,fungal_recipient,run_specific_candidate_pairs,globally_unique_donor_recipient_metabolite_combinations,unique_chemical_keys,unique_bacterial_donors,community_runs
+HvSC1,Bipolaris_sorokiniana_carvefungi_52,131,73,13,24,2
+HvSC1,Fusarium_graminearum_carvefungi_52,139,96,18,27,2
+HvSC2,Bipolaris_sorokiniana_carvefungi_52,140,80,14,26,2
+HvSC2,Fusarium_graminearum_carvefungi_52,149,102,20,26,2

@@ -1,0 +1,6 @@
+scenario,component_rank,metabolite_count,preview_metabolites
+step87_before,1,1860,C00001 | C00001_e | C00002 | C00003 | C00004 | C00005 | C00006 | C00007 | C00007_e | C00008
+step87_before,2,2,C04244 | C21640
+step88_after,1,1860,C00001 | C00001_e | C00002 | C00003 | C00004 | C00005 | C00006 | C00007 | C00007_e | C00008
+step88_xml_reload,1,1860,C00001 | C00001_e | C00002 | C00003 | C00004 | C00005 | C00006 | C00007 | C00007_e | C00008
+step88_json_reload,1,1860,C00001 | C00001_e | C00002 | C00003 | C00004 | C00005 | C00006 | C00007 | C00007_e | C00008

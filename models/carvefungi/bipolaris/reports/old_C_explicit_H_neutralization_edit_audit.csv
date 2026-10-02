@@ -1,0 +1,45 @@
+reaction_id,status,before,after,note,after_equation
+UF00137_X,changed,"{""H"": -4.0}","{""charge"": 4.0}",Adjusted h_x coefficient by 4.,3hbtcoa_x + nad_x --> aacoa_x + 5.0 h_x + nadh_x
+UF00160_M,changed,"{""H"": 4.0}","{""charge"": -4.0}",Adjusted h_m coefficient by -4.,3htdcoa_m + 3.0 h_m + nad_m --> 3otdcoa_m + nadh_m
+UF00160_X,changed,"{""H"": 4.0}","{""charge"": -4.0}",Adjusted h_x coefficient by -4.,3htdcoa_x + 3.0 h_x + nad_x --> 3otdcoa_x + nadh_x
+UF00207_R,changed,"{""H"": 4.0}","{""charge"": -4.0}",Adjusted h_r coefficient by -4.,3ohxccoa_r + 5.0 h_r + nadph_r --> 3hxccoa_r + nadp_r
+UF00283_CM,changed,"{""H"": 2.0, ""charge"": 2.0}",{},Adjusted h_c coefficient by -2.,2.0 ficytc_m + lacL_c --> 2.0 focytc_m + pyr_c
+UF00284_CM,changed,"{""H"": 2.0, ""charge"": 2.0}",{},Adjusted h_c coefficient by -2.,2.0 ficytc_m + lacD_c --> 2.0 focytc_m + pyr_c
+UF00639_X,changed,"{""H"": -4.0, ""charge"": -2.0}","{""charge"": 2.0}",Adjusted h_x coefficient by 4.,7Ztdcoa_x + o2_x --> 2E7Ztdcoa_x + h2o2_x + 2.0 h_x
+UF00658_X,changed,"{""H"": 4.0}","{""charge"": -4.0}",Adjusted h_x coefficient by -4.,btcoa_x + 4.0 h_x + o2_x --> 2Ebtcoa_x + h2o2_x
+UF00685_M,changed,"{""H"": 4.0, ""charge"": 2.0}","{""charge"": -2.0}",Adjusted h_m coefficient by -4.,7Zddccoa_m + fad_m + 3.0 h_m --> 2E7Zddccoa_m + fadh2_m
+UF00714_M,changed,"{""H"": 4.0, ""charge"": 2.0}","{""charge"": -2.0}",Adjusted h_m coefficient by -4.,fad_m + 3.0 h_m + undcoa_m --> 2Eundcoa_m + fadh2_m
+UF00806_M,changed,"{""H"": -4.0, ""charge"": -4.0}",{},Adjusted h_m coefficient by 4.,4.0 focytc_m + 4.0 h_m + o2_m --> 4.0 ficytc_m + 2.0 h2o_m + 4.0 hi_m
+UF00929_M,changed,"{""H"": 4.0}","{""charge"": -4.0}",Adjusted h_m coefficient by -4.,3o8Eptdcoa_m + coa_m + 4.0 h_m --> 6Etrdcoa_m + accoa_m
+UF00929_X,changed,"{""H"": 4.0}","{""charge"": -4.0}",Adjusted h_x coefficient by -4.,3o8Eptdcoa_x + coa_x + 4.0 h_x --> 6Etrdcoa_x + accoa_x
+UF00947_M,changed,"{""H"": -4.0}","{""charge"": 4.0}",Adjusted h_m coefficient by 4.,3otrdcoa_m + coa_m --> accoa_m + 4.0 h_m + undcoa_m
+UF00947_X,changed,"{""H"": -4.0}","{""charge"": 4.0}",Adjusted h_x coefficient by 4.,3otrdcoa_x + coa_x --> accoa_x + 4.0 h_x + undcoa_x
+UF00974_C,changed,"{""H"": 3.0, ""charge"": 1.0}","{""charge"": -2.0}",Adjusted h_c coefficient by -3.,1agpc_c + acoa_c + 2.0 h_c --> coa_c + pc_c
+UF00997_C,changed,"{""H"": -4.0}","{""charge"": 4.0}",Adjusted h_c coefficient by 4.,btACP_c + coa_c <=> ACP_c + btcoa_c + 4.0 h_c
+UF00999_C,changed,"{""H"": -4.0}","{""charge"": 4.0}",Adjusted h_c coefficient by 4.,coa_c + dcACP_c <=> ACP_c + dccoa_c + 4.0 h_c
+UF01001_C,changed,"{""H"": -4.0}","{""charge"": 4.0}",Adjusted h_c coefficient by 4.,coa_c + ddcACP_c <=> ACP_c + ddccoa_c + 4.0 h_c
+UF01005_C,changed,"{""H"": -4.0}","{""charge"": 4.0}",Adjusted h_c coefficient by 4.,coa_c + hxACP_c <=> ACP_c + 4.0 h_c + hxcoa_c
+UF01007_C,changed,"{""H"": -4.0}","{""charge"": 4.0}",Adjusted h_c coefficient by 4.,coa_c + ocACP_c <=> ACP_c + 4.0 h_c + occoa_c
+UF01018_C,changed,"{""H"": -3.0, ""charge"": 1.0}","{""charge"": 4.0}",Adjusted h_c coefficient by 3.,dcACP_c + malACP_c --> 3oddcACP_c + ACP_c + co2_c + 4.0 h_c
+UF01023_C,changed,"{""H"": 4.0, ""charge"": 1.0}","{""charge"": -3.0}",Adjusted h_c coefficient by -4.,3.0 h_c + hxdACP_c + malACP_c --> 3oocdACP_c + ACP_c + co2_c
+UF01032_C,changed,"{""H"": 3.0}","{""charge"": -3.0}",Adjusted h_c coefficient by -3.,acoa_c + dhap_c + 3.0 h_c --> 1agly3p_c + coa_c
+UF01036_C,changed,"{""H"": 4.0, ""charge"": 2.0}","{""charge"": -2.0}",Adjusted h_c coefficient by -4.,1ag3p_c + acoa_c + 2.0 h_c --> coa_c + paSC_c
+UF01587_M,changed,"{""H"": 3.0, ""charge"": 1.0}","{""charge"": -2.0}",Adjusted h_m coefficient by -3.,3Zoccoa_m + h2o_m + 2.0 h_m --> 3Zoca_m + coa_m
+UF01691_C,changed,"{""H"": 1.0, ""charge"": -2.0}","{""charge"": -3.0}",Adjusted h_c coefficient by -1.,h2o_c + h_c + mipc324_c --> cer3_24_c + manmi1pD_c
+UF01696_C,changed,"{""H"": 3.0, ""charge"": -1.0}","{""charge"": -4.0}",Adjusted h_c coefficient by -3.,h2o_c + 3.0 h_c + spmylin_26_c --> cer3_26_c + cholp_c
+UF01697_C,changed,"{""H"": 3.0, ""charge"": -1.0}","{""charge"": -4.0}",Adjusted h_c coefficient by -3.,h2o_c + 3.0 h_c + spmylin_24_c --> cer3_24_c + cholp_c
+UF01760_C,changed,"{""H"": -2.0}","{""charge"": 2.0}",Adjusted h_c coefficient by 2.,cer3_24_c + h2o_c --> 2.0 h_c + sphings_c + tca_c
+UF01761_C,changed,"{""H"": -2.0}","{""charge"": 2.0}",Adjusted h_c coefficient by 2.,cer3_26_c + h2o_c --> 2.0 h_c + hxca_c + sphings_c
+UF01998_C,changed,"{""H"": 8.0, ""charge"": -2.0}","{""charge"": -10.0}",Adjusted h_c coefficient by -8.,3hddcACP_c + 10.0 h_c --> ddc2eACP_c + h2o_c
+UF02001_C,changed,"{""H"": 4.0, ""charge"": -2.0}","{""charge"": -6.0}",Adjusted h_c coefficient by -4.,3hhxdACP_c + 6.0 h_c --> h2o_c + hxd2eACP_c
+UF02019_M,changed,"{""H"": 4.0}","{""charge"": -4.0}",Adjusted h_m coefficient by -4.,2E5Zddccoa_m + h2o_m + 4.0 h_m --> 3h5Zddccoa_m
+UF02019_X,changed,"{""H"": 4.0}","{""charge"": -4.0}",Adjusted h_x coefficient by -4.,2E5Zddccoa_x + h2o_x + 4.0 h_x --> 3h5Zddccoa_x
+UF02067_R,changed,"{""H"": -4.0}","{""charge"": 4.0}",Adjusted h_r coefficient by 4.,3hxccoa_r --> 2Ehxccoa_r + h2o_r + 4.0 h_r
+UF02068_M,changed,"{""H"": 4.0}","{""charge"": -4.0}",Adjusted h_m coefficient by -4.,2Etrdcoa_m + h2o_m + 4.0 h_m --> 3htrdcoa_m
+UF02068_X,changed,"{""H"": 4.0}","{""charge"": -4.0}",Adjusted h_x coefficient by -4.,2Etrdcoa_x + h2o_x + 4.0 h_x --> 3htrdcoa_x
+UF02081_M,changed,"{""H"": -6.0}","{""charge"": 6.0}",Adjusted h_m coefficient by 6.,2Etdcoa_m + h2o_m --> 3htdcoa_m + 6.0 h_m
+UF02081_X,changed,"{""H"": -6.0}","{""charge"": 6.0}",Adjusted h_x coefficient by 6.,2Etdcoa_x + h2o_x --> 3htdcoa_x + 6.0 h_x
+UF02101_C,changed,"{""H"": 6.0, ""charge"": -2.0}","{""charge"": -8.0}",Adjusted h_c coefficient by -6.,3hbtACP_c + 8.0 h_c --> bt2eACP_c + h2o_c
+UF02315_X,changed,"{""H"": -3.0, ""charge"": -1.0}","{""charge"": 2.0}",Adjusted h_x coefficient by 3.,3Zoca_x + atp_x + coa_x --> 3Zoccoa_x + amp_x + 3.0 h_x + ppi_x
+UF03091_TCM,changed,"{""H"": -3.0}","{""charge"": 3.0}",Adjusted h_c coefficient by 3.,9Z12Z15Zlnlncgcoa_c + atp_c + 2.0 h2o_c --> 9Z12Z15Zlnlncg_m + adp_c + coa_m + 4.0 h_c + pi_c
+UF03098_TCM,changed,"{""H"": -1.0}","{""charge"": 1.0}",Adjusted h_c coefficient by 1.,atp_c + 2.0 h2o_c + stcoa_c --> adp_c + coa_m + 3.0 h_c + ocda_m + pi_c

@@ -1,0 +1,10 @@
+{
+  "output_dir": "/home/tlu/Desktop/Jorge/VS CODE/community_model_comparison_package/reports/118_shared52_biomass_precursor_producibility",
+  "medium": "/home/tlu/Desktop/Jorge/VS CODE/community_model_comparison_package/media/biomass_variant_panel/final_shared_proline_1.csv",
+  "rows": 104,
+  "models": [
+    "Bs",
+    "Fg"
+  ],
+  "nonproducible_terms": 0
+}

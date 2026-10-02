@@ -1,0 +1,13 @@
+{
+  "final_medium": "/home/tlu/Desktop/Jorge/VS CODE/community_model_comparison_package/media/final_shared_barley_medium/final_shared_barley_community_medium_dual_namespace.csv",
+  "final_medium_rows_excluding_header": 125,
+  "source_latest_expanded_medium": "/home/tlu/Desktop/Jorge/VS CODE/community_model_comparison_package/media/shared_barley_medium_versions/04_shared_barley_medium_with_fusarium_expansion_dual_namespace.csv",
+  "final_adjustment_after_source_latest_expanded_medium": {
+    "reaction": "EX_proL_m",
+    "old_flux": 0.1,
+    "new_flux": 1.0,
+    "reason": "Finalized Fusarium fujikuroi-derived biomass was specifically proline-limited under the shared medium. Relaxing this already-present component restored a more reasonable Fusarium growth rate without affecting Bipolaris growth."
+  },
+  "historical_versions_folder": "/home/tlu/Desktop/Jorge/VS CODE/community_model_comparison_package/media/shared_barley_medium_versions",
+  "interpretation": "Use this as the single final shared barley/community medium for Bipolaris, Fusarium, RAVEN/independent Bipolaris, HvSC1, and HvSC2 comparisons. It standardizes the external scenario; individual models only use compatible exchange routes."
+}
