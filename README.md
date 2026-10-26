@@ -68,12 +68,6 @@ the thesis analyses. `provenance/analysis_registry.tsv` states which script,
 models, medium, biomass and manifests belong to each analysis, and whether its
 outputs are archived here.
 
-The dedicated bacterial growth-allocation resilience analysis for the former
-Section 3.3.3, *Fungal integration produces larger predicted bacterial
-growth-allocation shifts in HvSC2*, is intentionally excluded. In particular,
-this repository does not contain Script 132 or the `132_shared52_fungal_
-integration_resilience` report directory.
-
 ## Verification
 
 Run the structural archive check without rerunning any modelling analysis:

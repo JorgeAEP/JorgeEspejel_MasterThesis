@@ -27,27 +27,13 @@ REQUIRED = [
     "provenance/analysis_registry.tsv",
 ]
 
-FORBIDDEN_PARTS = [
-    "132_analyse_shared52_fungal_integration_resilience.py",
-    "132_shared52_fungal_integration_resilience",
-]
-
-
 def main() -> int:
     missing = [path for path in REQUIRED if not (ROOT / path).is_file()]
-    forbidden = [
-        path.relative_to(ROOT).as_posix()
-        for path in ROOT.rglob("*")
-        if any(part in path.as_posix() for part in FORBIDDEN_PARTS)
-    ]
 
     if missing:
         print("Missing required files:")
         print("\n".join(f"- {path}" for path in missing))
-    if forbidden:
-        print("Forbidden Section 3.3.3 materials found:")
-        print("\n".join(f"- {path}" for path in forbidden))
-    if missing or forbidden:
+    if missing:
         return 1
 
     bacterial_models = list((ROOT / "community_modelling/carvefungi/models/bacterial_models").glob("HvSC*/*.xml"))
