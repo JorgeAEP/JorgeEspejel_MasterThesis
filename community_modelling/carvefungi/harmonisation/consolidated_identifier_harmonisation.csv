@@ -1,0 +1,208 @@
+mapping_scope,source_identifier,kegg_id,chemical_name,target_metabolite_id,target_exchange_id,mapping_status,equivalence_basis
+CarveFungi fungal interface,C00007,C00007,O2 O2,C00007_e,EX_C00007_e,retained/reopened,curated KEGG-to-fungal interface mapping
+CarveFungi fungal interface,C00009,C00009,Phosphate,C00009_e,EX_C00009_e,retained/reopened,curated KEGG-to-fungal interface mapping
+CarveFungi fungal interface,C00011,C00011,CO2 CO2,C00011_e,EX_C00011_e,created,curated KEGG-to-fungal interface mapping
+CarveFungi fungal interface,C00022,C00022,Pyruvate,C00022_e,EX_C00022_e,created,curated KEGG-to-fungal interface mapping
+CarveFungi fungal interface,C00026,C00026,2-Oxoglutarate,C00026_e,EX_C00026_e,created,curated KEGG-to-fungal interface mapping
+CarveFungi fungal interface,C00031,C00031,D-Glucose,C00031_e,EX_C00031_e,retained/reopened,curated KEGG-to-fungal interface mapping
+CarveFungi fungal interface,C00033,C00033,Acetate,C00033_e,EX_C00033_e,created,curated KEGG-to-fungal interface mapping
+CarveFungi fungal interface,C00037,C00037,Glycine,C00037_e,EX_C00037_e,created,curated KEGG-to-fungal interface mapping
+CarveFungi fungal interface,C00042,C00042,Succinate,C00042_e,EX_C00042_e,created,curated KEGG-to-fungal interface mapping
+CarveFungi fungal interface,C00058,C00058,Formate,C00058_e,EX_C00058_e,created,curated KEGG-to-fungal interface mapping
+CarveFungi fungal interface,C00059,C00059,Sulfate,C00059_e,EX_C00059_e,retained/reopened,curated KEGG-to-fungal interface mapping
+CarveFungi fungal interface,C00086,C00086,Urea CH4N2O,C00086_e,EX_C00086_e,created,curated KEGG-to-fungal interface mapping
+CarveFungi fungal interface,C00088,C00088,Nitrite,C00088_e,EX_C00088_e,created,curated KEGG-to-fungal interface mapping
+CarveFungi fungal interface,C00089,C00089,Sucrose C12H22O11,C00089_e,EX_C00089_e,created,curated KEGG-to-fungal interface mapping
+CarveFungi fungal interface,C00099,C00099,Beta-Alanine,C00099_e,EX_C00099_e,created,curated KEGG-to-fungal interface mapping
+CarveFungi fungal interface,C00109,C00109,2-Oxobutanoate,C00109_e,EX_C00109_e,created,curated KEGG-to-fungal interface mapping
+CarveFungi fungal interface,C00114,C00114,Choline C5H14NO,C00114_e,EX_C00114_e,created,curated KEGG-to-fungal interface mapping
+CarveFungi fungal interface,C00116,C00116,Glycerol,C00116_e,EX_C00116_e,created,curated KEGG-to-fungal interface mapping
+CarveFungi fungal interface,C00120,C00120,Biotin,C00120_e,EX_C00120_e,retained/reopened,curated KEGG-to-fungal interface mapping
+CarveFungi fungal interface,C00122,C00122,Fumarate,C00122_e,EX_C00122_e,created,curated KEGG-to-fungal interface mapping
+CarveFungi fungal interface,C00140,C00140,N-Acetyl-D-glucosamine,C00140_e,EX_C00140_e,created,curated KEGG-to-fungal interface mapping
+CarveFungi fungal interface,C00149,C00149,L-Malate,C00149_e,EX_C00149_e,created,curated KEGG-to-fungal interface mapping
+CarveFungi fungal interface,C00153,C00153,Nicotinamide,C00153_e,EX_C00153_e,created,curated KEGG-to-fungal interface mapping
+CarveFungi fungal interface,C00158,C00158,Citrate,C00158_e,EX_C00158_e,created,curated KEGG-to-fungal interface mapping
+CarveFungi fungal interface,C00159,C00159,D-Mannose,C00159_e,EX_C00159_e,created,curated KEGG-to-fungal interface mapping
+CarveFungi fungal interface,C00160,C00160,Glycolate C2H3O3,C00160_e,EX_C00160_e,created,curated KEGG-to-fungal interface mapping
+CarveFungi fungal interface,C00164,C00164,Acetoacetate,C00164_e,EX_C00164_e,created,curated KEGG-to-fungal interface mapping
+CarveFungi fungal interface,C00181,C00181,D-Xylose,C00181_e,EX_C00181_e,created,curated KEGG-to-fungal interface mapping
+CarveFungi fungal interface,C00184,C00184,Dihydroxyacetone,C00184_e,EX_C00184_e,created,curated KEGG-to-fungal interface mapping
+CarveFungi fungal interface,C00186,C00186,L-Lactate,C00186_e,EX_C00186_e,created,curated KEGG-to-fungal interface mapping
+CarveFungi fungal interface,C00188,C00188,L-Threonine,C00188_e,EX_C00188_e,created,curated KEGG-to-fungal interface mapping
+CarveFungi fungal interface,C00189,C00189,Ethanolamine,C00189_e,EX_C00189_e,created,curated KEGG-to-fungal interface mapping
+CarveFungi fungal interface,C00191,C00191,D-Glucuronate,C00191_e,EX_C00191_e,created,curated KEGG-to-fungal interface mapping
+CarveFungi fungal interface,C00209,C00209,Oxalate,C00209_e,EX_C00209_e,created,curated KEGG-to-fungal interface mapping
+CarveFungi fungal interface,C00216,C00216,D Arabinose C5H10O5,C00216_e,EX_C00216_e,created,curated KEGG-to-fungal interface mapping
+CarveFungi fungal interface,C00244,C00244,Nitrate,C00244_e,EX_C00244_e,created,curated KEGG-to-fungal interface mapping
+CarveFungi fungal interface,C00253,C00253,Nicotinate,C00253_e,EX_C00253_e,retained/reopened,curated KEGG-to-fungal interface mapping
+CarveFungi fungal interface,C00255,C00255,Riboflavin C17H20N4O6,C00255_e,EX_C00255_e,retained/reopened,curated KEGG-to-fungal interface mapping
+CarveFungi fungal interface,C00256,C00256,D-Lactate,C00256_e,EX_C00256_e,created,curated KEGG-to-fungal interface mapping
+CarveFungi fungal interface,C00257,C00257,D Gluconate C6H11O7,C00257_e,EX_C00257_e,created,curated KEGG-to-fungal interface mapping
+CarveFungi fungal interface,C00258,C00258,(R)-Glycerate,C00258_e,EX_C00258_e,created,curated KEGG-to-fungal interface mapping
+CarveFungi fungal interface,C00263,C00263,L-Homoserine,C00263_e,EX_C00263_e,created,curated KEGG-to-fungal interface mapping
+CarveFungi fungal interface,C00267,C00267,Alpha D-glucose,C00267_e,EX_C00267_e,created,curated KEGG-to-fungal interface mapping
+CarveFungi fungal interface,C00283,C00283,Hydrogen sulfide,C00283_e,EX_C00283_e,created,curated KEGG-to-fungal interface mapping
+CarveFungi fungal interface,C00312,C00312,L-Xylulose,C00312_e,EX_C00312_e,created,curated KEGG-to-fungal interface mapping
+CarveFungi fungal interface,C00314,C00314,Pyridoxine,C00314_e,EX_C00314_e,created,curated KEGG-to-fungal interface mapping
+CarveFungi fungal interface,C00327,C00327,L-Citrulline,C00327_e,EX_C00327_e,created,curated KEGG-to-fungal interface mapping
+CarveFungi fungal interface,C00329,C00329,D-Glucosamine,C00329_e,EX_C00329_e,created,curated KEGG-to-fungal interface mapping
+CarveFungi fungal interface,C00333,C00333,D-Galacturonate,C00333_e,EX_C00333_e,created,curated KEGG-to-fungal interface mapping
+CarveFungi fungal interface,C00334,C00334,4-Aminobutanoate,C00334_e,EX_C00334_e,created,curated KEGG-to-fungal interface mapping
+CarveFungi fungal interface,C00392,C00392,D-Mannitol,C00392_e,EX_C00392_e,created,curated KEGG-to-fungal interface mapping
+CarveFungi fungal interface,C00407,C00407,L-Isoleucine,C00407_e,EX_C00407_e,created,curated KEGG-to-fungal interface mapping
+CarveFungi fungal interface,C00469,C00469,Ethanol,C00469_e,EX_C00469_e,created,curated KEGG-to-fungal interface mapping
+CarveFungi fungal interface,C00489,C00489,Glutarate,C00489_e,EX_C00489_e,created,curated KEGG-to-fungal interface mapping
+CarveFungi fungal interface,C00504,C00504,Folate,C00504_e,EX_C00504_e,retained/reopened,curated KEGG-to-fungal interface mapping
+CarveFungi fungal interface,C00506,C00506,L-Cysteate,C00506_e,EX_C00506_e,created,curated KEGG-to-fungal interface mapping
+CarveFungi fungal interface,C00507,C00507,L-Rhamnose,C00507_e,EX_C00507_e,created,curated KEGG-to-fungal interface mapping
+CarveFungi fungal interface,C00532,C00532,L Arabinitol C5H12O5,C00532_e,EX_C00532_e,created,curated KEGG-to-fungal interface mapping
+CarveFungi fungal interface,C00534,C00534,Pyridoxamine,C00534_e,EX_C00534_e,created,curated KEGG-to-fungal interface mapping
+CarveFungi fungal interface,C00568,C00568,4-Aminobenzoate,C00568_e,EX_C00568_e,retained/reopened,curated KEGG-to-fungal interface mapping
+CarveFungi fungal interface,C00719,C00719,Glycine betaine,C00719_e,EX_C00719_e,created,curated KEGG-to-fungal interface mapping
+CarveFungi fungal interface,C00794,C00794,D-Sorbitol,C00794_e,EX_C00794_e,created,curated KEGG-to-fungal interface mapping
+CarveFungi fungal interface,C00864,C00864,(R)-Pantothenate,C00864_e,EX_C00864_e,created,curated KEGG-to-fungal interface mapping
+CarveFungi fungal interface,C00880,C00880,D-Galactonate,C00880_e,EX_C00880_e,created,curated KEGG-to-fungal interface mapping
+CarveFungi fungal interface,C01026,C01026,"N,N-Dimethylglycine",C01026_e,EX_C01026_e,created,curated KEGG-to-fungal interface mapping
+CarveFungi fungal interface,C01083,C01083,Trehalose,C01083_e,EX_C01083_e,created,curated KEGG-to-fungal interface mapping
+CarveFungi fungal interface,C01089,C01089,(R)-3-Hydroxybutanoate,C01089_e,EX_C01089_e,created,curated KEGG-to-fungal interface mapping
+CarveFungi fungal interface,C01697,C01697,Galactitol,C01697_e,EX_C01697_e,created,curated KEGG-to-fungal interface mapping
+CarveFungi fungal interface,C01879,C01879,5-Oxoproline,C01879_e,EX_C01879_e,created,curated KEGG-to-fungal interface mapping
+CarveFungi fungal interface,C01904,C01904,D-Arabitol,C01904_e,EX_C01904_e,created,curated KEGG-to-fungal interface mapping
+CarveFungi fungal interface,C05684,C05684,Selenite,C05684_e,EX_C05684_e,created,curated KEGG-to-fungal interface mapping
+CarveFungi fungal interface,C05697,C05697,Selenate,C05697_e,EX_C05697_e,created,curated KEGG-to-fungal interface mapping
+CarveFungi fungal interface,C06232,C06232,Molybdate,C06232_e,EX_C06232_e,created,curated KEGG-to-fungal interface mapping
+CarveFungi fungal interface,C06473,C06473,2-Dehydro-D-gluconate,C06473_e,EX_C06473_e,created,curated KEGG-to-fungal interface mapping
+CarveFungi fungal interface,C11476,C11476,L-Arabinose,C11476_e,EX_C11476_e,created,curated KEGG-to-fungal interface mapping
+CarveFungi fungal interface,C15930,C15930,L-Galactonate,C15930_e,EX_C15930_e,created,curated KEGG-to-fungal interface mapping
+CarveFungi medium mapping,EX_R_3httdca_m,,,,,unmatched,medium exchange mapped through KEGG compound identity
+CarveFungi medium mapping,EX_acgam1p_m,,,,,unmatched,medium exchange mapped through KEGG compound identity
+CarveFungi medium mapping,EX_acmana_m,,,,,unmatched,medium exchange mapped through KEGG compound identity
+CarveFungi medium mapping,EX_ca2_m,,,,,unmatched,medium exchange mapped through KEGG compound identity
+CarveFungi medium mapping,EX_cl_m,,,,,unmatched,medium exchange mapped through KEGG compound identity
+CarveFungi medium mapping,EX_cobalt2_m,,,,,unmatched,medium exchange mapped through KEGG compound identity
+CarveFungi medium mapping,EX_cu2_m,,,,,unmatched,medium exchange mapped through KEGG compound identity
+CarveFungi medium mapping,EX_dachi_m,,,,,unmatched,medium exchange mapped through KEGG compound identity
+CarveFungi medium mapping,EX_gly_asn__L_m,,,,,unmatched,medium exchange mapped through KEGG compound identity
+CarveFungi medium mapping,EX_glygln_m,,,,,unmatched,medium exchange mapped through KEGG compound identity
+CarveFungi medium mapping,EX_k_m,,,,,unmatched,medium exchange mapped through KEGG compound identity
+CarveFungi medium mapping,EX_mg2_m,,,,,unmatched,medium exchange mapped through KEGG compound identity
+CarveFungi medium mapping,EX_mn2_m,,,,,unmatched,medium exchange mapped through KEGG compound identity
+CarveFungi medium mapping,EX_na1_m,,,,,unmatched,medium exchange mapped through KEGG compound identity
+CarveFungi medium mapping,EX_ni2_m,,,,,unmatched,medium exchange mapped through KEGG compound identity
+CarveFungi medium mapping,EX_zn2_m,,,,,unmatched,medium exchange mapped through KEGG compound identity
+CarveFungi medium mapping,EX_C00001_m,C00001,water,h2o_e,UF03314_E,matched,medium exchange mapped through KEGG compound identity
+CarveFungi medium mapping,EX_C00007_m,C00007,dioxygen,o2_e,UF03382_E,matched,medium exchange mapped through KEGG compound identity
+CarveFungi medium mapping,EX_C00009_m,C00009,hydrogenphosphate,pi_e,UF02765_E,matched,medium exchange mapped through KEGG compound identity
+CarveFungi medium mapping,EX_C00014_m,C00014,ammonium,nh4_e,UF03376_E,matched,medium exchange mapped through KEGG compound identity
+CarveFungi medium mapping,EX_C00025_m,C00025,L-glutamate,gluL_e,UF03292_E,matched,medium exchange mapped through KEGG compound identity
+CarveFungi medium mapping,EX_C00031_m,C00031,alpha-D-glucose,glcD_e,UF03288_E,matched,medium exchange mapped through KEGG compound identity
+CarveFungi medium mapping,EX_C00037_m,C00037,glycine zwitterion,gly_e,UF03304_E,matched,medium exchange mapped through KEGG compound identity
+CarveFungi medium mapping,EX_C00041_m,C00041,L-alanine zwitterion,alaL_e,UF03176_E,matched,medium exchange mapped through KEGG compound identity
+CarveFungi medium mapping,EX_C00042_m,C00042,succinate(2-),succ_e,UF02804_E,matched,medium exchange mapped through KEGG compound identity
+CarveFungi medium mapping,EX_C00043_m,C00043,,,,unmatched,medium exchange mapped through KEGG compound identity
+CarveFungi medium mapping,EX_C00049_m,C00049,L-aspartate,aspL_e,UF02552_E,matched,medium exchange mapped through KEGG compound identity
+CarveFungi medium mapping,EX_C00059_m,C00059,sulfate,so4_e,UF03456_E,matched,medium exchange mapped through KEGG compound identity
+CarveFungi medium mapping,EX_C00065_m,C00065,L-serine zwitterion,serL_e,UF03454_E,matched,medium exchange mapped through KEGG compound identity
+CarveFungi medium mapping,EX_C00080_m,C00080,H+,h_e,UF03474_E,matched,medium exchange mapped through KEGG compound identity
+CarveFungi medium mapping,EX_C00082_m,C00082,L-tyrosine zwitterion,tyrL_e,UF02826_E,matched,medium exchange mapped through KEGG compound identity
+CarveFungi medium mapping,EX_C00089_m,C00089,sucrose,sucr_e,UF03468_E,matched,medium exchange mapped through KEGG compound identity
+CarveFungi medium mapping,EX_C00095_m,C00095,D-fructose,fru_e,UF03275_E,matched,medium exchange mapped through KEGG compound identity
+CarveFungi medium mapping,EX_C00116_m,C00116,glycerol,glyc_e,UF03302_E,matched,medium exchange mapped through KEGG compound identity
+CarveFungi medium mapping,EX_C00122_m,C00122,fumarate(2-),fum_e,UF02628_E,matched,medium exchange mapped through KEGG compound identity
+CarveFungi medium mapping,EX_C00123_m,C00123,L-leucine zwitterion,leuL_e,UF03351_E,matched,medium exchange mapped through KEGG compound identity
+CarveFungi medium mapping,EX_C00148_m,C00148,L-proline zwitterion,proL_e,UF03424_E,matched,medium exchange mapped through KEGG compound identity
+CarveFungi medium mapping,EX_C00149_m,C00149,(S)-malate,malL_e,UF03510_E,matched,medium exchange mapped through KEGG compound identity
+CarveFungi medium mapping,EX_C00152_m,C00152,L-asparagine zwitterion,asnL_e,UF02550_E,matched,medium exchange mapped through KEGG compound identity
+CarveFungi medium mapping,EX_C00158_m,C00158,citrate(3-),cit_e,UF02577_E,matched,medium exchange mapped through KEGG compound identity
+CarveFungi medium mapping,EX_C00183_m,C00183,L-valine zwitterion,valL_e,UF03496_E,matched,medium exchange mapped through KEGG compound identity
+CarveFungi medium mapping,EX_C00188_m,C00188,L-threonine zwitterion,thrL_e,UF03479_E,matched,medium exchange mapped through KEGG compound identity
+CarveFungi medium mapping,EX_C00208_m,C00208,maltose,malt_e,UF02707_E,matched,medium exchange mapped through KEGG compound identity
+CarveFungi medium mapping,EX_C00255_m,C00255,riboflavin(1-),ribflv_e,UF02786_E,matched,medium exchange mapped through KEGG compound identity
+CarveFungi medium mapping,EX_C00296_m,C00296,(-)-quinate,quin_e,UF03433_E,matched,medium exchange mapped through KEGG compound identity
+CarveFungi medium mapping,EX_C00334_m,C00334,4-aminobutanoate,4abut_e,UF03137_E,matched,medium exchange mapped through KEGG compound identity
+CarveFungi medium mapping,EX_C00378_m,C00378,thiamine(1+),thm_e,UF03477_E,matched,medium exchange mapped through KEGG compound identity
+CarveFungi medium mapping,EX_C00407_m,C00407,L-isoleucine zwitterion,ileL_e,UF03339_E,matched,medium exchange mapped through KEGG compound identity
+CarveFungi medium mapping,EX_C00417_m,C00417,,,,unmatched,medium exchange mapped through KEGG compound identity
+CarveFungi medium mapping,EX_C00483_m,C00483,,,,unmatched,medium exchange mapped through KEGG compound identity
+CarveFungi medium mapping,EX_C00493_m,C00493,,,,unmatched,medium exchange mapped through KEGG compound identity
+CarveFungi medium mapping,EX_C00504_m,C00504,folate(2-),fol_e,UF03032_E,matched,medium exchange mapped through KEGG compound identity
+CarveFungi medium mapping,EX_C06232_m,C06232,,,,unmatched,medium exchange mapped through KEGG compound identity
+CarveFungi medium mapping,EX_C14818_m,C14818,iron(2+),fe2_e,UF03268_E,matched,medium exchange mapped through KEGG compound identity
+CarveFungi medium mapping,EX_C14819_m,C14819,,,,unmatched,medium exchange mapped through KEGG compound identity
+RAVEN bridge,C00007,C00007,O2 O2,C00007_e,EX_C00007_e,EXTRACELLULAR_WITH_EXCHANGE,curated KEGG-to-RAVEN bridge mapping
+RAVEN bridge,C00009,C00009,Phosphate,C00009_e,EX_C00009_e,EXTRACELLULAR_WITH_EXCHANGE,curated KEGG-to-RAVEN bridge mapping
+RAVEN bridge,C00011,C00011,CO2 CO2,C00011_e,EX_C00011_e,INTRACELLULAR_ONLY,curated KEGG-to-RAVEN bridge mapping
+RAVEN bridge,C00022,C00022,Pyruvate,C00022_e,EX_C00022_e,EXTRACELLULAR_WITH_EXCHANGE,curated KEGG-to-RAVEN bridge mapping
+RAVEN bridge,C00026,C00026,2-Oxoglutarate,C00026_e,EX_C00026_e,EXTRACELLULAR_WITH_EXCHANGE,curated KEGG-to-RAVEN bridge mapping
+RAVEN bridge,C00031,C00031,D-Glucose,C00031_e,EX_C00031_e,EXTRACELLULAR_WITH_EXCHANGE,curated KEGG-to-RAVEN bridge mapping
+RAVEN bridge,C00033,C00033,Acetate,C00033_e,EX_C00033_e,INTRACELLULAR_ONLY,curated KEGG-to-RAVEN bridge mapping
+RAVEN bridge,C00037,C00037,Glycine,C00037_e,EX_C00037_e,EXTRACELLULAR_WITH_EXCHANGE,curated KEGG-to-RAVEN bridge mapping
+RAVEN bridge,C00042,C00042,Succinate,C00042_e,EX_C00042_e,EXTRACELLULAR_WITH_EXCHANGE,curated KEGG-to-RAVEN bridge mapping
+RAVEN bridge,C00058,C00058,Formate,C00058_e,EX_C00058_e,INTRACELLULAR_ONLY,curated KEGG-to-RAVEN bridge mapping
+RAVEN bridge,C00059,C00059,Sulfate,C00059_e,EX_C00059_e,EXTRACELLULAR_WITH_EXCHANGE,curated KEGG-to-RAVEN bridge mapping
+RAVEN bridge,C00086,C00086,Urea CH4N2O,C00086_e,EX_C00086_e,INTRACELLULAR_ONLY,curated KEGG-to-RAVEN bridge mapping
+RAVEN bridge,C00088,C00088,Nitrite,C00088_e,EX_C00088_e,INTRACELLULAR_ONLY,curated KEGG-to-RAVEN bridge mapping
+RAVEN bridge,C00089,C00089,Sucrose C12H22O11,C00089_e,EX_C00089_e,EXTRACELLULAR_WITH_EXCHANGE,curated KEGG-to-RAVEN bridge mapping
+RAVEN bridge,C00099,C00099,Beta-Alanine,C00099_e,EX_C00099_e,INTRACELLULAR_ONLY,curated KEGG-to-RAVEN bridge mapping
+RAVEN bridge,C00109,C00109,2-Oxobutanoate,C00109_e,EX_C00109_e,INTRACELLULAR_ONLY,curated KEGG-to-RAVEN bridge mapping
+RAVEN bridge,C00114,C00114,Choline C5H14NO,C00114_e,EX_C00114_e,INTRACELLULAR_ONLY,curated KEGG-to-RAVEN bridge mapping
+RAVEN bridge,C00116,C00116,Glycerol,C00116_e,EX_C00116_e,EXTRACELLULAR_WITH_EXCHANGE,curated KEGG-to-RAVEN bridge mapping
+RAVEN bridge,C00120,C00120,Biotin,C00120_e,EX_C00120_e,EXTRACELLULAR_WITH_EXCHANGE,curated KEGG-to-RAVEN bridge mapping
+RAVEN bridge,C00122,C00122,Fumarate,C00122_e,EX_C00122_e,EXTRACELLULAR_WITH_EXCHANGE,curated KEGG-to-RAVEN bridge mapping
+RAVEN bridge,C00140,C00140,N-Acetyl-D-glucosamine,C00140_e,EX_C00140_e,INTRACELLULAR_ONLY,curated KEGG-to-RAVEN bridge mapping
+RAVEN bridge,C00149,C00149,L-Malate,C00149_e,EX_C00149_e,EXTRACELLULAR_WITH_EXCHANGE,curated KEGG-to-RAVEN bridge mapping
+RAVEN bridge,C00153,C00153,Nicotinamide,C00153_e,EX_C00153_e,INTRACELLULAR_ONLY,curated KEGG-to-RAVEN bridge mapping
+RAVEN bridge,C00158,C00158,Citrate,C00158_e,EX_C00158_e,EXTRACELLULAR_WITH_EXCHANGE,curated KEGG-to-RAVEN bridge mapping
+RAVEN bridge,C00159,C00159,D-Mannose,C00159_e,EX_C00159_e,INTRACELLULAR_ONLY,curated KEGG-to-RAVEN bridge mapping
+RAVEN bridge,C00160,C00160,Glycolate C2H3O3,C00160_e,EX_C00160_e,EXTRACELLULAR_WITH_EXCHANGE,curated KEGG-to-RAVEN bridge mapping
+RAVEN bridge,C00164,C00164,Acetoacetate,C00164_e,EX_C00164_e,INTRACELLULAR_ONLY,curated KEGG-to-RAVEN bridge mapping
+RAVEN bridge,C00181,C00181,D-Xylose,C00181_e,EX_C00181_e,INTRACELLULAR_ONLY,curated KEGG-to-RAVEN bridge mapping
+RAVEN bridge,C00184,C00184,Dihydroxyacetone,C00184_e,EX_C00184_e,INTRACELLULAR_ONLY,curated KEGG-to-RAVEN bridge mapping
+RAVEN bridge,C00186,C00186,L-Lactate,C00186_e,EX_C00186_e,INTRACELLULAR_ONLY,curated KEGG-to-RAVEN bridge mapping
+RAVEN bridge,C00188,C00188,L-Threonine,C00188_e,EX_C00188_e,EXTRACELLULAR_WITH_EXCHANGE,curated KEGG-to-RAVEN bridge mapping
+RAVEN bridge,C00189,C00189,Ethanolamine,C00189_e,EX_C00189_e,INTRACELLULAR_ONLY,curated KEGG-to-RAVEN bridge mapping
+RAVEN bridge,C00191,C00191,D-Glucuronate,C00191_e,EX_C00191_e,INTRACELLULAR_ONLY,curated KEGG-to-RAVEN bridge mapping
+RAVEN bridge,C00209,C00209,Oxalate,C00209_e,EX_C00209_e,INTRACELLULAR_ONLY,curated KEGG-to-RAVEN bridge mapping
+RAVEN bridge,C00216,C00216,D Arabinose C5H10O5,C00216_e,EX_C00216_e,INTRACELLULAR_ONLY,curated KEGG-to-RAVEN bridge mapping
+RAVEN bridge,C00244,C00244,Nitrate,C00244_e,EX_C00244_e,INTRACELLULAR_ONLY,curated KEGG-to-RAVEN bridge mapping
+RAVEN bridge,C00253,C00253,Nicotinate,C00253_e,EX_C00253_e,EXTRACELLULAR_WITH_EXCHANGE,curated KEGG-to-RAVEN bridge mapping
+RAVEN bridge,C00255,C00255,Riboflavin C17H20N4O6,C00255_e,EX_C00255_e,EXTRACELLULAR_WITH_EXCHANGE,curated KEGG-to-RAVEN bridge mapping
+RAVEN bridge,C00256,C00256,D-Lactate,C00256_e,EX_C00256_e,INTRACELLULAR_ONLY,curated KEGG-to-RAVEN bridge mapping
+RAVEN bridge,C00257,C00257,D Gluconate C6H11O7,C00257_e,EX_C00257_e,INTRACELLULAR_ONLY,curated KEGG-to-RAVEN bridge mapping
+RAVEN bridge,C00258,C00258,(R)-Glycerate,C00258_e,EX_C00258_e,EXTRACELLULAR_WITH_EXCHANGE,curated KEGG-to-RAVEN bridge mapping
+RAVEN bridge,C00263,C00263,L-Homoserine,C00263_e,EX_C00263_e,EXTRACELLULAR_WITH_EXCHANGE,curated KEGG-to-RAVEN bridge mapping
+RAVEN bridge,C00267,C00267,Alpha D-glucose,C00267_e,EX_C00267_e,INTRACELLULAR_ONLY,curated KEGG-to-RAVEN bridge mapping
+RAVEN bridge,C00283,C00283,Hydrogen sulfide,C00283_e,EX_C00283_e,INTRACELLULAR_ONLY,curated KEGG-to-RAVEN bridge mapping
+RAVEN bridge,C00312,C00312,L-Xylulose,C00312_e,EX_C00312_e,INTRACELLULAR_ONLY,curated KEGG-to-RAVEN bridge mapping
+RAVEN bridge,C00314,C00314,Pyridoxine,C00314_e,EX_C00314_e,INTRACELLULAR_ONLY,curated KEGG-to-RAVEN bridge mapping
+RAVEN bridge,C00327,C00327,L-Citrulline,C00327_e,EX_C00327_e,INTRACELLULAR_ONLY,curated KEGG-to-RAVEN bridge mapping
+RAVEN bridge,C00329,C00329,D-Glucosamine,C00329_e,EX_C00329_e,INTRACELLULAR_ONLY,curated KEGG-to-RAVEN bridge mapping
+RAVEN bridge,C00333,C00333,D-Galacturonate,C00333_e,EX_C00333_e,INTRACELLULAR_ONLY,curated KEGG-to-RAVEN bridge mapping
+RAVEN bridge,C00334,C00334,4-Aminobutanoate,C00334_e,EX_C00334_e,EXTRACELLULAR_WITH_EXCHANGE,curated KEGG-to-RAVEN bridge mapping
+RAVEN bridge,C00392,C00392,D-Mannitol,C00392_e,EX_C00392_e,INTRACELLULAR_ONLY,curated KEGG-to-RAVEN bridge mapping
+RAVEN bridge,C00407,C00407,L-Isoleucine,C00407_e,EX_C00407_e,EXTRACELLULAR_WITH_EXCHANGE,curated KEGG-to-RAVEN bridge mapping
+RAVEN bridge,C00469,C00469,Ethanol,C00469_e,EX_C00469_e,INTRACELLULAR_ONLY,curated KEGG-to-RAVEN bridge mapping
+RAVEN bridge,C00489,C00489,Glutarate,C00489_e,EX_C00489_e,INTRACELLULAR_ONLY,curated KEGG-to-RAVEN bridge mapping
+RAVEN bridge,C00504,C00504,Folate,C00504_e,EX_C00504_e,EXTRACELLULAR_WITH_EXCHANGE,curated KEGG-to-RAVEN bridge mapping
+RAVEN bridge,C00506,C00506,L-Cysteate,C00506_e,EX_C00506_e,INTRACELLULAR_ONLY,curated KEGG-to-RAVEN bridge mapping
+RAVEN bridge,C00507,C00507,L-Rhamnose,C00507_e,EX_C00507_e,INTRACELLULAR_ONLY,curated KEGG-to-RAVEN bridge mapping
+RAVEN bridge,C00532,C00532,L Arabinitol C5H12O5,C00532_e,EX_C00532_e,INTRACELLULAR_ONLY,curated KEGG-to-RAVEN bridge mapping
+RAVEN bridge,C00534,C00534,Pyridoxamine,C00534_e,EX_C00534_e,INTRACELLULAR_ONLY,curated KEGG-to-RAVEN bridge mapping
+RAVEN bridge,C00568,C00568,4-Aminobenzoate,C00568_e,EX_C00568_e,EXTRACELLULAR_WITH_EXCHANGE,curated KEGG-to-RAVEN bridge mapping
+RAVEN bridge,C00719,C00719,Glycine betaine,C00719_e,EX_C00719_e,INTRACELLULAR_ONLY,curated KEGG-to-RAVEN bridge mapping
+RAVEN bridge,C00794,C00794,D-Sorbitol,C00794_e,EX_C00794_e,INTRACELLULAR_ONLY,curated KEGG-to-RAVEN bridge mapping
+RAVEN bridge,C00864,C00864,(R)-Pantothenate,C00864_e,EX_C00864_e,INTRACELLULAR_ONLY,curated KEGG-to-RAVEN bridge mapping
+RAVEN bridge,C00880,C00880,D-Galactonate,C00880_e,EX_C00880_e,INTRACELLULAR_ONLY,curated KEGG-to-RAVEN bridge mapping
+RAVEN bridge,C01026,C01026,"N,N-Dimethylglycine",C01026_e,EX_C01026_e,INTRACELLULAR_ONLY,curated KEGG-to-RAVEN bridge mapping
+RAVEN bridge,C01083,C01083,Trehalose,C01083_e,EX_C01083_e,INTRACELLULAR_ONLY,curated KEGG-to-RAVEN bridge mapping
+RAVEN bridge,C01089,C01089,(R)-3-Hydroxybutanoate,C01089_e,EX_C01089_e,INTRACELLULAR_ONLY,curated KEGG-to-RAVEN bridge mapping
+RAVEN bridge,C01697,C01697,Galactitol,C01697_e,EX_C01697_e,INTRACELLULAR_ONLY,curated KEGG-to-RAVEN bridge mapping
+RAVEN bridge,C01879,C01879,5-Oxoproline,C01879_e,EX_C01879_e,EXTRACELLULAR_WITH_EXCHANGE,curated KEGG-to-RAVEN bridge mapping
+RAVEN bridge,C01904,C01904,D-Arabitol,C01904_e,EX_C01904_e,INTRACELLULAR_ONLY,curated KEGG-to-RAVEN bridge mapping
+RAVEN bridge,C05684,C05684,Selenite,C05684_e,EX_C05684_e,INTRACELLULAR_ONLY,curated KEGG-to-RAVEN bridge mapping
+RAVEN bridge,C05697,C05697,Selenate,C05697_e,EX_C05697_e,INTRACELLULAR_ONLY,curated KEGG-to-RAVEN bridge mapping
+RAVEN bridge,C06232,C06232,Molybdate,C06232_e,EX_C06232_e,INTRACELLULAR_ONLY,curated KEGG-to-RAVEN bridge mapping
+RAVEN bridge,C06473,C06473,2-Dehydro-D-gluconate,C06473_e,EX_C06473_e,EXTRACELLULAR_WITH_EXCHANGE,curated KEGG-to-RAVEN bridge mapping
+RAVEN bridge,C11476,C11476,L-Arabinose,C11476_e,EX_C11476_e,INTRACELLULAR_ONLY,curated KEGG-to-RAVEN bridge mapping
+RAVEN bridge,C15930,C15930,L-Galactonate,C15930_e,EX_C15930_e,INTRACELLULAR_ONLY,curated KEGG-to-RAVEN bridge mapping

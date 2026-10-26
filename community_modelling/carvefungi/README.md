@@ -16,7 +16,8 @@ the sensitivity analyses. `biomass/` retains the shared baseline and the
 species-specific biomass construction scripts.
 
 `harmonisation/` contains the fungal interface changes, external-identifier
-crosswalks, medium-mapping provenance and exchange-coverage audit. The
+crosswalks, the consolidated source-to-target identifier harmonisation table,
+medium-mapping provenance and exchange-coverage audit. The
 scripts cover community preparation, MICOM runs, growth/precursor analyses,
 niche overlap and exchange/cross-feeding screens. The former resilience script
 for Section 3.3.3 is intentionally absent.

@@ -1,6 +1,6 @@
 ./.gitignore	43
 ./README.md	4287
-./community_modelling/carvefungi/README.md	1236
+./community_modelling/carvefungi/README.md	1302
 ./community_modelling/carvefungi/biomass/bipolaris_alternaria_harmonized/__pycache__/biomass_bipolaris_alternaria_harmonized.cpython-310.pyc	9320
 ./community_modelling/carvefungi/biomass/bipolaris_alternaria_harmonized/biomass_bipolaris_alternaria_harmonized.py	9759
 ./community_modelling/carvefungi/biomass/bipolaris_alternaria_harmonized/biomass_original_52_component_baseline.py	9271
@@ -9,6 +9,7 @@
 ./community_modelling/carvefungi/harmonisation/03_mapping_coverage_by_role.csv	135
 ./community_modelling/carvefungi/harmonisation/README.md	325
 ./community_modelling/carvefungi/harmonisation/added_shared_medium_interfaces.csv	751
+./community_modelling/carvefungi/harmonisation/consolidated_identifier_harmonisation.csv	25892
 ./community_modelling/carvefungi/harmonisation/fungal_curated76_interface_changes.csv	9174
 ./community_modelling/carvefungi/harmonisation/model_checksums.csv	1368
 ./community_modelling/carvefungi/harmonisation/not_added_shared_medium_interfaces.csv	198
@@ -193,6 +194,7 @@
 ./community_modelling/carvefungi/scripts/126_audit_shared52_proline_pathways.py	10485
 ./community_modelling/carvefungi/scripts/128_screen_candidate_strain_fungal_overlap.py	8757
 ./community_modelling/carvefungi/scripts/133_audit_fungal_bacterial_exchange_identifier_coverage.py	17473
+./community_modelling/carvefungi/scripts/140_build_identifier_harmonisation_table.py	5975
 ./community_modelling/carvefungi/scripts/134_classify_exchange_candidates_for_direct_transfer.py	9686
 ./community_modelling/carvefungi/scripts/135_summarize_fungal_syncom_interface_metrics.py	5886
 ./community_modelling/carvefungi/scripts/136_plot_fungal_bacterial_exchange_candidates.py	7919
@@ -362,7 +364,7 @@
 ./provenance/ARCHIVE_POLICY.md	1101
 ./provenance/analysis_registry.tsv	2933
 ./provenance/model_lineage.tsv	2504
-./provenance/script_registry.tsv	3534
+./provenance/script_registry.tsv	3790
 ./provenance/source_package_file_manifest.csv	38472
 ./provenance/source_package_summary.json	752
 ./provenance/verify_archive.py	2556
