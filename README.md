@@ -1,7 +1,7 @@
 # JorgeEspejel_MasterThesis
 
 This private repository is the reproducibility archive for the computational
-work supporting Jorge Alberto Espejel Padilla's Master Thesis on fungal--
+work supporting My Thesis on fungal--
 bacterial metabolic interactions in barley root synthetic communities.
 
 It preserves the terminal model lineage, the scripts used to construct and
