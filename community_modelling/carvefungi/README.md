@@ -19,5 +19,4 @@ species-specific biomass construction scripts.
 crosswalks, the consolidated source-to-target identifier harmonisation table,
 medium-mapping provenance and exchange-coverage audit. The
 scripts cover community preparation, MICOM runs, growth/precursor analyses,
-niche overlap and exchange/cross-feeding screens. The former resilience script
-for Section 3.3.3 is intentionally absent.
+niche overlap and exchange/cross-feeding screens.
